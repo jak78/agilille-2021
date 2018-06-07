@@ -4,13 +4,14 @@ title: Programme
 permalink: /programme/
 ---
 <div class="container">
-  <h1>Programme de l'édition {{ site.data.event.date.year }}</h1>
-  <div class="row">
-      <div class="col-md-12 col-xs-12">
-          Le programme est susceptible de changer légèrement en fonction de contraintes de dernière minute.<br>
-          Il est recommandé d'amener votre PC/Mac aux conférences signalées par le picto <i class="fa fa-laptop"></i>.
-      </div>
-  </div>
+  <!--<h1>Programme de l'édition {{ site.data.event.date.year }}</h1>-->
+  <h1>Programme de l'an dernier</h1>
+  <!--<div class="row">-->
+      <!--<div class="col-md-12 col-xs-12">-->
+          <!--Le programme est susceptible de changer légèrement en fonction de contraintes de dernière minute.<br>-->
+          <!--Il est recommandé d'amener votre PC/Mac aux conférences signalées par le picto <i class="fa fa-laptop"></i>.-->
+      <!--</div>-->
+  <!--</div>-->
   {% for day in site.data.schedule %}
   <h2>{{ day.date }}</h2>
   {% for part in day.schedule %}
@@ -67,7 +68,7 @@ permalink: /programme/
   </table>
   {% endfor %}
   {% endfor %}
-  <div class="call-to-action centered">
-      <a href="https://www.billetweb.fr/agile-tour-lille-2017" target="_blank">Je m'inscris maintenant</a>
-  </div>
+  <!--<div class="call-to-action centered">-->
+      <!--<a href="https://www.billetweb.fr/agile-tour-lille-2018" target="_blank">Je m'inscris maintenant</a>-->
+  <!--</div>-->
 </div>

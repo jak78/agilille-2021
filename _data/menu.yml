@@ -3,9 +3,9 @@
   url: /a-propos
   visible: 1
 - title: S'inscrire
-  url: https://www.billetweb.fr/agile-tour-lille-2017
+  url: https://www.billetweb.fr/agile-tour-lille-2018
   target: _blank
-  visible: 1
+  visible: 0
 - title: Soumettre un sujet
   url: /cfp
   visible: 0
@@ -23,10 +23,10 @@
   visible: 1
 - title: Devenir sponsor
   url: /devenir-sponsor
-  visible: 0
+  visible: 1
 - title: Sponsors
   url: /sponsors
-  visible: 1
+  visible: 0
 - title: Orga
   url: /organisateurs
   visible: 1
