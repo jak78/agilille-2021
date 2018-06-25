@@ -13,27 +13,9 @@ permalink: /devenir-sponsor/
     l’évènement a attiré près de 400 visiteurs participants aux 24 conférences et ateliers !</strong></p>
   <p>Cet événement est organisé bénévolement par les membres de l’association Nord Agile. Il est financé exclusivement
     par le sponsoring. C’est l’occasion de mettre en lumière les acteurs de l’agilité de la région.</p>
-  <p>Pour cette 8ème édition, nous souhaitons mettre en avant nos sponsors à travers leurs expériences et leurs
+  <p>Pour cette 9ème édition, nous souhaitons mettre en avant nos sponsors à travers leurs expériences et leurs
     démarches autour de l’agilité. En plus des conférences, nous souhaitons faciliter les échanges entre les sponsors et
     les participants pour partager les expérience et se faire connaître comme acteur de l’agilité dans la région.</p>
-  <p>Pour cela, nous proposons une nouvelle organisation de l’espace central :</p>
-  <ul>
-    <li>Un espace convivial autour du bar afin de permettre aux participants d’échanger</li>
-    <li>Des sièges disponibles pour les sponsors afin de s’isoler et d’approfondir un sujet.</li>
-    <li>Les logos des sponsors sur des affiches encadrant l’espace d’échange</li>
-    <li>Un espace Ludothèque pour partager vos expériences (photos, articles, facilitation graphique…), des jeux à faire
-      connaître, des livres,…
-    </li>
-    <li>Un espace pour présenter les personnes de votre équipe présentes sur l’évènement : une photo et une présentation
-      rapide (140 caractères) ou une citation pour permettre aux participants de les identifier et d’échanger sur leurs
-      expériences.
-    </li>
-    <li>Un espace pour présenter les speakers et une courte description de leur conférence</li>
-  </ul>
-  <p>De plus, nous vous proposons de fournir à votre équipe présente lors de l’événement les {{
-    site.data.event.date.long }} des T-Shirts avec le logo de votre entreprise, afin de permettre aux participants
-    d’identifier les membres de votre entreprise lors des conférences, entre les conférences et dans l’espace d’échange.<br>
-    Merci de nous spécifier le nombre de tee-shirts souhaités et de nous fournir votre logo au format vectoriel.</p>
   <p>Nous vous encourageons vivement à présenter une ou plusieurs conférences, retenez que les participants à l’Agile
     Tour viennent principalement pour participer aux conférences et avoir des retours d’expérience quant à l’adoption
     d’une démarche agile en entreprise.</p>
@@ -41,23 +23,25 @@ permalink: /devenir-sponsor/
     <a title="présenter une conférence ou animer un atelier"
        href="/cfp">http://2018.agiletour-lille.org/cfp/</a></p>
   <p>Le sponsoring de l’évènement vous donne droit à :</p>
-  <h2>Sponsoring Local</h2>
   <table class="table table-striped">
     <thead>
     <tr>
       <th></th>
-      <th>PLATINIUM 3000€</th>
-      <th>GOLD 2000€</th>
-      <th>MEDIA 1000€</th>
+      <th>MEDIA {{ site.data.sponsoringoffer.media.price }}</th>
+      <th>GOLD {{ site.data.sponsoringoffer.gold.price }}</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>{{ site.data.sponsoringoffer.media.available }}</th>
+      <th>{{ site.data.sponsoringoffer.gold.available }}</th>
     </tr>
     </thead>
     <tbody>
     {% for offer in site.data.sponsoringoffer.details %}
     <tr>
       <td>{{ offer.description }}</td>
-      <td>{{ offer.platinium }}</td>
-      <td>{{ offer.gold }}</td>
       <td>{{ offer.media }}</td>
+      <td>{{ offer.gold }}</td>
     </tr>
     {% endfor %}
     </tbody>
@@ -90,4 +74,6 @@ permalink: /devenir-sponsor/
     <a href="https://twitter.com/NordAgile" target="_blank">@NordAgile</a></p>
   <h2>Pour allez jusqu’au bout de votre idée…</h2>
   <p>Envoyez nous un email : <a href="mailto:agiletour@nord-agile.org">agiletour@nord-agile.org</a></p>
+  <h2>Synthèse</h2>
+  <p>Vous pouvez également retrouver les infos sous forme de synthèse imprimable: <a href="/sponsoring.pdf">sponsoring.pdf</a> </p>
 </div>
