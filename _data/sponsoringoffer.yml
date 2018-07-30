@@ -3,7 +3,7 @@ media:
   available: 5 dispos
 gold:
   price: 2500 €
-  available: plus que 1 seul dispo
+  available: plus que 1 dispo
 details:
   - description: Présence sur le site web
     media: √
