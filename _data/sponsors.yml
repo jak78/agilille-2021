@@ -1,24 +1,16 @@
-- name: OPEN Group
-  logo: logo_open.png
-  url: http://www.open-groupe.com/
-  imgclass: standard
-- name: Zenika
-  url: http://www.zenika.com
-  logo: logo_zenika_2.png
-  imgclass: standard
 - name: OCTO Technology
   url: http://www.octo.com
   logo: logo_octo.jpg
-  imgclass: standard
-- name: Nordnet
-  url: http://www.nordnet.com
-  logo: logo_nordnet.png
-  imgclass: standard
-- name: Decathlon
-  url: http://www.decathlon.fr
-  logo: logo_decathlon_2.png
-  imgclass: standard
+  imgclass: wide
 - name: Operae Partners
   url: http://www.operaepartners.fr/
   logo: logo_operae_partners_2.png
+  imgclass: wide
+- name: Nextoo
+  url: http://www.nextoo.fr/
+  logo: logo_nextoo.png
+  imgclass: wide
+- name: Groupe CREATIVE
+  url: http://www.groupe-creative.fr/
+  logo: logo_creative.png
   imgclass: wide
