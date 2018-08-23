@@ -5,7 +5,7 @@
 - title: S'inscrire
   url: https://www.billetweb.fr/agile-tour-lille-2018
   target: _blank
-  visible: 0
+  visible: 1
 - title: Soumettre un sujet
   url: /cfp
   visible: 1
