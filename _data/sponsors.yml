@@ -1,16 +1,23 @@
-- name: OCTO Technology
-  url: http://www.octo.com
-  logo: logo_octo.jpg
-  imgclass: wide
-- name: Operae Partners
-  url: http://www.operaepartners.fr/
-  logo: logo_operae_partners_2.png
-  imgclass: wide
-- name: Nextoo
-  url: http://www.nextoo.fr/
-  logo: logo_nextoo.png
-  imgclass: wide
-- name: Groupe CREATIVE
-  url: http://www.groupe-creative.fr/
-  logo: logo_creative.png
-  imgclass: wide
+gold:
+  - name: OCTO Technology
+    url: http://www.octo.com
+    logo: logo_octo.jpg
+    imgclass: wide
+  - name: Operae Partners
+    url: http://www.operaepartners.fr/
+    logo: logo_operae_partners_2.png
+    imgclass: wide
+  - name: Nextoo
+    url: http://www.nextoo.fr/
+    logo: logo_nextoo.png
+    imgclass: wide
+  - name: Groupe CREATIVE
+    url: http://www.groupe-creative.fr/
+    logo: logo_creative.png
+    imgclass: wide
+media:
+- name: CGI
+  url: https://www.cgi.fr/
+  logo: logo_cgi.png
+  imgclass: standard
+  

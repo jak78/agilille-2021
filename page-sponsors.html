@@ -5,24 +5,13 @@ permalink: /sponsors/
 ---
 <div class="container">
   <div class="row">
-    <h1>Sponsors 2018</h1>
+    <h1>Sponsors 2018 Gold</h1>
   </div>
+  {% include sponsor.html sponsors=site.data.sponsors.gold %}
   <div class="row">
-    <div class="col-md-6">
-      {% assign sponsors = site.data.sponsors %}
-      {% for sponsor in sponsors %}
-      <div class="sponsor">
-        <a href="{{ sponsor.url }}" target="_blank">
-          <img src="{{ sponsor.logo | prepend: '/img/sponsors/' | prepend: site.baseurl }}" alt="{{sponsor.name}}" class="{{sponsor.imgclass}}"/>
-        </a>
-      </div>
-      {% assign cut = forloop.length | divided_by:2 %}
-      {% if forloop.index == cut %}
-    </div><div class="col-md-6">
-      {% endif %}
-      {% endfor %}
-    </div>
+    <h1>Sponsors 2018 Media</h1>
   </div>
+  {% include sponsor.html sponsors=site.data.sponsors.media %}
   <div class="row">
     <h1>Et moi ?</h1>
   </div>
