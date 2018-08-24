@@ -1,106 +1,38 @@
-- name: Corinne Alexandre
-  bio: Corinne Alexandre est en charge de la roadmap des projets digitaux à La Redoute. Vers un état d'esprit plus agile des équipes et des organisations.
-  title: Retour d'expérience d'un projet agile à La Redoute
-  description: "Après 6 mois de fonctionnement agile, les premiers résultats sont exceptionnels : tant au niveau business que sur le plan humain.
-               <ol>
-               <li>Comment tout a commencé                          </li>
-               <li>Comment s'est organisée l'équipe                 </li>
-               <li>Quelles difficultés avons-nous rencontrées       </li>
-               <li>Quels résultats et quels facteurs clés de succès </li>
-               </ol>
-               Conclusion : au regard de cette expérience, l'enjeu est désormais de pérenniser ce fonctionnement. "
-  photo: /img/speakers/CorinneAlexandre.jpg
+- name: Jurgen Appelo
+  bio: "<a href=\"http://jurgenappelo.com/about/\" target=\"_blank\">Découvrir Jurgen Appelo</a>"
+  title: Keynote
+  photo: /img/speakers/JurgenAppelo.jpg
   show: 1
-- name: Laurent Bossavit
-  bio: Laurent Bossavit est agiliste depuis l'époque où ça ne s'appelait pas encore agile, développeur depuis l'époque où l'Internet s'appelait encore Minitel, et membre de la communauté des Startups d'État chez beta.gouv.fr. Il aime l'escalade en salle, le café, lire Bruno Latour et jouer au Go (mais pas en même temps).
-  title: "L'enfance perpétuelle: survivre dans une industrie qui croit toujours au Père Noël"
-  description: La survie de l'humanité, nous dit-on, tient dans la capacité d'innovation toujours plus grande des programmeurs, les "nouveaux faiseurs de rois". 
-               L'agilité, nous dit-on aussi, c'est "accueillir le changement". Et nous avons tellement envie, tellement besoin d'y croire ! 
-               A tel point que nous sommes prêts à fermer les yeux sur les erreurs 503 et les NullPointerException que nous rencontrons tous les jours en tant qu'usagers, 
-               ou pire que nous acceptions comme développeurs parce qu'il faut bien avancer sur la prochaine user story.
-               <br>Sans prétendre à un discours de la méthode, cette session vous donnera des pistes concrètes et des techniques immédiatement applicables pour ne pas vous noyer dans le tourbillon de l'appel à l'innovation et du changement; pour retrouver vos racines et vous y arrimer.
-  photo: /img/speakers/LaurentBossavit.png
-  show: 1
-- name: Marie-Pia Ignace
+- name: Emilie Esposito
   bio: 
-       <p>Co-fondatrice et PDG d’Operae Partners</p>
-       <p>Co-fondatrice et Présidente de l’Institut Lean France</p>
-       <p>Membre du comité de direction du Lean Global Network</p>
-       
-       Polytechnicienne, entrepreneuse, Marie-Pia Ignace est la pionnière et la
-       principale spécialiste en Europe du management Lean dans le secteur des
-       services et dans l’informatique.
-       Elle dirige Operae Partners, un cabinet de conseil qu&#39;elle a créé en 2007 et dont
-       le cœur de métier est d’accompagner des équipes informatiques de grandes DSI
-       dans leur transformation.
-       Promotrice du Lean dans l’hexagone depuis 10 ans, Marie-Pia a cofondé l&#39;Institut
-       Lean France qui est l’association de référence pour tous les praticiens du Lean
-       management. Elle préside l’Institut depuis 2012 et est également membre du
-       bureau du Lean Global Network.
-       Marie-Pia est co-auteure du livre « La Pratique du lean management dans l&#39;IT -
-       Agilité et Amélioration continue ». Elle est à l’initiative du Lean IT Summit, la
-       conférence internationale de référence sur le Lean en informatique dans laquelle
-       des experts de l’Agile comme Jeff Sutherland et Kent Beck rencontrent ceux du
-       Lean.
-  title: Le lean IT, ou comment tourner vraiment la page du taylorisme
-  description: Avec sa double obsession du client et du succès de l'équipe, le lean a alimenté 15 ans de réflexions de grands penseurs de l'agile, de Mary Poppendieck à Jez Humble. Cette intervention sera l'occasion de découvrir le LeanIT dans toute son orthodoxie et la nature de ses liens avec l'Agilité.
-  photo: /img/speakers/MariePiaIgnace.png
-  show: 1
+    Product owner de Kuzzle - Facilitatrice - Coach'agile - Expérimentatrice - Joueuse - et humaine avant tout... 
+    Agiliste convaincue, je vis et promeus l'agilité au quotidien au travail comme dans ma vie perso. 
+    Pour moi, l'agilité, c'est un ensemble de valeurs, bien plus qu'une méthode, des pratiques ou des outils. 
+    Après des années de consulting agile, j'anime l'équipe produit Kuzzle, dont je suis aussi le product owner. 
+    J'ai la chance d'avoir l'autonomie suffisante pour mettre en place et maintenir une organisation agile dans l'équipe, telle que je la conçois. 
+    Et j'apprends chaque jour ! L'agilité est ma couleur principale (professionnellement parlant), mais je ne me résume pas à cela. 
+    Mes études d'ingénieur en informatique m'ont donné le goût de la technique, et je me régale à contribuer à la conception d'une architecture solide et efficace avec l'équipe. 
+    Je m'intéresse notamment aux tests, à l'architecture modulaire, et plus généralement aux concepts et patterns d'architecture. 
+    J'aime partager avec la communauté agile, dans les conférences, les meet-up et les apéros agiles. 
+    En général, je repars avec un stock de nouvelles idées à expérimenter. 
+    Et comme je pense que la richesse naît de la différence, j'adore échanger avec des personnes venant d'univers éloignés du mien ! 
+    Alors, si le coeur vous en dit, n'hésitez pas à venir me parler :-) 
+    Quelques uns de mes surnoms - Madame Post-it, la maman des projets, la spéléologue de la blague, le raton-laveur de Montpellier    
+  title: Cargo cult agile
+  description:
+    On appelle cargo cult le fait d’imiter des comportements, sans en comprendre le fonctionnement, en espérant obtenir les mêmes résultats. 
+    Les organisations adoptent un framework agile espérant livrer rapidement du logiciel à haute valeur ajoutée. 
+    Peut-on parler de cargo cult agile ? Quelles sont les pratiques agiles les plus vulnérables au cargo cult ? 
+    Le cargo cult agile n’est pas une fatalité. Je partage mes solutions pour l’éviter.
+  photo: /img/speakers/EmilieEsposito.jpg
+  show: 0
 - name: Frédéric Leguédois
   bio: Frédéric Leguédois est un agiliste évangeliste, libriste, voire polémiste ;-) Conférencier iconoclaste. Garanti zéro certification.
-  title: Comment planter son projet sans se faire choper ?
-  description: "<p>Sous la forme d’un one man show, en se basant sur un retour d’expérience, il s’agit d’illustrer deux principes de l’agilité&nbsp;:</p>
-  <ul>
-  <li>La méthode la plus simple et la plus efficace pour transmettre de l’information à l’équipe de développement et à l’intérieur de celle-ci est le dialogue en face à face.</li>
-  <li>La simplicité – c’est-à-dire l’art de minimiser la quantité de travail inutile – est essentielle.</li>
-  </ul>
-  <p>Bien que le retour d’expérience soit basé sur un projet de développement logiciel, il est facilement transposable à d’autres métiers et ne comporte aucun jargon.</p>"
+  title: Cessons les estimations !
+  description: 
+    Alors que les estimations sont à la base des méthodes classiques et que dans le domaine Agile, SCRUM notamment lui accorde une grande importance, nous allons l’espace d’une conférence remettre en cause celles-ci.<br> 
+    Après un bref rappel de différentes méthodes permettant de réaliser des estimations et croyances qui y sont attachées, nous prendrons le temps de réfléchir sur les effets néfastes de ces dernières. Enfin, nous verrons comment dans la réalité des projets, il est possible de s’en extraire.<br>  
+    Conférence iconoclaste, sous la forme d’un one man show, afin de réfléchir (et de rire ?) sur un aspect essentiel de l’agilité.
   photo: /img/speakers/FredericLeguedois.jpg
-  show: 1
-- name: Ben Linders
-  bio: "Ben Linders is an Independent Consultant in Agile, Lean, Quality and Continuous Improvement, based in The Netherlands. 
-        Author of Getting Value out of Agile Retrospectives, Waardevolle Agile Retrospectives, What Drives Quality and Continuous Improvement. 
-        As an adviser, coach and trainer he helps organizations with deploying effective software development and management practices. 
-        He focuses on continuous improvement, collaboration and communication, and professional development, to deliver business value to customers. 
-        Ben is an active member of networks on Agile, Lean and Quality, and a well know speaker and author. 
-        He shares his experiences in a bilingual blog (Dutch and English), as an editor for Culture and Methods at InfoQ and as an expert in communities like Computable, Quora, DZone, and TechTarget. 
-        Follow him on twitter: @BenLinders."
-  title: Playing the Agile Self-Assessment Game 
-  description: "There isn't a standard route to become agile, you have to find your own way. 
-                Methods and frameworks don't tell you how to increase your agility. The Agile Self-Assessment Game is an 'agile map' 
-                that inspires you with ideas and suggestions on where to go next on your agile journey. 
-                Come play the Agile Self-Assessment Game in teams to discover how agile you are and what you can do to increase your agility." 
-  photo: /img/speakers/BenLinders.jpg
-  show: 1
-- name: Christophe Thibaut
-  bio: "Christophe Thibaut est Consultant Senior chez OCTO. Fort de plus de 25 ans d'expérience en développement et direction de projets, 
-  en consulting et en coaching, il conseille les grands comptes sur la mise en oeuvre de démarches permettant de livrer plus vite 
-  de meilleurs logiciels. Son expertise s'appuie sur un apprentissage en continu des méthodes et des modèles. 
-  C'est également un facilitateur, un observateur attentif, pratiquant l'écoute active. 
-  <br>      
-  Communiquant reconnu au sein de la communauté agile, coach agile depuis 2001, Christophe intervient régulièrement dans les conférences Agile France, 
-  Software Practice Advancement, XP Days, ainsi qu'à l'USI. Il est un des cofondateur du dojo de programmation. 
-  Au sein d'OCTO, Christophe diffuse les pratiques de développement telles que TDD ainsi que la philosophie du management de projet agile. 
-  Il forme des coaches agiles ainsi que des leaders techniques, et contribue, en facilitant de nombreux ateliers, à la vision partagée de l'entreprise."
-  title: 3 idées qui changent tout
-  description: "<p>Nous sommes en train de changer profondément la façon dont nous développons du logiciel.</p> 
-                <p>Avant que ce changement ne commence - il y a environ 20 ans - dans la plupart des entreprises, le travail de développement était organisé en phases, réparti sur des équipes spécialisées, et reposait presqu’exclusivement sur l’écrit. 
-                </p>
-                <p>Lorsque que le changement sera achevé - dans 20 ans peut-être ? - le développement de logiciel sera organisé bien différemment : en cycles courts, sans distinction de phases, il impliquera des équipes multi-compétentes travaillant en cohésion. 
-                La conversation sera le moyen principal de transmission des idées, et tout ce qui doit être écrit le sera sous forme de code ou de tests. 
-                </p>
-                <p>Ce qui caractérise principalement ce changement, c’est l’adoption de boucles de retour d’information toujours plus courtes et toujours plus fréquentes. 
-                </p>
-                <p>Dans l’entreprise, ce changement rencontre des obstacles culturels nombreux et robustes. Il est pourtant inéluctable, pour trois raisons :</p>
-                <ul>
-                <li>le développement de logiciel est indispensable à la stratégie d’innovation des entreprises ;</li>              
-                <li>la complexité de cette activité impose un modèle de collaboration qui rend caduque la séparation classique entre conception et réalisation ;</li>              
-                <li>nous aspirons tous à faire un travail intéressant et épanouissant, plutôt que de produire aveuglément du code défectueux ou inutile.</li>
-                </ul>              
-                <p>Pour se convaincre de la présence de ce changement autour de vous, il suffit d’observer l’évolution des pratiques sur le terrain. 
-                Dans cette keynote, je vous invite à considérer les trois idées majeures qui sous-tendent cette évolution. 
-                En quoi ces idées font avancer le métier du développement, comment elles sont fréquemment altérées afin de préserver l’ancien modèle, 
-                et comment les encourager afin d’accélérer la transformation du métier de développeur.</p>"
-  photo: /img/speakers/ChristopheThibaut.jpg
   show: 1
   
