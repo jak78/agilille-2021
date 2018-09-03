@@ -15,6 +15,10 @@ gold:
     url: http://www.groupe-creative.fr/
     logo: logo_creative.png
     imgclass: wide
+  - name: AXA
+    url: http://www.axa.fr/
+    logo: logo_axa.png
+    imgclass: wide
 media:
 - name: CGI
   url: https://www.cgi.fr/
