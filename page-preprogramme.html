@@ -11,17 +11,22 @@ permalink: /programme
     {% for talk in site.data.schedule_preview %}
     <a name="{{ talk.subject }}"></a>
     <div class="schedule_preview" id="{{ talk.subject }}">
+      <h1 class="title">{{ talk.subject }}</h1>
+      <div class="details">
+        <h2 class="format">{{ talk.format }}</h2>
+        <div class="description">{{ talk.description }}</div>
+      </div>
+
       {% assign speaker_names = talk.speaker | split: ", " %}
       {% for speaker_name in speaker_names %}
       {% assign speaker = site.data.speakers | where:"name",speaker_name | first %}
+      <div class="speaker">
         <img src="/img/speakers/{{ speaker.photo }}.jpg" alt="{{ speaker.name }}">
-      {% endfor %}
-      <h3 class="name">{{ talk.speaker }}</h3>
-      <h2 class="title">{{ talk.subject }}</h2>
-      <h2 class="format">{{ talk.format }}</h2>
-      <div class="details">
-        <div class="description">{{ talk.description }}</div>
+        <h2>{{ speaker.name }}</h2>
+        <div class="bio">{{ speaker.bio }}</div>
       </div>
+      {% endfor %}
+      <hr>
     </div>
     {% endfor %}
   </div>
