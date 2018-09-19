@@ -1,38 +1,112 @@
-- name: Jurgen Appelo
-  bio: "<a href=\"http://jurgenappelo.com/about/\" target=\"_blank\">Découvrir Jurgen Appelo</a>"
-  title: Keynote
-  photo: /img/speakers/JurgenAppelo.jpg
-  show: 1
-- name: Emilie Esposito
-  bio: 
-    Product owner de Kuzzle - Facilitatrice - Coach'agile - Expérimentatrice - Joueuse - et humaine avant tout... 
-    Agiliste convaincue, je vis et promeus l'agilité au quotidien au travail comme dans ma vie perso. 
-    Pour moi, l'agilité, c'est un ensemble de valeurs, bien plus qu'une méthode, des pratiques ou des outils. 
-    Après des années de consulting agile, j'anime l'équipe produit Kuzzle, dont je suis aussi le product owner. 
-    J'ai la chance d'avoir l'autonomie suffisante pour mettre en place et maintenir une organisation agile dans l'équipe, telle que je la conçois. 
-    Et j'apprends chaque jour ! L'agilité est ma couleur principale (professionnellement parlant), mais je ne me résume pas à cela. 
-    Mes études d'ingénieur en informatique m'ont donné le goût de la technique, et je me régale à contribuer à la conception d'une architecture solide et efficace avec l'équipe. 
-    Je m'intéresse notamment aux tests, à l'architecture modulaire, et plus généralement aux concepts et patterns d'architecture. 
-    J'aime partager avec la communauté agile, dans les conférences, les meet-up et les apéros agiles. 
-    En général, je repars avec un stock de nouvelles idées à expérimenter. 
-    Et comme je pense que la richesse naît de la différence, j'adore échanger avec des personnes venant d'univers éloignés du mien ! 
-    Alors, si le coeur vous en dit, n'hésitez pas à venir me parler :-) 
-    Quelques uns de mes surnoms - Madame Post-it, la maman des projets, la spéléologue de la blague, le raton-laveur de Montpellier    
-  title: Cargo cult agile
+- speaker: Jurgen Appelo
+  format: Keynote
+- speaker: Emilie Esposito
+  subject: Cargo cult agile
   description:
     On appelle cargo cult le fait d’imiter des comportements, sans en comprendre le fonctionnement, en espérant obtenir les mêmes résultats. 
     Les organisations adoptent un framework agile espérant livrer rapidement du logiciel à haute valeur ajoutée. 
     Peut-on parler de cargo cult agile ? Quelles sont les pratiques agiles les plus vulnérables au cargo cult ? 
     Le cargo cult agile n’est pas une fatalité. Je partage mes solutions pour l’éviter.
-  photo: /img/speakers/EmilieEsposito.jpg
-  show: 1
-- name: Frédéric Leguédois
-  bio: Frédéric Leguédois est un agiliste évangeliste, libriste, voire polémiste ;-) Conférencier iconoclaste. Garanti zéro certification.
-  title: Cessons les estimations !
+  format: Keynote
+- speaker: Frédéric Leguédois
+  subject: Cessons les estimations !
   description: 
     Alors que les estimations sont à la base des méthodes classiques et que dans le domaine Agile, SCRUM notamment lui accorde une grande importance, nous allons l’espace d’une conférence remettre en cause celles-ci.<br> 
     Après un bref rappel de différentes méthodes permettant de réaliser des estimations et croyances qui y sont attachées, nous prendrons le temps de réfléchir sur les effets néfastes de ces dernières. Enfin, nous verrons comment dans la réalité des projets, il est possible de s’en extraire.<br>  
     Conférence iconoclaste, sous la forme d’un one man show, afin de réfléchir (et de rire ?) sur un aspect essentiel de l’agilité.
-  photo: /img/speakers/FredericLeguedois.jpg
-  show: 1
+  format: Keynote
+- speaker: Bernard Klymowicz, Matthieu Salikhov
+  subject: Karate Dinosaur Carpaccio
+  description:
+    >
+    Inspiré de l'extrême Carpaccio d'Alistair Cockburn, l'atelier propose aux participants de découvrir la difficulté des estimations, l'intérêt des démos aux clients à chaque itération et l'importance des feedbacks réguliers.
+    Articulé autour de la planification et de la construction de legos en équipe, l'exercice permet aux expérimentés comme aux néophytes d'appréhender facilement les avantages et les limites de l'agilité comme elle est pratiquée généralement.
+  format: Atelier Long (105 minutes - 1h45) / long workshop
+- speaker: Benjamin Cabanne 
+  subject: "Le pas japonais : un escape game collaboratif pour résoudre un problème complexe" 
+  description:
+    >
+      Envie de résoudre un problème complexe en s'auto-organisant? hum, pas si facile, nous verrons si vous êtes capable de répondre au défi!
+  format: Atelier Long (105 minutes - 1h45) / long workshop
+- speaker: Michel Daviot, Antoine Neveux 
+  subject: Le Pair Programming sous toutes ses formes 
+  description:
+    >
+      Envie de résoudre un problème complexe en s'auto-organisant? hum, pas si facile, nous verrons si vous êtes capable de répondre au défi!
+  format: Atelier Long (105 minutes - 1h45) / long workshop
+- speaker: Maxime Bonnet 
+  subject: "Sisyphe, le Père Noël, Harry Potter et le vrai PO : mythes d'hier et d'aujourd'hui."
+  format: Talk (45 minutes)
+  description:
+    "Le vrai PO est un animal rarement observé, certains même disent que c'est un mythe. On raconte qu'un coach agile du 13ème (siècle ou arrondissement, on ne sait pas) en aurait croisé un. 
+    Tel, Sisyphe qui roule sa pierre encore et encore, il doit travailler son besoin sous forme de User Story.
+    Tel le Père Noël il doit faire plaisir à tous ses utilisateurs sans en oublier un seul.
+    Tel Harry Potter, il doit créer de manière magique une osmose avec l'équipe de développement.
+    Cette conférence va passer en revue les mythes liés au travail du PO et comment adapter ses pratiques tout en gardant son agilité."
+- speaker: Sebastian Caceres, Tanguy Patte 
+  subject: "Test-Driven Development sur votre infrastructure avec Ansible !"
+  format: Talk (45 minutes)
+  description:
+    "Vous faites du TDD quand vous développez des logiciels ? Pourquoi ne pas en
+    faire quand vous faites du code d’infrastructure ? Longtemps l’outillage propre
+    à l’Infrastructure as Code a été rare, mais aujourd’hui ce n’est plus le cas !
+    Nous allons vous montrer comment faire cela avec Ansible, Molecule, Testinfra
+    et Docker.
+    
+    Comment intégrer les bonnes pratiques de développement à l’Infrastructure As
+    Code ? Comment faire pour améliorer la qualité de son code ? Comment utiliser les
+    pratiques de Software Craftsmanship dans ce milieu particulier ?
+    
+    Venez découvrir comment monter une infrastructure, pas à pas, lors d’une live
+    démo, dans une démarche de TDD !"
+- speaker: Cyril Lakech
+  subject: La technologie conduite par les communautés à l’échelle
+  format: Talk (45 minutes)
+  description:
+    "Vous faites du TDD quand vous développez des logiciels ? Pourquoi ne pas en
+    faire quand vous faites du code d’infrastructure ? Longtemps l’outillage propre
+    à l’Infrastructure as Code a été rare, mais aujourd’hui ce n’est plus le cas !
+    Nous allons vous montrer comment faire cela avec Ansible, Molecule, Testinfra
+    et Docker.
   
+    Comment intégrer les bonnes pratiques de développement à l’Infrastructure As
+    Code ? Comment faire pour améliorer la qualité de son code ? Comment utiliser les
+    pratiques de Software Craftsmanship dans ce milieu particulier ?
+  
+    Venez découvrir comment monter une infrastructure, pas à pas, lors d’une live
+    démo, dans une démarche de TDD !"
+- speaker: Julien Jakubowski
+  subject: "Sur le chemin de la qualité : en équipe et dès demain !"
+  format: Talk (45 minutes)
+  description: "Ça y est ! C’est décidé ! Vous allez construire des applications de meilleure qualité. Vous êtes convaincu(e) que, pour cela, certaines pratiques de développement sont fondamentales comme par exemple les revues de code ou les tests automatisés.
+
+               Mais vos collègues n’en font pas. Parce que  « c’est trop cher on n’a pas le temps », « ça ne marchera pas chez nous »...
+
+               Après cette conférence, quand vous reviendrez sur votre plateau projet, vous aurez des éléments à essayer tout de suite. Et peut-être de quoi élaborer un plan de bataille pour que vous et votre équipe soyez fiers de votre code et ainsi conquérir le monde ! ;-)"
+- speaker: Grégory Vanuynsberghe, Claire Deltrel
+  subject: Agilité en data-science
+  format: Talk (45 minutes)
+  description: "Avec l'engouement grandissant autour de l'Intelligence Artificielle, de plus en plus en plus d'entreprises s'interrogent sur la mise en place d'une organisation efficace autour de ces nouveaux métiers. 
+               Nous vous proposons un retour d'expérience de l'équipe Data-science de Decathlon à travers lequel nous aborderons comment nous nous sommes appropriés les principes Agile depuis début 2017, nos victoires et nos difficultés."
+- speaker: Alexis Dubois, Camille Fareneau
+  subject: "Projet annoncé : périmètre figé, budget serré, date de livraison fixée. Et, s’il vous plait, avec de l’Agilité !"
+  format: Talk (45 minutes)
+  description: "« Bonjour, pourriez-vous développer ces fonctionnalités pour dans 9 mois exactement ? La date est TRES importante. Retirer une fonctionnalité ? Impossible ! ». 
+               On y a tous fait face un jour ! Nous y compris, au moment où l’on a dû développer la nouvelle application mobile AXA Banque. Un contexte pas toujours facile et souvent source de conflits entre métier et DSI. Comment être Agile dans ces conditions nous direz-vous ? 
+               Au travers d’un retour d’expérience, nous vous montrerons de quelle manière nous avons pu délivrer en temps et en heure la refonte complète d’une application bancaire Android et iOS et ce sans lésiner sur la qualité (et sans devoir travailler dans nos caves le week-end !)."
+- speaker: Samuel Retiere
+  subject: Découplez votre organisation
+  format: Talk (45 minutes)
+  description: 
+    >
+      N'avez vous jamais rêvé d'une organisation humaine qui ne soit plus un frein au changement ? 
+      Ou dit positivement : qu'elle s'adapte au même rythme que les autres composantes de l'organisation. 
+      En même temps, Conway nous dit que le design des organisations humaine et technique sont liés. 
+      D'où l'idée d'utiliser des principes de limitation des dépendances aux deux. 
+      Pour les concepts qui seront évoqués, il s'agit de DDD stratégique avec de la pensée systèmes (humains). 
+      Et normalement, vous repartirez avec des exemples de ce qu'il faut éviter et des idées de ce que vous pourriez faire pour rendre votre organisation plus fluide.
+- speaker: Jonathan Duberville
+  subject: C'est l'histoire d'un BUG!
+  format: Talk (45 minutes)
+  description: "Vous créez du logiciel? Vous avez une culture agile? Vous faites du SCRUM? Avec mon équipe on fait tout ça et j'aimerais vous raconter une histoire! L'histoire d'un BUG...
+               Dans ce talk, je vous raconte avec quelques légèretés la vie d'un BUG de sa fabrication à la naissance d'une pratique d'équipe pour nous en prémunir."

@@ -10,6 +10,10 @@
       margin-top: 2em;
       font-size: $base-font-size + 3;
     }
+    &.format {
+      margin-top: 2em;
+      font-size: $base-font-size;
+    }
   }
   .details {
     clear: both;
