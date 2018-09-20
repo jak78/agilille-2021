@@ -62,6 +62,11 @@
     Sebastián est titulaire d’un double diplôme d’ingénieur délivré par TELECOM Bretagne en France, et par l’Universidad Técnica Federico Santa Maria, au Chili.
     Au sein d'OCTO, il s’est spécialisé sur les outils de déploiement (notamment Ansible), l’univers des conteneurs, les plateformes PaaS et CaaS (Docker, Kubernetes, Openshift), et la culture DevOps.
     Sebastián fait régulièrement de la veille technique. Il publie les résultats de sa veille sous forme d’article sur son site web, sebiwi.github.io, où il publie également des bandes dessinées liées au monde de la technologie et des start-ups.
+- name: Tanguy Patte
+  photo: TanguyPatte
+  bio:
+    Consultant chez Octo Technology dans la tribu OPS, je travail quotidiennement avec des outils tels qu'Ansible et Terraform pour gérer de l'infra comme du code. Venant du monde du développement, je suis convaincu de la nécessité d'échanger et de partager entre les DEV et les OPS.
+    J'essaie d'appliquer les bonnes pratiques de développement dans un monde d'infra pour améliorer la qualité et la fiabilité du code d'infra.
 - name: Cyril Lakech
   photo: CyrilLakech
   bio:
