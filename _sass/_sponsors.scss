@@ -4,10 +4,14 @@
   }
 
   text-align: center;
-  margin: 50px;
-  //display: inline;
+  height: 170px;
+  .valign-helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+  }
   img {
-    padding-bottom: 10px;
+    vertical-align: middle;
     &.standard {
       max-width: 150px;
       max-height: 150px;

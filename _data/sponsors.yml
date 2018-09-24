@@ -19,6 +19,10 @@ gold:
     url: http://www.axa.fr/
     logo: logo_axa.png
     imgclass: wide
+  - name: Nordnet
+    url: http://www.nordnet.fr/
+    logo: logo_nordnet.png
+    imgclass: wide
 media:
 - name: CGI
   url: https://www.cgi.fr/
