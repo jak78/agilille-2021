@@ -1,6 +1,3 @@
-- name: Sarah Mortel
-  bio: Sarah est coach agilitatrice chez Efidev et responsable du produit Taïkoon (solution de gestion de trésorerie pour les TPE). Les utilisateurs sont le centre de ses préoccupations, l’amélioration continue est sa philosophie. Elle aime transmettre ce qu’elle apprend aux équipes qu’elle accompagne et découvrir de nouveaux outils pour être plus efficace dans le travail en équipe.<br/>Elle est fière de faire partie de l’équipe Nord Agile, organisatrice de l’Agile Tour Lille pour la 6ème édition.
-  photo: sarah_mortel.jpg
 - name: Lucie Pruvost
   bio: "Non pas issue de la technique, mais évoluant dans le milieu informatique, Lucie est convaincue que l'agilité améliore les projets mais également et surtout les relations humaines. Ingénieur Commercial chez ZENIKA Lille, elle prend plaisir a organiser avec l'équipe Nord-Agile ce moment d'échange et de partage qu'est l'Agile Tour."
   photo: Lucie-Pruvost.jpg
@@ -30,3 +27,7 @@
   photo: Matthieu-Salikhov.jpg
   bio:
     Scrum Master, PO, Coach Agile, Agilitateur selon les jours, j'occupe mes fonctions chez Zenika Lille. J'aime le Serious Games, les meet-up sur le Serious Game, l'Agilité (Si si!), les bonbons, et les bonbons dans les Serious Games. Je me passionne aussi pour les problématiques d'équité au travail, de fun dans dans les équipes et d'efficacité dans les projets.
+- name: Nicolas Tondeur
+  photo: Nicolas-Tondeur.jpg
+  bio:
+    Coach agile, créateur de Serious Games, je suis un fervent défenseur de la démarche devant la méthode, de l'humain au coeur du produit. Actuellement en charge du GAG (Groupe d'Agilisation et de Gamification) chez Nextoo, je m'arrange pour vivre au jour le jour ce que je préconise aux équipes que j'accompagne.
