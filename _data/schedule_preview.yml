@@ -33,7 +33,15 @@
   subject: Le Pair Programming sous toutes ses formes 
   description:
     >
-      Envie de résoudre un problème complexe en s'auto-organisant? hum, pas si facile, nous verrons si vous êtes capable de répondre au défi!
+      Bien que souvent résumée à mettre deux développeur·se·s derrière un même clavier, la pratique du Pair Programming n'est pas triviale, et se retrouve en bien des occasions comme pointée du doigt car peu efficace, ou frustrante pour les participant·e·s.
+      <br>
+      Lors de ce codelab, vous découvrirez que le Pair Programming peut se décliner sous de multiples formes selon vos objectifs: découvrir un nouveau langage, résoudre un problème complexe, faire découvrir une technologie, ou simplement pratiquer des techniques de développement.
+      <br>
+      A la manière de katas d'arts martiaux, et en se basant sur la pratique, nous illustrerons différentes façons d'appréhender l'art du travail en binôme pour écrire du code.
+      <br>
+      Vous découvrirez lors de cet atelier différentes techniques et approches réutilisables vous permettant un travail actif des deux membres du duo ! Tout ceci au travers d'exercices et de défis de programmation amusants, à réaliser dans le langage de votre choix ! Mais bien entendu, toujours en binôme ;)
+      <br>
+      A la suite de cet atelier, vous pourrez réutiliser toutes ces techniques pour animer vos séances de Pair Programming et pour favoriser le travail de groupe dans vos équipes: parfait par exemple pour vous lancer dans l'aventure DevOps !
   format: Atelier Long (105 minutes - 1h45)
 - speaker: Maxime Bonnet 
   subject: "Sisyphe, le Père Noël, Harry Potter et le vrai PO : mythes d'hier et d'aujourd'hui."
