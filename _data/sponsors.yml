@@ -32,4 +32,8 @@ media:
   url: https://www.cgi.fr/
   logo: logo_cgi.png
   imgclass: standard
+- name: SII
+  url: http://www.groupe-sii.com/fr
+  logo: logo_sii.png
+  imgclass: standard
   
