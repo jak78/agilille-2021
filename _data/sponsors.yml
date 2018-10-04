@@ -23,6 +23,10 @@ gold:
     url: http://www.nordnet.fr/
     logo: logo_nordnet.png
     imgclass: wide
+  - name: Open
+    url: https://www.open.global/
+    logo: logo_open.png
+    imgclass: wide
 media:
 - name: CGI
   url: https://www.cgi.fr/
