@@ -27,6 +27,10 @@ gold:
     url: https://www.open.global/
     logo: logo_open.png
     imgclass: wide
+  - name: Sopra
+    url: https://www.soprasteria.com/fr
+    logo: logo_sopra.jpg
+    imgclass: wide
 media:
 - name: CGI
   url: https://www.cgi.fr/
@@ -36,4 +40,12 @@ media:
   url: http://www.groupe-sii.com/fr
   logo: logo_sii.png
   imgclass: standard
+- name: Auchan
+  url: http://www.auchan.fr
+  logo: logo_auchan.png
+  imgclass: wide
+- name: Sogeti
+  url: http://www.sogeti.fr
+  logo: logo_sogeti.jpg
+  imgclass: wide
   
