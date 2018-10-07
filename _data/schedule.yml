@@ -28,11 +28,6 @@
               Everything depends on thelifecycle stage of the new product or service.
       - hour: 10h30 - 11h15
         content:
-        - id: 29
-          subject:    Générez votre doc utilisateur sans effort
-          description:    Maintenir une documentation exhaustive et à jour d'un produit peut être chronophage et coûteux. Nous vous montrerons comment sortir de cette spirale en tirant partie des scénarios gherkin. La documentation ainsi produite sera toujours à jour vis-à-vis du projet, gratuite à produire, et consultable par tous, via un site web par exemple. Les méthodologies et outils que nous utiliserons sont ceux récemment mis en place chez AXA France.
-          speaker:    Jounad Tourvieille, Thomas  Candellier
-          format:    Talk (45 minutes)
         - id: 10
           subject:	La DRH du futur sera agile ou ne sera pas
           description:	"C’est sur le terrain des transformations que j’ai acquis la conviction que les pratiques agiles peuvent aider les DRHs à relever les challenges du digitale et à se positionner comme le catalyseur du changement. 
@@ -40,6 +35,11 @@
         "
           speaker:	Nicolas Kalmanovitz
           format:	Talk (45 minutes)
+        - id: 29
+          subject:    Générez votre doc utilisateur sans effort
+          description:    Maintenir une documentation exhaustive et à jour d'un produit peut être chronophage et coûteux. Nous vous montrerons comment sortir de cette spirale en tirant partie des scénarios gherkin. La documentation ainsi produite sera toujours à jour vis-à-vis du projet, gratuite à produire, et consultable par tous, via un site web par exemple. Les méthodologies et outils que nous utiliserons sont ceux récemment mis en place chez AXA France.
+          speaker:    Jounad Tourvieille, Thomas  Candellier
+          format:    Talk (45 minutes)
         - id: 31
           subject:	Lego4Scrum - "Objectif Mars"
           description:	Nous sommes 2142. La terre est en surpopulation. Un projet couteux et astronomique prévoit de s'établir sur Mars. Il faut constituer une équipe et lancer les premiers chantiers sur cette planète. Seul Scrum peut sauver notre belle terre. 
@@ -115,15 +115,6 @@
             fill: 5
       - hour: 14h00 - 14h45
         content:
-        - id: 33
-          subject:	Product Owner (et plus car affinité) pendant 4 ans dans une PME.
-          description: >
-            Il était une fois un jeune développeur avide d'agilité, ambitieux de sortir de sa condition pas si misérable. Il fut ""promu"" au rôle de ""Product Owner"". 
-            ""Promu"", car il découvrit pendant 4 ans les conséquences de son ascension sociale sur une échelle agile (que l'on souhaite horizontale). 
-            ""Product Owner"", car il fut à la fois coach agile pour 2 équipes off-shore, Scrum Master, Product Owner, Chef de Projet, Directeur de Projet. Et donc aucun de ces rôles.
-            C'est une histoire de désillusions (cargo culte agile). Une histoire qui finit mal (donc riche d'enseignements). Une histoire vraie. Un Retour d'eXpériences.
-          speaker:	Gilles Masy
-          format:	Talk (45 minutes)
         - id: 17
           subject:	La technologie conduite par les communautés à l’échelle
           description:	"L'évolution des technologies dans le monde du développement est elle compatible avec les grandes organisations ?
@@ -134,6 +125,15 @@
         
         Venez découvrir comment les devs sont devenus autonomes pour gérer la techno avec la responsabilité et la confiance de l'entreprise"
           speaker:	Cyril Lakech
+          format:	Talk (45 minutes)
+        - id: 33
+          subject:	Product Owner (et plus car affinité) pendant 4 ans dans une PME.
+          description: >
+            Il était une fois un jeune développeur avide d'agilité, ambitieux de sortir de sa condition pas si misérable. Il fut ""promu"" au rôle de ""Product Owner"". 
+            ""Promu"", car il découvrit pendant 4 ans les conséquences de son ascension sociale sur une échelle agile (que l'on souhaite horizontale). 
+            ""Product Owner"", car il fut à la fois coach agile pour 2 équipes off-shore, Scrum Master, Product Owner, Chef de Projet, Directeur de Projet. Et donc aucun de ces rôles.
+            C'est une histoire de désillusions (cargo culte agile). Une histoire qui finit mal (donc riche d'enseignements). Une histoire vraie. Un Retour d'eXpériences.
+          speaker:	Gilles Masy
           format:	Talk (45 minutes)
         - id: 68
           subject:	"Consumer Driven Contracts: The Evolution of Your API Using Tests"
@@ -459,17 +459,17 @@
             room: Aula Maxima
       - hour: 16h15 - 17h00
         content:
-        - id: 44
-          subject:	Les utilisateurs finaux, les oubliés de nos produits !
-          description:	"Depuis quelques années, vous entendez parler de transformation d’entreprises permettant la diminution du Time-To-Market, le rapprochement des développeurs et opérationnels et la synchronisation des backlogs ou encore favorisant le plaisir au travail. Pourtant nous oublions l’essentiel, réaliser le bon produit répondant aux réelles problématiques des utilisateurs finaux.
-        Ce fondement est trop souvent oublié par toutes ces entreprises voulant monter vite sur l’agilité à l’échelle. Vous êtes vous déjà rendu compte à quel point cette clé de succès est oubliée ? Savez-vous pourquoi il faut mettre un point d’honneur à intégrer les utilisateurs finaux dans les projets ?"
-          speaker:	Nelson Dufossé
-          format:	Talk (45 minutes)
         - id: 1
           subject:	Manager en milieu agile, mon "marshmallow test" quotidien
           description:	"Isolez un enfant dans une pièce, donnez lui un chamallow et dites que vous allez faire un tour et que quand vous reviendrez, s'il n'a pas mangé son chamallow alors il aura le droit d'en avoir un second. L'enfant aura t-il assez de patience et de volonté pour ne pas succomber à la tentation ? Gros dilemme...
         Et si la tentation du manager agile était le contrôle ? Et le chamallow la confiance ?"
           speaker:	Jean-Baptiste Hugueux
+          format:	Talk (45 minutes)
+        - id: 44
+          subject:	Les utilisateurs finaux, les oubliés de nos produits !
+          description:	"Depuis quelques années, vous entendez parler de transformation d’entreprises permettant la diminution du Time-To-Market, le rapprochement des développeurs et opérationnels et la synchronisation des backlogs ou encore favorisant le plaisir au travail. Pourtant nous oublions l’essentiel, réaliser le bon produit répondant aux réelles problématiques des utilisateurs finaux.
+        Ce fondement est trop souvent oublié par toutes ces entreprises voulant monter vite sur l’agilité à l’échelle. Vous êtes vous déjà rendu compte à quel point cette clé de succès est oubliée ? Savez-vous pourquoi il faut mettre un point d’honneur à intégrer les utilisateurs finaux dans les projets ?"
+          speaker:	Nelson Dufossé
           format:	Talk (45 minutes)
         - id: 15
           subject:	"Tennis Kata : dites stop au TDD et passez au TDD !"
