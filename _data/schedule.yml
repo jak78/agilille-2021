@@ -19,6 +19,7 @@
             id: jurgen_appelo
             fill: 5
             highlight: 1
+            prefix: <img src="/img/speakers/JurgenAppelo.jpg" alt="Jurgen Appelo" class="speaker">
             description: >
               Starting new teams and scaling up innovation is more important than ever. 
               The key to successis applying different practices in different stages of the innovation lifecycle. 
@@ -295,6 +296,7 @@
           format: Keynote
           id: frederic_leguedois
           fill: 5
+          prefix: <img src="/img/speakers/FredericLeguedois.jpg" alt="Frédéric Leguédois" class="speaker">
           highlight: 1
       - hour: 10h30 - 10h45
         special: 1
@@ -407,6 +409,7 @@
           format: Keynote
           fill: 5
           highlight: 1
+          prefix: <img src="/img/speakers/EmilieEsposito.jpg" alt="Emilie Esposito" class="speaker">
           id: emilie_esposito
       - hour: 15h00 - 15h45
         content:

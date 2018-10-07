@@ -34,6 +34,9 @@ permalink: /programme-complet
                 {% if talk.fill %} colspan="{{ talk.fill }}"{% endif %}
                 >
                 <div class="schedule-cell">
+                  {% if talk.prefix %}
+                  {{ talk.prefix }}
+                  {% endif %}
                   {% if talk.bring_your_pc %}
                   <p class="picto"><i class="fa fa-laptop"></i></p>
                   {% endif %}

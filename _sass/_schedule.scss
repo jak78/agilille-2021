@@ -107,5 +107,18 @@
     a { color: #226;}
   }
 
+  img.speaker {
+    float: left;
+    position: relative;
+    top: -1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    max-width: 80px;
+    max-height: 80px;
+  }
+  
 
 }
