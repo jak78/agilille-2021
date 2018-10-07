@@ -38,7 +38,7 @@
         - id: 29
           subject:    Générez votre doc utilisateur sans effort
           description:    Maintenir une documentation exhaustive et à jour d'un produit peut être chronophage et coûteux. Nous vous montrerons comment sortir de cette spirale en tirant partie des scénarios gherkin. La documentation ainsi produite sera toujours à jour vis-à-vis du projet, gratuite à produire, et consultable par tous, via un site web par exemple. Les méthodologies et outils que nous utiliserons sont ceux récemment mis en place chez AXA France.
-          speaker:    Jounad Tourvieille, Thomas  Candellier
+          speaker:    Jounad Tourvieille, Thomas Candellier
           format:    Talk (45 minutes)
         - id: 31
           subject:	Lego4Scrum - "Objectif Mars"
@@ -55,7 +55,7 @@
             - la rapidité et la facilité plus que la perfection du résultat. 
         
             Alors prenez un papier et un crayon et rejoignez-nous pour explorer le sketchnoting.
-          speaker:	Julien Carreaud, Angélique  Giraud
+          speaker:	Julien Carreaud, Angélique Giraud
           format:	Atelier court (45 minutes) / Short workshop
         - id: 85
           subject:	Problem? What problem? Getting rid of impediments
@@ -84,7 +84,7 @@
         - id: 32
           subject:	Comment la culture projet influence les pratiques agiles ?
           description:	à travers un voyage depuis les des débuts de l'informatique en entreprise, comprenons l'origine des dérives actuelles et ré-insufflons la culture agile dans nos pratiques
-          speaker:	Claire Morin, Michel  Goldenberg
+          speaker:	Claire Morin, Michel Goldenberg
           format:	Talk (45 minutes)
           level: 2
         - id: 21
@@ -478,6 +478,7 @@
           speaker:	Thomas Haesslé
           format:	Atelier Long (105 minutes - 1h45) / long workshop
           duration: 2
+          bring_your_pc: 1
         - id: 53
           subject:	"Training From the Back of the Room : agilisez vos formations"
           description: >
