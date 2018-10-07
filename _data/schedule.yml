@@ -1,4 +1,4 @@
-- date: Lundi 13 novembre
+- date: Jeudi 8 novembre
   schedule:
     -
       - hour: 08h15 - 8h40
@@ -6,268 +6,276 @@
         content:
           - label: "Accueil : retrait des badges, café et début des discussions :)"
             fill: 5
-            room: Atrium
+            room: Aula Maxima
       - hour: 08h45 - 9h20
         special: 1
         content:
-          - label: Lancement de l'événement et pitch des sessions de la matinée (Auditorium)
+          - label: Lancement de l'événement et pitch des sessions de la matinée (Aula Maxima)
             fill: 5
       - hour: 09h30 - 10h15
         content:
-          - subject: "L'enfance perpétuelle: survivre dans une industrie qui croit toujours au Père Noël"
-            speaker: Laurent Bossavit
-            id: enfance_perpetuelle
+          - subject: "Shakeup and Speedup"
+            speaker: Jurgen Appelo
+            id: jurgen_appelo
             fill: 5
             highlight: 1
             description: >
-                         La survie de l'humanité, nous dit-on, tient dans la capacité d'innovation toujours plus grande des programmeurs, les "nouveaux faiseurs de rois". 
-                         L'agilité, nous dit-on aussi, c'est "accueillir le changement". Et nous avons tellement envie, tellement besoin d'y croire ! 
-                         A tel point que nous sommes prêts à fermer les yeux sur les erreurs 503 et les NullPointerException que nous rencontrons tous les jours en tant qu'usagers, 
-                         ou pire que nous acceptions comme développeurs parce qu'il faut bien avancer sur la prochaine user story.
-                         <br>Sans prétendre à un discours de la méthode, cette session vous donnera des pistes concrètes et des techniques immédiatement applicables pour ne pas vous noyer dans le tourbillon de l'appel à l'innovation et du changement; pour retrouver vos racines et vous y arrimer.
+              Starting new teams and scaling up innovation is more important than ever. 
+              The key to successis applying different practices in different stages of the innovation lifecycle. 
+              What works for anew business does not work for a mature one, and vice versa. 
+              In this talk, we will nosedive intothe major good practices for business leaders and product teams, 
+              from the moment they havean innovative idea to the day they will scale it up (or screw it up). 
+              Everything depends on thelifecycle stage of the new product or service.
       - hour: 10h30 - 11h15
         content:
-          - subject: "Parce-qu'on ne change pas une culture comme on change une roue de voiture"
-            description: "Transition agile, paradoxes et boucle infinie... La conduite du changement repose aujourd’hui principalement sur les base du management de projet : objectifs, feuille de route, planning, moyens, suivi, pilotage et s’y ajoute bien sûr le traitement des résistances. Ce modèle fonctionne à peu près s’il faut changer de machine de production mais génère des déceptions lorsque le changement est d’une nature plus subtile ; lorsqu’il met en jeu l’humain, l’organisation du travail, la culture, les capacités comportementales, les croyances… Cette intervention se base sur des expériences de vie et sur un ouvrage de Paul Watzlawick, psycho-sociologue, fondateur de l’école de PaloAlto. Elle nous permettra de découvrir nos paradoxes, d’en rire et de comprendre que le changement n’est pas un « livrable » comme les autres. Peut-être que nous pourrons en tirer quelques principes d’impulsion du changement…"
-            speaker: François Salazar
-            id: change_culture
-            level: 0
-          - subject: Le lean IT, ou comment tourner vraiment la page du taylorisme
-            description: "Avec sa double obsession du client et du succès de l'équipe, le lean a alimenté 15 ans de réflexions de grands penseurs de l'agile, de Mary Poppendieck à Jez Humble. Cette intervention sera l'occasion de découvrir le LeanIT dans toute son orthodoxie et la nature de ses liens avec l'Agilité."
-            speaker: Pierre Jannez
-            id: lean_it
-            level: 0
-          - subject: Comment être Tech Lead dans une pizza team XXL sans finir sous l'eau ?
-            description: >
-                         Être Tech Lead, c'est être au service de l'équipe en étant à la fois formateur, facilitateur, expert et coach. Mais quand l'équipe projet est composée de 15 personnes, dont 10 développeur·euse·s, comment remplir ce rôle tout en continuant à prendre le temps de développer avec l'équipe, et ce sans finir sous l'eau ?<br>
-                         Dans cette conférence, je vous partagerai un retour d'expérience dans lequel je présenterai les pratiques et mesures qui ont été mises en place pour améliorer la propriété collective du code, la qualité du produit mais également l'autonomie de cette équipe de développement.
-            speaker: Damien Beaufils
-            id: tech_lead
-            level: 2
-            slides_url: https://fr.slideshare.net/DamienBeaufils1/comment-tre-tech-lead-dans-une-pizza-team-xxl-sans-finir-sous-leau
-          - subject: Epic Legacy Code Challenge
-            description: "Vous venez d'être embauchés chez Paladin Inventories Company. Elle gagne beaucoup d'argent avec son logiciel. Mais le gobelin qui l'a écrit s'est fait dévorer par un dragon. Vous ne comprenez rien au code. Et bien sûr il n'y a pas de tests automatisés.<br>
-                         
-                         Le problème : une horde de trolls se rue vers vous avec plein de nouvelles demandes pour ce logiciel, qui est maintenant le vôtre...<br>
-                         
-                         Cette situation vous dit quelquechose ?<br>
-                         
-                         Et si on se mettait dans cette situation, en équipes et en compétition ?<br> 
-                         
-                         Qui sera alors l'équipe la plus à même de faire évoluer le code legacy, tout en continuant à gagner de l'argent ?<br>
-                         
-                         Venez relever le challenge, avec votre PC de développement !<br>
-                         
-                         <em>Pré-requis : avoir déjà installé NodeJS en version récente sur votre PC.</em>
-                         "
-            speaker: Julien Jakubowski, Clotilde Desquilbet
-            id: legacy_challenge
-            level: 2
-            duration: 2
-            bring_your_pc: 1
-          - subject: "Sensibilisation au Software Craftsmanship : Lego® à la rescousse"
-            description: "Cet atelier va vous permettre de découvrir quelques bonnes pratiques du génie logiciel en s’amusant : TDD, Clean Code, Refactoring, Dette Technique et Integration Continue sont au programme ! Pas la peine de savoir coder ! L’usage de briques Lego® offre l’opportunité à tous (développeurs ou non) de manipuler ces concepts.
-                         Chers gens du métier, manager ou curieux, venez découvrir le mode de fonctionnement d’un développeur. Chers développeurs, venez pratiquer l’eXtreme LegoBuilding avec le framework LegoUnit !"
-            speaker: Thomas Clavier
-            id: lego_craft
-            level: 0
-            duration: 2
+        - id: 29
+          subject:    Générez votre doc utilisateur sans effort
+          description:    Maintenir une documentation exhaustive et à jour d'un produit peut être chronophage et coûteux. Nous vous montrerons comment sortir de cette spirale en tirant partie des scénarios gherkin. La documentation ainsi produite sera toujours à jour vis-à-vis du projet, gratuite à produire, et consultable par tous, via un site web par exemple. Les méthodologies et outils que nous utiliserons sont ceux récemment mis en place chez AXA France.
+          speaker:    Jounad Tourvieille, Thomas  Candellier
+          format:    Talk (45 minutes)
+        - id: 10
+          subject:	La DRH du futur sera agile ou ne sera pas
+          description:	"C’est sur le terrain des transformations que j’ai acquis la conviction que les pratiques agiles peuvent aider les DRHs à relever les challenges du digitale et à se positionner comme le catalyseur du changement. 
+        De Kanban au design thinking, du recrutement au dialogue sociale, je vous propose de partager mes retours d’expérience ou comment, du grand groupe à la PME, des DRHs deviennent des business partenaires agiles au service de l’innovation, de l’accélération et du rayonnement de l’entreprise.
+        "
+          speaker:	Nicolas Kalmanovitz
+          format:	Talk (45 minutes)
+        - id: 31
+          subject:	Lego4Scrum - "Objectif Mars"
+          description:	Nous sommes 2142. La terre est en surpopulation. Un projet couteux et astronomique prévoit de s'établir sur Mars. Il faut constituer une équipe et lancer les premiers chantiers sur cette planète. Seul Scrum peut sauver notre belle terre. 
+          speaker:	Xavier Koma
+          format:	Atelier Long (105 minutes - 1h45) / long workshop
+          duration: 2
+        - id: 40
+          subject:	"De l’agilité dans la prise de note : Sketchnote." 
+          description: >
+            Au Axa Sketchnote Club nous explorons d’autres façons d’organiser et de présenter des idées, par la pratique et en aidant les autres à le faire. Ces expériences nous amènent à valoriser : 
+            - la liberté d’organiser ses idées plus que les outils 
+            - la sélections des informations pertinentes et utiles plus que la recherche de l’exhaustivité 
+            - la rapidité et la facilité plus que la perfection du résultat. 
+        
+            Alors prenez un papier et un crayon et rejoignez-nous pour explorer le sketchnoting.
+          speaker:	Julien Carreaud, Angélique  Giraud
+          format:	Atelier court (45 minutes) / Short workshop
+        - id: 85
+          subject:	Problem? What problem? Getting rid of impediments
+          description: >
+            If your organization wants to become agile and lean, your teams need to be able to handle impediments quickly and effectively. In this game, you will learn how to recognize and analyze impediments, understand how they can hinder your team, and decide what you can do to take appropriate action by deploying agile and lean principles and good practices.
+        
+            An agile way of working doesn’t guarantee that there will be no problems. Most probably there will be. An agile team has to have the skills to deal with them to be effective and thus be able to deliver and satisfy the needs of their customers and stakeholders. Nobody will solve their problems for them.
+        
+            Agile teams are self-organized. They can decide how they want to do their work. Having the authority to decide comes with a responsibility: you have to solve problems that the team is facing. You cannot rely upon management to solve them for you. That may sound like a disadvantage, but it actually is an advantage since you are allowed to solve them in a way that is most suitable and effective for you.
+        
+            This game will teach you the five steps for handling impediments effectively: 
+            - recognizing impediments 
+            - understanding how they are hindering the team 
+            - find effective solutions to deal with them 
+            - decide what to do and do it 
+            - learn how to become more effective in dealing with impediments
+        
+            The steps suggest that they have to be done after each other, which is indeed preferred in most situations. But this is not a waterfall process. Usually the steps take little time, you can go through all steps within an hour (for instance by doing a retrospective) or in less time (e.g. doing the steps during your daily stand-up). If you are stuck in one step you can decide to proceed to the next one, but then be prepared to go back and repeat the steps once you have more information.
+        
+            Come play the impediment game!
+          speaker:	Ben Linders
+          format:	Atelier Long (105 minutes - 1h45) / long workshop
+          duration: 2
       - hour: 11h30 - 12h15
         content:
-          - subject: "L'agilité à l'échelle oui et pour quoi ?"
-            description: "<p>Le monde agile nous dit l'agilité se caractérise par des équipes de 9 personnes maximum. 
-                         Mince, chez moi, j'ai 50 développeurs ... ca veut dire que pour moi, il n'y a pas d'issue</p>
-                         
-                         <p>Alors, depuis quelques temps (mois ou années suivant les cas), tout le monde parle de l'agilité à l'échelle. 
-                         Ca cela me satisfait car j'ai 60 personnes directement concernées et 200 autres que je pourrais impliquer très rapidement.</p>
-                         
-                         <p>Cependant qu'est ce qu'on appelle l'agilité à l'échelle ? 
-                         Nous vous proposons lors de ce talk d'échanger sur :</p>
-                         <ul> 
-                           <li>pourquoi en sommes nous arrivés à ces questions</li> 
-                           <li>ce qui fait que cela marche</li> 
-                           <li>les plus beaux échecs rencontrés en entreprise</li>
-                         </ul>
-                         "
-            speaker: Aurélien Morvant
-            id: agilite_echelle_oui_pourquoi
-            level: 0
-            slides_url: /slides/agilite.a.lechelle.pour.quoi.faire.pdf
-          - subject: "Comment nous avons réussi un projet Big Data avec l’agilité dans une grande banque"
-            description: "<p>Un projet Big Data ce n'est pas facile, mais ça l'ai encore moins quand il s'agit d'un géant comme la BNP !</p>
-                         
-                         <p>Venez découvrir comment nous avons fait pour réussir notre projet Big Data et l'implémentation d'une application qui tourne aujourd'hui en production avec des vrais utilisateurs en à peine quelques mois ! Vous découvrirez les challenges techniques, humains, culturels et organisationnels auxquels l'équipe a dû faire face. Nous vous partagerons également comment nous avons réussi à les surmonter !</p>"
-            speaker: Nelson Dufossé, Tomas Rodriguez
-            id: big_data
-            level: 1
-            slides_url: https://fr.slideshare.net/NelsonDufoss1/xebicon-comment-reussir-son-projet-data-a-la-bnpp
-          - subject: "Prenez place dans le TGV* AXA France  * Test Grande Vitesse  Comment la QSI AXA France ambitionne de suivre le rythme du delivery grâce à l'automatisation."
-            description: >
-                         <p>Pour répondre aux attentes de client toujours plus exigeant tout en faisant face aux enjeux réglementaires dans un contexte de plus en plus concurrentiel la DSI AXA France est actuellement en pleine transformation.
-                         En associant nouvelles pratiques d’ingénierie et agilité nous cherchons à réduire le time to market et simplifier les processus client. </p>
-                          
-                         <p>Fortement impacté par ces changements le métier de testeur  doit également se transformer.
-                         Quelles sont les nouvelles pratiques et outils de test déployés chez AXA France? 
-                         Comment nous ambitionnons de livrer 1 MMF par mois là où nous avions classiquement 4 semaines de tests par cadences ? 
-                         Bien qu'auparavant nous avions 4 semaines pour tester une macro-fonctionnalité, aujourd'hui nous devons la livrer dans le même laps de temps.</p>
-                          
-                         <p>Nous répondrons à cette problématique en points :</p>
-                         <ul>
-                         <li>Pair Testing et 3 amigos</li>
-                         <li>Bouchonnage et jeux de données</li>
-                         <li>Automatisation des parcours clefs
-                           <ul>
-                           <li>Identification des parcours</li>
-                           <li>Développement des automates de test avec LeanFT</li> 
-                           <li>Exécution dans une PIC</li>
-                           <li>Remontée des résultats dans un référentiel de test</li>
-                           </ul>
-                         </li>
-                         </ul>
-            id: tests_grande_vitesse
-            speaker: Nicolas Zangari, Thibault Huckert
-            level: 1
-            slides_url: /slides/Agile Tour Lille 2017 - Presentation Nicolas Zangari et Thibault Huckert.pdf
-      - hour: 12h30 - 13h15
+        - id: 32
+          subject:	Comment la culture projet influence les pratiques agiles ?
+          description:	à travers un voyage depuis les des débuts de l'informatique en entreprise, comprenons l'origine des dérives actuelles et ré-insufflons la culture agile dans nos pratiques
+          speaker:	Claire Morin, Michel  Goldenberg
+          format:	Talk (45 minutes)
+          level: 2
+        - id: 21
+          subject:	Prise de décision dans une entreprise sans chef
+          description:	"Une entreprise sans chef ? Oui c’est possible ! Les équipiers proches du terrain peuvent diriger. Le manager leur apporte des perspectives pour que les décisions soient cohérentes.
+        
+        Comment décider en grands groupes ? L’entreprise RITMx, filiale de la SNCF de 150 personnes que j’accompagne fonctionne de la sorte depuis deux ans. Gini, un éditeur de logiciels Suisse d’une centaine d’employés a exposé ses principes de fonctionnement pendant la conférence Agile Lean Europe 2018. 
+        
+        Décortiquons ensemble comment prendre des décisions efficacement en grand groupes, basé sur ces deux exemples."
+          speaker:	Jonathan Scher
+          format:	Talk (45 minutes)
+        - id: 14
+          subject:	Les Derdians
+          description:	"Les Derdians est un peuple rural et pacifique vivant dans de petites huttes nichées au coeur de  vallées verdoyantes. Reniant précédemment toute forme de modernité, les Derdians ont décidé depuis cette année de s'ouvrir au monde et d'accueillir les nouveautés provenant des 4 coins du globe. Préparez-vous à un choc des cultures ! 
+        Cet atelier immersif, bien connu des culture hackers, souligne les réflexes grégaires mis en jeu lors de la rencontre de deux équipes dont les cultures sont éloignées. Have fun & Learn :)"
+          speaker:	Romain Vailleux
+          format:	Atelier court (45 minutes) / Short workshop
+      - hour: 12h30 - 13h30
         special: 1
         content:
-          - label: Déjeuner (Atrium)
+          - label: Déjeuner (Aula Maxima)
             fill: 5
-            room: Atrium
+            room: Aula Maxima
     -
-      - hour: 13h30 - 14h15
-        special: 1
-        content:
-          - subject: "Pass Relationnel :  Modèle de demain ?"
-            id: pass_relationel
-            fill: 5
-            highlight: 1
-            level: 0
-      - hour: 14h30 - 14h50
+      - hour: 13h30 - 13h50
         content:
           - label: "Pitch sessions de l'après-midi"
             fill: 5
+      - hour: 14h00 - 14h45
+        content:
+        - id: 33
+          subject:	Product Owner (et plus car affinité) pendant 4 ans dans une PME.
+          description: >
+            Il était une fois un jeune développeur avide d'agilité, ambitieux de sortir de sa condition pas si misérable. Il fut ""promu"" au rôle de ""Product Owner"". 
+            ""Promu"", car il découvrit pendant 4 ans les conséquences de son ascension sociale sur une échelle agile (que l'on souhaite horizontale). 
+            ""Product Owner"", car il fut à la fois coach agile pour 2 équipes off-shore, Scrum Master, Product Owner, Chef de Projet, Directeur de Projet. Et donc aucun de ces rôles.
+            C'est une histoire de désillusions (cargo culte agile). Une histoire qui finit mal (donc riche d'enseignements). Une histoire vraie. Un Retour d'eXpériences.
+          speaker:	Gilles Masy
+          format:	Talk (45 minutes)
+        - id: 17
+          subject:	La technologie conduite par les communautés à l’échelle
+          description:	"L'évolution des technologies dans le monde du développement est elle compatible avec les grandes organisations ?
+        
+        Avec l’exemple de la DSI de 400+ développeurs chez AXA France, prenons le temps de voir comment nous avons fait évoluer notre mode d'organisation pour que les communautés animent les technologies utilisées.
+        
+        Organisation matricielle, rôle des Tech Leaders, Pratiques de Développement, Communautés de pratiques, Radar Techno... La mise en oeuvre de ces différentes approches nous aide à s'y retrouver et à nous adapter aux évolutions futures sereinement.
+        
+        Venez découvrir comment les devs sont devenus autonomes pour gérer la techno avec la responsabilité et la confiance de l'entreprise"
+          speaker:	Cyril Lakech
+          format:	Talk (45 minutes)
+        - id: 68
+          subject:	"Consumer Driven Contracts: The Evolution of Your API Using Tests"
+          description: >
+            Did you ever struggle integrating with an api from another team that kept on changing? Or provided an api that you where unsure how to evolve because you did not know how people use it?
+        
+            This workshop aims to explain how to organise define and evolve apis keeping consumer in mind and learn how to use some tools like Swagger and Pact to help you with this."
+          speaker:	Matteo Pierro, Nelis Boucke
+          format:	Atelier Long (105 minutes - 1h45) / long workshop
+          duration: 2
+        - id: 64
+          subject:	"Les émotions au travail : Qu'est-ce que j'en fais ?"
+          description: >
+            Cette session de deux heures est née d’une situation en entreprise où je me suis retrouvée avec une équipe entière en situation de stress émotionnel. L’idée : prendre du recul, respirer, se poser et détricoter tout ça fils après fils. Je vous propose un cheminement au coeur d’une relation entre l’émotion de l’autre et la notre. Au court de ce voyage nous ferons des points d’étapes pour comprendre le concept de souveraineté, comment nous pouvons sortir d’une situation émotionnelle perdant-perdant ou encore le lien entre les émotions et les besoins. L’objectif de tout cela ? D’abord et avant tout, nous donner une vision différente des choses et nous permettre d’améliorer notre quotidien.
+          speaker:	Julie Quillé, Thomas Clavier
+          format:	Atelier Long (105 minutes - 1h45) / long workshop
+          duration: 2
+        - id: 22
+          subject:	"Game Up ! Sensibiliser chacun à son pouvoir de transmission par le jeu"
+          description: >
+            L'Agilité à l'échelle concerne souvent un très grand nombre de personnes et d'interactions, pour un petit nombre de porteurs pro-actifs de la transformation.
+            Que faire lorsqu'on fait face à une immensité d'apprenants pour une poignée de ""transmetteurs"" ?
+            A mi-chemin entre le Serious Game et l'Open Source, #OpenSeriousGame est un moyen simple, ludique et libre de réveiller le pouvoir de transmission qui sommeille en chacun de nous.
+            Nous aimons tous jouer et apprendre. Le pouvoir de l'apprentissage est décuplé lorsqu'on apprend en jouant. 
+            Grâce à cet atelier, nous proposons à chacun de surmonter ses freins et d’apprendre à transmettre en triomphant de ses blocages.
+          speaker:	Alexandre Quach, Lucie Lesage
+          format:	Atelier Long (105 minutes - 1h45) / long workshop
+          duration: 2
       - hour: 15h00 - 15h45
         content:
-          - subject: "Le Lean sans respect c'est comme s'allonger nu sur une plage sans crème et sans parasol, ça fait très mal et c'est dangereux !"
-            description: >
-                         On parle beaucoup de Lean Management et surtout en mal (presse, TV...) or nombre de personne ne savent pas réellement ce que recouvre le Lean issu de Toyota : un système de production (le Toyota Production Système) ET un système de management (le Toyota Way). Beaucoup pensent qu'en appliquant seulement les outils (le TPS) ils font du Lean ; c'est une erreur ! Ils font du taylorisme et du cost-cutting. Cette session vise à montrer comment le vrai Lean (TPS + Toyota Way) respecte les personnes (autonomie, compétences, bien-être au travail). De plus, nous verrons ce que veut dire en Lean "respecter les personnes".
-            speaker: Jean-Philippe DOUET
-            id: lean_sans_respect
-            level: 0
-          - subject: "Du DDD dans mon Legacy ! (live-coding)"
-            description: >
-                         Prenons une application legacy on ne peut plus classique : code procédural du mur au plafond, code métier complétement anémique et étouffé par de la tuyauterie technique... Du classique quoi... ;-) Notre mission pour cette session de pure live-coding sera d'identifier et d'extraire les concepts du domaine en pleins milieu de ce bordel, pour pouvoir y ajouter une nouvelle fonctionnalité désespérément demandée par notre métier depuis des mois. Bien sûr, ce sera l'occasion d'utiliser et d'expliquer en chemin quelques patterns du DDD.
-            speaker: Thomas Pierrain, Bruno Boucard
-            id: ddd_legacy
-            level: 0
-          - subject: Mon premier train SAFe
-            description: >
-                         Je viens partager avec vous une mise en place de SAFe sous la forme d'une rétrospective. Au bout de 20 mois, qu'a apporté ce framework aux équipes ? Que faut-il éviter ? Comment s'améliorer ? Is it SAFe or not?
-            id: premier_train_safe
-            speaker: Johan Bonneau
-            level: 0
-          - subject: "L'estimachien"
-            description: "Comment présenter le Planning Poker à des gens qui ne l'ont jamais vu et sans parler d'informatique. Un atelier qui explique comment ça fonctionne, la complexité, le rôle du PO, l'intérêt du Planning Poker et pourquoi des équipes n'arrivent pas aux même estimations. 
-                         Le Must? Tellement facile que c'est ré-utilisable dès que vous sortez."
-            speaker: Matthieu Salikhov
-            id: estimachien
-            level: 0
-          - subject: "Everyone is a Product Manager (Yes, even you!)"
-            description: >
-                         What is a Product Manager? And how am I one, even if it is not my job title? This hands-on workshop will delve into the 101 of Product Management and product vision creation and expand it to the world of development, marketing and beyond.
-                         
-                         Why? As everyone can benefit from having a vision of what they should do, constant measured feedback and the ability to say no (nicely)!
-                         
-                         Working as a Product Manager and training others for 7 years has indelibly changed my work and personal life for the better. I will share what I have learned and walk you through your own “product” exercises.
-            speaker: Sheila SUAREZ DE FLORES
-            id: everyone_product_manager
-            level: 0
-            slides_url: https://www.slideshare.net/SheilaSuarezdeFlores/everyone-is-a-product-manager-learn-applicable-product-thinking-for-your-life
+        - id: 39
+          subject:	"Le bonheur au travail et à la maison : un programme de développement personnel"
+          description: >
+            Alors que l'on entend beaucoup parler du ""bonheur au travail"", je me suis demandé : n'y a t-il qu'un seul bonheur ? Et pourquoi juste au travail ?
+        
+            Convaincu que la performance d'entreprise provient avant tout du bien-être de ses employés, j'ai lancé une expérimentation sur 3 mois afin d'accompagner des collaborateurs vers une autre perception d'eux-mêmes et de leur environnement.
+        
+            Envie d'en savoir plus ? Retour d'expérience, apprentissages et témoignage à la clé !
+          speaker:	Olivier My
+          format:	Talk (45 minutes)
+        - id: 25
+          subject:	Pour développer le bon produit, comment je démarre ?
+          description:	"“L’idée du siècle: check ! L’équipe: presque check ... Maintenant comment je démarre ?” Il y a surement plusieurs bonnes réponses. En tout cas, la notre, c’est le cadrage 360°.
+        
+        La recette du succès : les équipes IT et métiers réunies pour des ateliers collaboratifs pour parler produit, technique et organisation. Après plusieurs cadrages chez un de nos clients nordistes, nous reviendrons sur les victoires et les difficultés rencontrées sur le terrain. 
+        
+        A l’issue de ce talk, vous pourrez tester avec vos équipes une nouvelle approche pour démarrer efficacement un projet agile."
+          speaker:	Rémi Vandenbroucke, Guillaume Fabrizi
+          format:	Talk (45 minutes)
       - hour: 15h45 - 16h10
         content:
           - label: "Pause café"
             fill: 5
       - hour: 16h15 - 17h00
         content:
-          - subject: "Mise en place de DevOps chez AXA France"
-            description: "
-                         L’objectif de cette session est de faire part de nos premières expériences sur la mise en place du software Craftsmanship et de DevOps en profitant de l’Agilité « At Scale » via la généralisation de l’organisation en Feature Teams.
-                         "
-            speaker: Laurent Nyffels
-            id: devops_axa
-            level: 0
-          - subject: "Legacy, for lack of a better word, is good"
-            description: >
-                         Developers love to complain about their legacy systems, but if you have a legacy system, it means you have a working, successful system which deliver real value to business, and this is definitely a good thing. 
-                         Even more, legacy system is a system so successful that it makes very hard to dispose of it, even when it is obsolete in some (or all) respects. 
-                         The problem is how to keep it nimble and easy to maintain and expand. 
-                         It could be not easy, but if you try a rewrite you are taking a much bigger risk. 
-                         You may have to add new feature to an old legacy application or make it scale with different architecture. 
-                         To do this you need to be able to split monolithic applications in smaller modules and then refactor them, but without blocking development.
-                         <br> 
-                         Notes: This session is about some techniques of high level refactoring I've used working in big projects in recent years. Presentation contains code examples.
-            speaker: Uberto Barbini
-            id: legacy_is_good
-            level: 0
-          - subject: "La zemblanité ou comment rater avec détermination"
-            description: >
-                         Avez-vous déjà entendu parlé de la sérendipité ? Vous savez le fait de découvrir par hasard des choses extraordinaires ! Et bien, je vous propose de vous parler de la zemblanité, son exact opposé.
-                         De la capacité à organiser avec soin et attention nos échecs, à l’énergie que nous mettons pour être certain de ne pas réussir, je vous propose une heure de découverte et d’échange au cœur de ce qui nous semble impossible … et qui pourtant est si fréquent !
-                         
-                         Venez découvrir les meilleures techniques pour rater vos projets à coup sûr.
-            speaker: "Olivier Albiez"
-            id: zemblanite
-            level: 0
-          - subject: "Playing the Agile Self-Assessment Game"
-            description: "There isn't a standard route to become agile, you have to find your own way. 
-                          Methods and frameworks don't tell you how to increase your agility. The Agile Self-Assessment Game is an 'agile map' 
-                          that inspires you with ideas and suggestions on where to go next on your agile journey. 
-                          Come play the Agile Self-Assessment Game in teams to discover how agile you are and what you can do to increase your agility." 
-            speaker: Ben Linders
-            id: agile_self_assessment_game
-            level: 0
-            duration: 2
-          - subject: "Travailler votre posture de Leader Hôte avec le Host Leadership"
-            description: "Nous vous  invitons à découvrir la posture de l'hôte leader, formalisée par Mark Mc Kergow qui revisite la notion de leadership à travers une métaphore complète : Quand vous invitez des personnes, chez vous, à un événement ou tout simplement à une réunion, comment préparez-vous votre invitation? Quels messages faites-vous passer? Comment faites-vous participer vos invités?
-                         Cette nouvelle session pratique vous permettra de vous mettre dans la position de l'hôte et d'échanger sur vos pratiques."
-            speaker: Aurélien Morvant, Matthieu Barbereau
-            id: host_leadership
-            level: 0
-            duration: 2
+        - id: 47
+          subject:	Un MVP et des utilisateurs en un mois au Ministère de l’intérieur !
+          description:	"On vous dit que votre entreprise est trop bureaucratique pour l’agile ou le lean startup ? Répondez que même le Ministère de l’intérieur y arrive !
+        Découvrez comment, au Lab innovation, un fonctionnaire devient intrapreneur. Comment on a lancé en moins d'un mois un MVP sans coder avec plus de 100 utilisateurs au lancement. Comment nous hackons des sites de petites annonces. Et repartez avec des idées activables chez vous pour crash-tester rapidement vos idées auprès des utilisateurs ...
+        "
+          speaker:	Dominique Lequepeys, Philippe Bron
+          format:	Talk (45 minutes)
+        - id: 18
+          subject:	"Sur le chemin de la qualité : en équipe et dès demain !"
+          description: >
+            Ça y est ! C’est décidé ! Vous allez construire des applications de meilleure qualité. Vous êtes convaincu(e) que, pour cela, certaines pratiques de développement sont fondamentales comme par exemple les revues de code ou les tests automatisés.
+        
+            Mais vos collègues n’en font pas. Parce que  « c’est trop cher on n’a pas le temps », « ça ne marchera pas chez nous »...
+        
+            Après cette conférence, quand vous reviendrez sur votre plateau projet, vous aurez des éléments à essayer tout de suite. Et peut-être de quoi élaborer un plan de bataille pour que vous et votre équipe soyez fiers de votre code et ainsi conquérir le monde ! ;-)
+          speaker:	Julien Jakubowski
+          format:	Talk (45 minutes)
+        - id: 58
+          subject:	Ralentir pour aller plus vite !
+          description:	Ce talk, durant lequel tous les cerveaux de la salle vont être mis à contribution, est une occasion de réfléchir ensemble à la façon dont nous pouvons nous perfectionner par l’attention aux détails. Nous allons profiter de ce ralentissement pour décortiquer nos gestes, nos habitudes, notre manière de faire. Profitons également du nombre pour confronter nos différences, le pourquoi de nos actions, en résumé profitons de l’expérience de chacun pour ressortir enrichi de ce voyage commun. Programmeurs confirmés ou débutants, en ressortiront tous riches d’une nouvelle expérience à reproduire dans leurs équipes.
+          speaker:	Thomas Clavier, Alexis Benoist
+          format:	Atelier Long (105 minutes - 1h45) / long workshop
+          duration: 2
+        - id: 54
+          subject:	Mieux communiquer en découvrant ses filtres d'attention
+          description:	"Une grande difficulté de la communication vient de la conviction de parler la même langue que l'autre, de donner le même sens aux mots et de considérer les mêmes choses comme importantes. Et s'il en était autrement ?
+        
+        Depuis notre enfance, nous avons développé des automatismes liés à notre perception du monde et qui vont conditionner la manière dont nous nous comportons aujourd'hui. Même si cela peut être notre principal atout, c'est aussi notre principale limitation."
+          speaker:	Olivier My
+          format:	Atelier Long (105 minutes - 1h45) / long workshop
+          duration: 2
+        - id: 86
+          subject:	Retrospecting your Retrospectives
+          description: >
+            Are your retrospective meetings not helping teams to improve? Same actions every time, people skip them, find them boring, lack of energy in the room? This session provides ideas to recognize retrospective smells, debug your agile retrospectives, and find out when and why they aren't working. Learn how to make them valuable again!
+        
+            Agile retrospectives should help teams to reflect at the end of each iteration to learn and decide what to improve and take action in the next iteration. Valuable Agile Retrospectives provide the solution for a successful agile adoption at all levels in the organization. They help teams to reflect and learn how to apply agile practices effectively, and support managers with ideas to set conditions for their teams to grow and deliver more value.
+        
+            Sometimes retrospectives don't live up their expectation. Problems that can happen are:
+        
+            •	The same actions keep coming up in every retrospective 
+            •	Nothing happens after the meeting, actions are not done 
+            •	People are postponing or skipping the retrospective meeting 
+            •	Team members complain that retrospectives are boring and a waste of time 
+            •	There's a lack of energy in the room during the meeting, people are not engaged 
+            •	People don't feel safe to speak up and share their view 
+            •	Discussions in the retrospective are not about the real problems (elephant in the room) 
+            •	The retrospective facilitator is leading people towards a pre-defined answer/solution
+            
+            In this mini-workshop you will experience how to use retrospective exercises to debug your retrospective meetings. People will work in teams to reflect how their retrospectives are going and will learn what they can do to make them valuable again.
+            
+            This is a highly interactive session, learning by doing. I'll bring in my experience from 18 years of doing agile retrospectives, and will set a culture where people will share their ideas and learn.
+            
+            Benefits for attendees: 
+            •	Learn to use exercises to reflect on your current practice of retrospectives 
+            •	See how to create a safe and productive environment to run retrospectives 
+            •	Practice effective skills for facilitating retrospectives and getting people engaged
+            
+            Intended audience: Scrum masters, agile coaches, tech leads, and anyone who facilitates retrospectives."
+          speaker:	Ben Linders
+          format:	Atelier long (105 minutes - 1h45) / long workshop
+          duration: 2
       - hour: 17h15 - 18h00
         content:
-          - subject: Comment lancer un projet agile en 5 jours chrono
-            description: >
-                         Parce que pour beaucoup, l'agilité, c'est "on démarre tout de suite", l'initialisation d'un projet agile est un sujet peu documenté. Praticiens agiles débutants et confirmés luttent pour trouver une recette simple permettant de passer d'un brief succinct à un backlog prêt au développement. 
-                         J'aborderai des notions telles que la mise au format agile de l'expression des besoins du client, l'approche user-centric, le vocabulaire du projet, mais également une mise en perspective du projet dans son contexte de marché.
-                         Venez faire le plein de conseils pratiques issus de l'expérience dans une session participative et ludique.
-            speaker: Yann Gensollen
-            id: lancer_projet_agile_5_jours
-            level: 0
-          - subject: "Pratiques de développement : mon plan d'entrainment"
-            description: "On se lance tous parfois des défis un peu fou, comme courir et finir son premier marathon. Vous souhaitez mettre en place les pratiques de développement au sein de votre équipe, venez suivre un exemple de plan d'entrainement."
-            speaker: Julien Hatzig, Julien Vandenbussche
-            id: pratiques_dev_entrainement
-            level: 0
-          - subject: "Recruter des développeurs : la fin de la quête du graal ?"
-            description: >
-                         Le Graal est une métaphore parfois employée par les recruteurs pour qualifier le "super développeur", le "mouton à 5 pattes" qui connait toutes les technos trendies et qui a le bonheur d'avoir des velléités salariales plutôt faibles. Comme dans le mythe arthurien, cette quête peut sembler vaine.<br> 
-                         Et si, le véritable Graal du recrutement IT ne se trouvait pas mais se construisait? Cette présentation me permettra de partager avec vous ma vision de la manière dont chaque entreprise pourrait réaliser sa quête du graal : par un recrutement intelligent et une réflexion sur l'intégration et la progression de ses salariés
-            speaker: Arnaud Huon
-            id: recruter_developpeurs
-            level: 0
-            slides_url: https://www.slideshare.net/ArnaudHuon/la-fin-de-la-qute-du-graal-agile-tour-lille-2017
+        - id: 42
+          subject:	Une durée de développement d’une fonctionnalité produit multi-composants réduit de 6 à 2 semaines ? Oui, c’est possible !
+          description:	"Bientot 100 sprints à évoluer au sein d'un centre de développement en constante mutation, dans un contexte d’application multi-composant, multi-équipes. Le parcours peut parfois être semé d'embûches.
+        L’homogénéisation des pratiques de développement, la gestion des dépendances ou encore la synchronisation de chacune des équipes, Scrum mis à l'échelle n’est pas toujours aisé.
+        Nous mettons en scène nos difficultés rencontrées et comment nous avons pioché dans la boite à outil Agile les clés de notre nouvelle réussite chez Auchan Retail France. Après la mise en place de Nexus c’est le moment de partager nos réussite nos échecs et surtout les clés que nous avons utilisées."
+          speaker:	Guillaume Remmerie, Djamel Labani
+          format:	Talk (45 minutes)
+        - id: 16
+          subject:	Top 10 agile punchline
+          description: >
+            On a beau être soi-même intimement persuadé par la philosophie agile, dans la jungle de l’entreprise, pas toujours facile de convaincre son entourage (ou son manager) pour propager les valeurs qui nous sont chères. Pour vous assister dans cette tâche, je vous confie mon top 10 de punchlines agile à décocher dans vos réunions pour : #1 reprendre votre souffle, #2 vous aider à structurer votre discours et #3 marquer les esprits.
+          speaker:	Jules Deregnaucourt
+          format:	Talk (45 minutes)
       - hour: 18h00 - 20h00
         special: 1
         content:
-          - label: Agilistes autour d'un verre (et plus si affinités) - Atrium
+          - label: Agilistes autour d'un verre (et plus si affinités) - Aula Maxima
             image: 2818268935_5d06ed7b4a_m_d.jpg
-            room: Atrium
+            room: Aula Maxima
             extra: <span><i class="fa fa-beer"></i> Bières<sup>*</sup> et <span><i class="fa fa-comment"></i> échanges.
             highlight: 1
             fill: 5
-- date: Mardi 14 novembre
+- date: Vendredi 9 novembre
   schedule:
     -
       - hour: 08h45 - 9h15
@@ -275,171 +283,242 @@
         content:
           - label: "Accueil : retrait des badges, café et début des discussions :)"
             fill: 5
-            room: Atrium
+            room: Aula Maxima
       - hour: 09h30 - 10h15
         content:
-          - subject: "3 idées qui changent tout"
-            speaker: Christophe Thibaut
-            description: "<p>Nous sommes en train de changer profondément la façon dont nous développons du logiciel.</p> 
-                          <p>Avant que ce changement ne commence - il y a environ 20 ans - dans la plupart des entreprises, le travail de développement était organisé en phases, réparti sur des équipes spécialisées, et reposait presqu’exclusivement sur l’écrit. 
-                          </p>
-                          <p>Lorsque que le changement sera achevé - dans 20 ans peut-être ? - le développement de logiciel sera organisé bien différemment : en cycles courts, sans distinction de phases, il impliquera des équipes multi-compétentes travaillant en cohésion. 
-                          La conversation sera le moyen principal de transmission des idées, et tout ce qui doit être écrit le sera sous forme de code ou de tests. 
-                          </p>
-                          <p>Ce qui caractérise principalement ce changement, c’est l’adoption de boucles de retour d’information toujours plus courtes et toujours plus fréquentes. 
-                          </p>
-                          <p>Dans l’entreprise, ce changement rencontre des obstacles culturels nombreux et robustes. Il est pourtant inéluctable, pour trois raisons :</p>
-                          <ul>
-                          <li>le développement de logiciel est indispensable à la stratégie d’innovation des entreprises ;</li>              
-                          <li>la complexité de cette activité impose un modèle de collaboration qui rend caduque la séparation classique entre conception et réalisation ;</li>              
-                          <li>nous aspirons tous à faire un travail intéressant et épanouissant, plutôt que de produire aveuglément du code défectueux ou inutile.</li>
-                          </ul>              
-                          <p>Pour se convaincre de la présence de ce changement autour de vous, il suffit d’observer l’évolution des pratiques sur le terrain. 
-                          Dans cette keynote, je vous invite à considérer les trois idées majeures qui sous-tendent cette évolution. 
-                          En quoi ces idées font avancer le métier du développement, comment elles sont fréquemment altérées afin de préserver l’ancien modèle, 
-                          et comment les encourager afin d’accélérer la transformation du métier de développeur.</p>"
-            id: 3_idees
-            fill: 5
-            highlight: 1
-            level: 0
+        - speaker: Frédéric Leguédois
+          subject: Cessons les estimations !
+          description: 
+            Alors que les estimations sont à la base des méthodes classiques et que dans le domaine Agile, SCRUM notamment lui accorde une grande importance, nous allons l’espace d’une conférence remettre en cause celles-ci.<br> 
+            Après un bref rappel de différentes méthodes permettant de réaliser des estimations et croyances qui y sont attachées, nous prendrons le temps de réfléchir sur les effets néfastes de ces dernières. Enfin, nous verrons comment dans la réalité des projets, il est possible de s’en extraire.<br>  
+            Conférence iconoclaste, sous la forme d’un one man show, afin de réfléchir (et de rire ?) sur un aspect essentiel de l’agilité.
+          format: Keynote
+          id: frederic_leguedois
+          fill: 5
+          highlight: 1
       - hour: 10h30 - 10h45
         special: 1
         content:
-          - label: Pitch des sessions de la journée (Auditorium)
+          - label: Pitch des sessions de la journée (Aula Maxima)
             fill: 5
       - hour: 10h45 - 11h20
-        special: 1
         content:
-          - label: Lancement du <a href="/forum-ouvert">Forum ouvert</a>
-            fill: 5
-      - hour: 11h30 - 11h45
+        - id: 34
+          subject:	"Projet annoncé : périmètre figé, budget serré, date de livraison fixée. Et, s’il vous plait, avec de l’Agilité !"
+          description: >
+            « Bonjour, pourriez-vous développer ces fonctionnalités pour dans 9 mois exactement ? La date est TRES importante. Retirer une fonctionnalité ? Impossible ! ». 
+            On y a tous fait face un jour ! Nous y compris, au moment où l’on a dû développer la nouvelle application mobile AXA Banque. Un contexte pas toujours facile et souvent source de conflits entre métier et DSI. Comment être Agile dans ces conditions nous direz-vous ? 
+            Au travers d’un retour d’expérience, nous vous montrerons de quelle manière nous avons pu délivrer en temps et en heure la refonte complète d’une application bancaire Android et iOS et ce sans lésiner sur la qualité (et sans devoir travailler dans nos caves le week-end !).
+          speaker:	Alexis Dubois, Camille Fareneau
+          format:	Talk (45 minutes)
+        - id: 9
+          subject:	"Sisyphe, le Père Noël, Harry Potter et le vrai PO : mythes d'hier et d'aujourd'hui."
+          description:	"Le vrai PO est un animal rarement observé, certains même disent que c'est un mythe. On raconte qu'un coach agile du 13ème (siècle ou arrondissement, on ne sait pas) en aurait croisé un. 
+        Tel, Sisyphe qui roule sa pierre encore et encore, il doit travailler son besoin sous forme de User Story.
+        Tel le Père Noël il doit faire plaisir à tous ses utilisateurs sans en oublier un seul.
+        Tel Harry Potter, il doit créer de manière magique une osmose avec l'équipe de développement.
+        Cette conférence va passer en revue les mythes liés au travail du PO et comment adapter ses pratiques tout en gardant son agilité."
+          speaker:	Maxime Bonnet
+          format:	Talk (45 minutes)
+          level: 2
+        - id: 4
+          subject:	Le Pair Programming sous toutes ses formes
+          description: >
+            Bien que souvent résumée à mettre deux développeur·se·s derrière un même clavier, la pratique du Pair Programming n'est pas triviale, et se retrouve en bien des occasions comme pointée du doigt car peu efficace, ou frustrante pour les participant·e·s. Lors de ce codelab, vous découvrirez que le Pair Programming peut se décliner sous de multiples formes selon vos objectifs : découvrir un nouveau langage, résoudre un problème complexe, faire découvrir une technologie, ou simplement pratiquer des techniques de développement. A la manière de katas d'arts martiaux, et en se basant sur la pratique, nous illustrerons différentes façons d'appréhender l'art du travail en binôme pour écrire du code. 
+          speaker:	Michel Daviot, Antoine Neveux
+          format:	Atelier Long (105 minutes - 1h45) / long workshop
+          duration: 2
+        - id: 3
+          subject:	"Le pas japonais : un escape game collaboratif pour résoudre un problème complexe" 
+          description:	Envie de résoudre un problème complexe en s'auto-organisant? hum, pas si facile, nous verrons si vous êtes capable de répondre au défi!
+          speaker:	Benjamin Cabanne
+          format:	Atelier Long (105 minutes - 1h45) / long workshop
+          duration: 2
+        - id: 37
+          subject:	Travailler avec des équipes distantes
+          description:	"S’il est certain que le management visuel participe pleinement à la réussite des équipes qui le pratique, les changements organisationnels des entreprises d’aujourd’hui font naitre de nouvelles contraintes : Equipes distantes ? Télétravail ? Flex Office ? Découvrez comment favoriser la collaboration grâce à une solution digitale innovante. Le management visuel multi-sites et multi-utilisateurs est une réalité et une opportunité à saisir pour continuer à collaborer, apprendre ensemble et s’améliorer continuellement quel que soit le contexte des équipes et sans contrainte aucune. Gain de place, gain de temps, réduction des déplacements et meilleure traçabilité sont alors à portée de main. 
+        "
+          speaker:	Justine Slimane
+          format:	Atelier court (45 minutes) / Short workshop
+      - hour: 11h30 - 12h15
         content:
-          - subject: Retour d'expérience d'un projet agile à La Redoute
-            description: >
-                         Après 6 mois de fonctionnement agile, les premiers résultats sont exceptionnels : tant au niveau business que sur le plan humain.
-                         <ol>
-                         <li>Comment tout a commencé</li>
-                         <li>Comment s'est organisée l'équipe</li>
-                         <li>Quelles difficultés avons-nous rencontrées</li>
-                         <li>Quels résultats et quels facteurs clés de succès</li>
-                         </ol>
-                         Conclusion : au regard de cette expérience, l'enjeu est désormais de pérenniser ce fonctionnement.
-            speaker: Corinne Alexandre
-            id: rex_la_redoute
-            level: 0
-          - subject: "Coding goûter : du code, des enfants, des parents et un goûter !"
-            description: "Céleste, 11 ans et Thomas, son papa viennent vous parler des coding goûter. Cette session vous permettra de découvrir l'état d'esprit qui habite ce merveilleux moment de complicité entre parents et enfants. Ce que nous y faisons, comment nous le faisons, et surtout pourquoi nous le faisons. Parents, à travers les regards croisés d'une fille et de son papa, venez trouvez les clés pour construire un événement similaire avec vos enfants. Enfants, venez découvrir comment d'autres enfants apprennent à leurs parents à coder."
-            speaker: Thomas Clavier, Céleste Clavier
-            id: coding_gouter
-            level: 0
-            duration: 3
-          - label: <a href="/forum-ouvert">Forum ouvert</a>
-            fill: 3
-            duration: 3
-      - hour: 11h45 - 12h00
-        content:
-          - subject: Oublions les frameworks à l'échelle et revenons au coeur de l'agilité
-            description: >
-                         SAFe, Scrum à l’échelle… :  16 ans après le manifeste Agile, l’Agilité et ses frameworks sont devenus aussi denses que compliqués. Et si nous revenions à l’essence même de la culture Agile ?
-            speaker: Denis Migot
-            id: oublions_frameworks
-            level: 0
-      - hour: 12h00 - 12h15
-        content:
-          - subject: TDD, BDD, DDD! Parlons DD ?
-            description: >
-                         Plein de DD dans le monde du Software Craftsmanship qui nous amènent à nous poser plein de questions
-                         Les mettre ensemble ? Les séparer ? Quelle pratique est la plus importante ? Tester ou discuter ? Dessiner ou Ecrire ?
-                         Dans ce talk, nous essayerons ensemble de décortiquer 3 bonnes pratiques de développement en les positionnant chacune dans son cadre.
-            speaker: Imen Rassaa
-            id: tdd_bdd_ddd
-            level: 2
+        - id: 35
+          subject:	Découplez votre organisation
+          description: >
+            N'avez vous jamais rêvé d'une organisation humaine qui ne soit plus un frein au changement ? Ou dit positivement : qu'elle s'adapte au même rythme que les autres composantes de l'organisation. En même temps, Conway nous dit que le design des organisations humaine et technique sont liés. D'où l'idée d'utiliser des principes de limitation des dépendances aux deux. Pour les concepts qui seront évoqués, il s'agit de DDD stratégique avec de la pensée systèmes (humains). Et normalement, vous repartirez avec des exemples de ce qu'il faut éviter et des idées de ce que vous pourriez faire pour rendre votre organisation plus fluide.
+          speaker:	Samuel Retiere
+          format:	Talk (45 minutes)
+        - id: 12
+          subject:	Test-Driven Development sur votre infrastructure avec Ansible !
+          description:	"Vous faites du TDD quand vous développez des logiciels ? Pourquoi ne pas en
+        faire quand vous faites du code d’infrastructure ? Longtemps l’outillage propre
+        à l’Infrastructure as Code a été rare, mais aujourd’hui ce n’est plus le cas !
+        Nous allons vous montrer comment faire cela avec Ansible, Molecule, Testinfra
+        et Docker.
+        
+        Comment intégrer les bonnes pratiques de développement à l’Infrastructure As
+        Code ? Comment faire pour améliorer la qualité de son code ? Comment utiliser les
+        pratiques de Software Craftsmanship dans ce milieu particulier ?
+        
+        Venez découvrir comment monter une infrastructure, pas à pas, lors d’une live
+        démo, dans une démarche de TDD !"
+          speaker:	Sebastian Caceres, Tanguy Patte
+          format:	Talk (45 minutes)
+          level: 2
+        - id: 48
+          subject:	"Craftsminator - Libérez vos entretiens d'embauche"
+          description: >
+            Vous êtes-vous déja posé l’une de ces questions ? 
+            - Comment puis-je faire pour dynamiser mes recrutements ?
+            - Comment puis-je mettre un candidat à l'aise lors d'un entretien ?
+            - Comment puis-je avoir des discussions d'égal à égal ?
+            - Comment puis-je jauger techniquement mais également humainement un candidat ?
+            Au sein d’Agile Partner, nous avons trouvé une solution pour répondre à ces questions de façon rapide, simple et efficace : la gamification.
+        
+            Ainsi, en nous inspirant des escape games à base de cartes à jouer nous avons créé un jeu. ""Craftsminator"" permet de tester nos candidats dans un environnement sécurisé.
+          speaker:	Yoan Thirion
+          format:	Atelier court (45 minutes) / Short workshop
     -
-      - hour: 12h30 - 14h00
+      - hour: 12h30 - 13h30
         special: 1
         content:
-          - label: Déjeuner (Atrium)
+          - label: Déjeuner (Aula Maxima)
             fill: 5
-            room: Atrium
+            room: Aula Maxima
+      - hour: 13h30 - 13h50
+        content:
+          - label: "Pitch sessions de l'après-midi"
+            fill: 5
       - hour: 14h00 - 14h45
         content:
-          - subject: "Les managers : les oubliés de l’agilité !"
-            description: "Lorsque l’on parle d’agilité, on parle d’auto-organisation, de facilitation, on explique que le SM ou le PO ne sont pas des managers… Le rôle du management est souvent minoré voire ignoré dans la démarche de transformation.
-                         
-                         Et cela se ressent après quelques semaines ou quelques mois : les managers peinent à trouver leur place, perdent leurs repères. Un malaise s’installe. Ce phénomène est d’autant plus fort dans les entreprises de taille conséquente.
-                         
-                         Une équipe a-t’elle toujours besoin de management pour réussir ses projets ? 
-                         Si oui, quel doit-être son rôle dans une organisation agile et comment l'intégrer dans la démarche de transformation ?"
-            speaker: Cédric Pourbaix
-            id: managers_oublies_agilite
-            level: 0
-          - subject: "Après s’être organisé en tribus d’indiens, AXA diffuse BDD avec les 3 Amigos"
-            description: >
-                         En 2016, Djim et Mehdi étaient venus parler de la transformation Feature Teams d'AXA France. Nouveaux rôles, nouvelle organisation, nouvelles méthodes de travail, tout avait été expliqué en détails.
-                         La transformation de 2000 personnes prend du temps, l'occasion de revenir vous faire un nouvel épisode. Cette fois-çi, Emilie-Anne et Emmanuel vous proposent de rentrer un peu plus en détails dans les pratiques d'ingénierie. 
-                         Nous allons nous concentrer sur l'écriture du besoin ; de nos ateliers 3 amigos à la (re)mise en place de la méthode BDD.
-                         Pourquoi "le flux tiré c'est la vie" ? Qui sont ces 3 amigos dont nous parlons sans cesse ? Avons-nous enfin arrêter d' "écrire" des BDD ?
-            speaker: Emilie-Anne Guerch, Emmanuel Lehmann
-            id: 3_amigos
-            level: 0
-            slides_url: https://t.co/1azxZVSBeX
-          - label: <a href="/forum-ouvert">Forum ouvert</a>
-            fill: 3
-            duration: 2
+        - speaker: Emilie Esposito
+          subject: Cargo cult agile
+          description:
+            Le monde change, de plus en plus vite. Les entreprises sont submergées d'injonctions à se transformer, à disrupter, et elles ne savent pas comment s’y prendre.
+            <br>
+            Leurs produits n’évoluent pas assez vite, leurs clients et utilisateurs les quittent car ils se sont habitués à la simplicité des Über, Spotify, Waze...
+            <br>
+            Elles galèrent pour recruter, et quand par miracle elles y parviennent, elles peinent à garder les collaborateurs motivés, voire à les garder tout court.
+            <br>
+            Il est alors facile pour elles de tomber dans le piège du cargo cult agile. Elles se ruinent avec une armée de consultants qui va déployer sa méthode prête à porter, pour une valeur réelle difficile à identifier.
+            <br>
+            Le cargo cult agile n’est pas une fatalité. Venez découvrir des solutions pour une transformation efficace et durable.
+          format: Keynote
+          fill: 5
+          highlight: 1
+          id: emilie_esposito
       - hour: 15h00 - 15h45
         content:
-          - subject: "Talk choisi par le public"
-            description: >
-                         <p>Julie proposera au public de choisir parmi 3 talks, par un vote à main levée le jour J&nbsp;:</p>
-                         <ul>
-                           <li>La CNV au service de l’agilité</li>
-                           <li>Manipulation et raisonnement erroné, quelle différence&nbsp;?</li>
-                           <li>Vous arrive-t-il d’infliger de l’aide&nbsp;?</li>
-                         <ul>
-            speaker: "Julie Quillé"
-            id: julie_quillie
-            level: 0
-          - subject: "Etes-vous au QP?"
-            description: >
-                         Vous avez augmenté le potentiel de votre équipe en développant leurs compétences tout en vous préoccupant davantage de leurs émotions. Pourtant votre équipe est parfois à plat et ce n'est ni leur QI (quotient intellectuel) ni leur QE (quotient émotionnel) qui est en cause. Et si on cherchait plutôt du côté du QP? Le quoi? Le quotient physique bien sûr! En effet, un quotient physique au top permet d'exploiter pleinement le potentiel de chacun. Venez découvrir comment le prendre en compte et le développer dans l'animation de votre équipe au quotidien.
-            speaker: Marine Fromentin, Christophe Porchet
-            id: qp
-            level: 0
+        - id: 20
+          subject:	Agilité en data-science
+          description:	"Avec l'engouement grandissant autour de l'Intelligence Artificielle, de plus en plus en plus d'entreprises s'interrogent sur la mise en place d'une organisation efficace autour de ces nouveaux métiers. 
+        Nous vous proposons un retour d'expérience de l'équipe Data-science de Decathlon à travers lequel nous aborderons comment nous nous sommes appropriés les principes Agile depuis début 2017, nos victoires et nos difficultés."
+          speaker:	Grégory Vanuynsberghe, Claire Deltrel
+          format:	Talk (45 minutes)
+        - id: 24
+          subject:	Le Scrum est une fenêtre (ou bien un mur)
+          description: >
+            Après de longs mois d'application de ""Scrum by the book"" dans une feature team de 5 personnes, tout est très bien maîtrisé. Un peu trop ? Le cadre du Scrum s'est dressé comme un mur devant nous.
+            Quelques semaines plus tard, nous avions assisté à une évolution des mentalités et des rituels. Nous sommes devenus une équipe plus Agile qu'hier, et en constante évolution. Vous voulez aussi utiliser Scrum comme une fenêtre vers l'Agilité ?
+          speaker:	Baptiste Lecocq
+          format:	Talk (45 minutes)
+        - id: 6
+          subject:	DDD Strategic pour la survie
+          description:	"Vous avez une conception métier complexe? 
+        Vous vous demandez comment vous allez faire pour faire communiquer 10 équipes sur la création de votre logiciel? 
+        DDD Strategic est certainement une approche qui va vous intéresser!
+        A l'issue de cet atelier vous serez capable de mener une reflexion sur votre organisation pour démarrer le design de la solution la plus adaptée à votre métier."
+          speaker:	Jonathan Duberville
+          format:	Atelier court (45 minutes) / Short workshop
+        - id: 59
+          subject:	Teambuildez-vous !
+          description:	"Rien de tels que des ateliers de teambuilding pour améliorer la cohésion d’équipe. Intégrer un nouveau collaborateur, dynamiser l’équipe, apprendre à connaitre les membres d’une autre équipe … sont autant de prétextes pour utiliser ces serious games.
+        Démêler le vrai du faux, se poser des questions surprenantes, dessiner un portrait à plusieurs, deviner à qui appartient un portrait chinois … venez apprendre à connaitre d’autres personnes tout en vous amusant"
+          speaker:	Claire Deprez
+          format:	Atelier court (45 minutes) / Short workshop
+        - id: 61
+          subject:	Améliorons durablement notre culture des réunions grâce à Meeting Spicer
+          description: >
+            "Favorisons les Humains et leurs interactions" qu'ils disaient ! Oui, mais...
+        
+            Quel était le niveau d'efficacité de vos dernières réunions ou ateliers ?
+            Connaissez-vous l'expression "Réunionnite aigüe" ?
+            
+            Bienvenue à vous pour cette session où nous nous interrogerons aux solutions dont on dispose pour améliorer durablement notre culture des réunions. Et si les participants aux réunions en devenaient les acteurs de leur réussite...
+            
+            Finalement, nous présenterons un outil (The Meeting Spicer) qui, grâce à la mise en oeuvre du micro-apprentissage et de la prise de conscience de son contexte, répond à cette problématique apparement très répandue...
+          speaker:	Régis Schneider
+          format:	Atelier court (45 minutes) / Short workshop
       - hour: 15h45 - 16h15
         special: 1
         content:
-          - label: Pause Café (30 minutes) - Atrium
+          - label: Pause Café (30 minutes) - Aula Maxima
             fill: 5
             hide-on-home: 1
-            room: Atrium
+            room: Aula Maxima
       - hour: 16h15 - 17h00
         content:
-          - subject: "Comment planter son projet sans se faire choper ?"
-            description: >
-                         Sous la forme d’un one man show, en se basant sur un retour d’expérience, il s’agit d’illustrer deux principes de l’agilité :
-                          <ul>
-                             <li>La méthode la plus simple et la plus efficace pour transmettre de l’information à l’équipe de développement et à l’intérieur de celle-ci est le dialogue en face à face.</li>
-                             <li>La simplicité – c’est-à-dire l’art de minimiser la quantité de travail inutile – est essentielle.</li>
-                          </ul>
-                         Bien que le retour d’expérience soit basé sur un projet de développement logiciel, il est facilement transposable à d’autres métiers et ne comporte aucun jargon.
-            id: planter_son_projet
-            speaker: Frédéric Leguédois
-            level: 0
-          - subject: "Rémunération dans une entreprise agile ou libérée"
-            description: >
-                         Dans le modèle classique actuel, la rémunération sert plusieurs objectifs, que ce soit la reconnaissance, la motivation ou encore l’attractivité de l’entreprise. Cependant, le revers de la médaille est qu’il devient le centre de toutes les attentions et que nous en oublions de nous poser certaines questions.
-                         Nous vous proposons une réflexion sur ce que nous lions à la rémunération, ainsi qu’une présentation d’une solution de rémunération plus juste répondant aux aspirations de l’entreprise et de l’individu libéré.
-            id: remu_entreprise_agile
-            speaker: Olivier Albiez
-            level: 0
-          - label: <a href="/forum-ouvert">Forum ouvert</a>
-            fill: 3
-      - hour: 17h00 - 18h30
+        - id: 44
+          subject:	Les utilisateurs finaux, les oubliés de nos produits !
+          description:	"Depuis quelques années, vous entendez parler de transformation d’entreprises permettant la diminution du Time-To-Market, le rapprochement des développeurs et opérationnels et la synchronisation des backlogs ou encore favorisant le plaisir au travail. Pourtant nous oublions l’essentiel, réaliser le bon produit répondant aux réelles problématiques des utilisateurs finaux.
+        Ce fondement est trop souvent oublié par toutes ces entreprises voulant monter vite sur l’agilité à l’échelle. Vous êtes vous déjà rendu compte à quel point cette clé de succès est oubliée ? Savez-vous pourquoi il faut mettre un point d’honneur à intégrer les utilisateurs finaux dans les projets ?"
+          speaker:	Nelson Dufossé
+          format:	Talk (45 minutes)
+        - id: 1
+          subject:	Manager en milieu agile, mon "marshmallow test" quotidien
+          description:	"Isolez un enfant dans une pièce, donnez lui un chamallow et dites que vous allez faire un tour et que quand vous reviendrez, s'il n'a pas mangé son chamallow alors il aura le droit d'en avoir un second. L'enfant aura t-il assez de patience et de volonté pour ne pas succomber à la tentation ? Gros dilemme...
+        Et si la tentation du manager agile était le contrôle ? Et le chamallow la confiance ?"
+          speaker:	Jean-Baptiste Hugueux
+          format:	Talk (45 minutes)
+        - id: 15
+          subject:	"Tennis Kata : dites stop au TDD et passez au TDD !"
+          description:	"Deux piliers du Software Craftsmanship manifesto sont : des logiciels bien conçus et  l'ajout constant de la valeur. Pourtant les développeurs ont tendance à subir leur premier outil : le langage de programmation, et développent pour lutter contre un outil mal choisi des pratiques telles que le TDD à l'excès... Avec le Type Driven Design, toutes une catégorie de tests peut être encodée dans votre application grâces à un système de types algébriques, et surtout vous permet de mieux raisonner votre application. 
+        Avec la montée en puissance de langage statiquement typé et tel que F#, OCaml, Haskell, Scala, Swift, Kotlin, ReasonML, Rust, Nim, ... c'est un sujet d'actualité."
+          speaker:	Thomas Haesslé
+          format:	Atelier Long (105 minutes - 1h45) / long workshop
+          duration: 2
+        - id: 53
+          subject:	"Training From the Back of the Room : agilisez vos formations"
+          description: >
+            Savoir former un public à des sujets tels que les méthodes agiles fait partie de la panoplie d'un bon coach ou Scrum Master. Venue des Etats-Unis, la méthode Training From the Back of The Room, créée par Sharon Bowman, redonne du pep's à vos formations. Cet atelier vous permettra d'expérimenter les fondamentaux de cette approche innovante.
+          speaker:	Nicolas Umiastowski
+          format:	Atelier Long (105 minutes - 1h45) / long workshop
+          duration: 2
+        - id: 2
+          subject:	Karate Dinosaur Carpaccio
+          description:	"Inspiré de l'extrême Carpaccio d'Alistair Cockburn, l'atelier propose aux participants de découvrir la difficulté des estimations, l'intérêt des démos aux clients à chaque itération et l'importance des feedbacks réguliers.
+        
+        Articulé autour de la planification et de la construction de legos en équipe, l'exercice permet aux expérimentés comme aux néophytes d'appréhender facilement les avantages et les limites de l'agilité comme elle est pratiquée généralement."
+          speaker:	Bernard Klymowicz, Matthieu Salikhov
+          format:	Atelier Long (105 minutes - 1h45) / long workshop
+          duration: 2
+      - hour: 17h15 - 18h00
+        content:
+        - id: 8
+          subject:	Quand l'hyper agilité est une question de survie
+          description:	"A la naissance d’une start-up, il y a souvent une idée. Une idée et quelques personnes qui y croient.
+        
+        Mais quand le succès survient, arrive alors l’heure des dilemmes: interface d’administration ou Postman ? Devrais-je contracter cette dette technique ? Quand la rembourser ? Le shadow IT est-il un mal nécessaire ? Comment faire pour ne pas subir les changements de priorité réguliers ? Une équipe ? Deux ? Quand ?
+        
+        Adrien et Mathieu de Pix.fr, start-up dont l’ambition est de devenir LE standard pour “Évaluer, développer et certifier les compétences numériques” des Français, vous proposent de revenir sur deux années de développement: victoires, moments difficiles, questionnements, solutions."
+          speaker:	Adrien Saunier, Mathieu Laurent
+          format:	Talk (45 minutes)
+        - id: 7
+          subject:	Découvrez le Product Sprint
+          description:	"Le Product Sprint est une démarche inspirée du Design Sprint qui a pour objectif de construire un produit en moins de 5 jours. Plus actionnable et pragmatique que le Design Sprint, le Product Sprint permet de lancer les développements produit dès le 6ème jour. C’est une démarche que nous avons d’ores et déjà testée chez une dizaine de clients différents et qui a prouvé son succès. La démarche se structure de la façon suivante :
+        - Jour 1 : Discovery
+        - Jour 2 : Strategy
+        - Jour 3 : Design
+        - Jour 4 : Test
+        - Jour 5 : Backlog"
+          speaker:	Benoit Rosier
+          format:	Talk (45 minutes)
+      - hour: 18h00 - 20h00
         special: 1
         content:
-          - label: "Clôture, puis... </br> Agilistes autour d'un verre (et plus si affinités) - Atrium"
+          - label: "Clôture, puis... </br> Agilistes autour d'un verre (et plus si affinités) - Aula Maxima"
             image: 2818268935_5d06ed7b4a_m_d.jpg
-            room: Atrium
+            room: Aula Maxima
             extra: <span><i class="fa fa-beer"></i> Bières<sup>*</sup> et <span><i class="fa fa-comment"></i> échanges.
             highlight: 1
             fill: 5

@@ -4,21 +4,20 @@ title: Programme
 permalink: /programme-complet
 ---
 <div class="container">
-  <!--<h1>Programme de l'édition {{ site.data.event.date.year }}</h1>-->
-  <h1>Programme de l'an dernier</h1>
-  <!--<div class="row">-->
-      <!--<div class="col-md-12 col-xs-12">-->
-          <!--Le programme est susceptible de changer légèrement en fonction de contraintes de dernière minute.<br>-->
-          <!--Il est recommandé d'amener votre PC/Mac aux conférences signalées par le picto <i class="fa fa-laptop"></i>.-->
-      <!--</div>-->
-  <!--</div>-->
+  <h1>Programme de l'édition {{ site.data.event.date.year }}</h1>
+  <div class="row">
+      <div class="col-md-12 col-xs-12">
+          Le programme est susceptible de changer légèrement en fonction de contraintes de dernière minute.<br>
+          Il est recommandé d'amener votre PC/Mac aux conférences signalées par le picto <i class="fa fa-laptop"></i>.
+      </div>
+  </div>
   {% for day in site.data.schedule %}
   <h2>{{ day.date }}</h2>
   {% for part in day.schedule %}
   <table class="schedule table table-condensed">
       <tbody>
       {% for slot in part %}
-          {% if forloop.index0 == 1%}
+          {% if forloop.index0 == 3 %}
           <tr class="rooms">
               <th></th>
               {% for room in site.data.rooms %}
