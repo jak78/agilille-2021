@@ -14,6 +14,9 @@
     max-width: 120px;
     max-heights: 120px;
   }
+  .bio {
+    white-space: pre-line;
+  }
   &:target {
     background-color: #fcf8e3;
   }

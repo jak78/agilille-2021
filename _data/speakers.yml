@@ -3,12 +3,9 @@
   bio: "<a href=\"http://jurgenappelo.com/about/\" target=\"_blank\">Découvrir Jurgen Appelo</a>"
 - photo: EmilieEsposito
   name: Emilie Esposito
-  bio:
-    >
+  bio: |
       Je suis une agiliste convaincue, j'aime aider les autres à grandir et j'ai besoin de rendre le monde meilleur.
-      <br>
       Certains disent que je vis dans le monde des Bisounours (mais ça arrive de moins en moins) et d'autres ont des étoiles dans les yeux quand nous discutons de l'entreprise de nos rêves (et ça arrive de plus en plus).
-      <br>
       Aujourd'hui, j'ai décidé de passer à l'action et de créer PEPS pour entraîner les entreprises à changer. Ma mission: contribuer à construire le monde du travail de demain, où performance d'entreprise rime avec épanouissement des collaborateurs.
 - photo: FredericLeguedois
   name: Frédéric Leguédois
@@ -27,15 +24,16 @@
   bio:	Je suis Responsable Innovation à la DSIC du Ministère de l'intérieur. Début 2018,  j'ai lancé le Lab Innovation qui appartient au réseau des incubateurs de Startups d'Etat. Nous incubons 3 Startups et nous préparons la nouvelle promotion pour 2019.
 - name:	Benjamin Cabanne
   photo:	BenjaminCabanne
-  bio:	"Coach pro, coach agile, facilitateur et scribeur. J'accompagne les humains, les équipes et les organisations à se poser leurs bonnes questions pour définir leur chemin et s'engager dessus. Je les accompagne aussi a avoir plus de collectif, plus d'engagements et plus de plaisir.
-Issu du monde du développement logiciel, j’ai vécu et appris de l’intérieur et compris la nécessité de l’agilité. Issu également du sport en compétition, j’ai une appétence particulière pour l’apprentissage par l'expérimentation.
-#Happy #CoachPro #CoachAglile #Scribing
-"
+  bio: |
+    Coach pro, coach agile, facilitateur et scribeur. J'accompagne les humains, les équipes et les organisations à se poser leurs bonnes questions pour définir leur chemin et s'engager dessus. Je les accompagne aussi a avoir plus de collectif, plus d'engagements et plus de plaisir.
+    Issu du monde du développement logiciel, j’ai vécu et appris de l’intérieur et compris la nécessité de l’agilité. Issu également du sport en compétition, j’ai une appétence particulière pour l’apprentissage par l'expérimentation.
+    #Happy #CoachPro #CoachAglile #Scribing
 - name:	Sebastian Caceres
   photo:	SebastianCaceres
-  bio:	"Sebastián est titulaire d’un double diplôme d’ingénieur délivré par TELECOM Bretagne en France, et par l’Universidad Técnica Federico Santa Maria, au Chili.
-Au sein d”OCTO, il s’est spécialisé sur les outils de déploiement (notamment Ansible), l’univers des conteneurs, les plateformes PaaS et CaaS (Docker, Kubernetes, Openshift), et la culture DevOps.
-Sebastián fait régulièrement de la veille technique. Il publie les résultats de sa veille sous forme d’article sur son site web, sebiwi.github.io, où il publie également des bandes dessinées liées au monde de la technologie et des start-ups."
+  bio: |
+    Sebastián est titulaire d’un double diplôme d’ingénieur délivré par TELECOM Bretagne en France, et par l’Universidad Técnica Federico Santa Maria, au Chili.
+    Au sein d”OCTO, il s’est spécialisé sur les outils de déploiement (notamment Ansible), l’univers des conteneurs, les plateformes PaaS et CaaS (Docker, Kubernetes, Openshift), et la culture DevOps.
+    Sebastián fait régulièrement de la veille technique. Il publie les résultats de sa veille sous forme d’article sur son site web, sebiwi.github.io, où il publie également des bandes dessinées liées au monde de la technologie et des start-ups.
 - name:	Thomas Candellier
   photo:	ThomasCandellier
   bio:	Développeur, Scrum Master chez AXA depuis 7 ans.
@@ -47,30 +45,29 @@ Sebastián fait régulièrement de la veille technique. Il publie les résultats
   bio:	Je suis coach agile chez Azaé, enseignant à l’université de Lille 1 et co-fondateur de Deliverous, mes sujets de prédilection sont l’agilité, devops, docker, le lean startup et l’artisanat logiciel. Depuis plus de 10 ans, j’essaye de transformer le travail en un jeu, faire progresser les développeurs et challenger les managers, poser des questions pour faire grandir les équipes. 
 - name:	Michel Daviot
   photo:	MichelDaviot
-  bio:	"CTO de ColisWeb depuis juin 2018, je suis responsable d'une équipe développant en Scala, React et Ruby avec un véritable état d'esprit agile et un fort attachement à la programmation fonctionnelle et à la qualité.
-      Depuis mes débuts en 2001 j'ai développé en Java et JEE, puis j'ai été architecte logiciel, formateur, et enfin coach agile."
+  bio: |
+    CTO de ColisWeb depuis juin 2018, je suis responsable d'une équipe développant en Scala, React et Ruby avec un véritable état d'esprit agile et un fort attachement à la programmation fonctionnelle et à la qualité.
+    Depuis mes débuts en 2001 j'ai développé en Java et JEE, puis j'ai été architecte logiciel, formateur, et enfin coach agile.
 - name:	Claire Deltrel
   photo:	ClaireDeltrel
   bio:	"Diplômée de deux masters en mathématiques et modélisation statistique, je travaille depuis 4 ans à Decathlon en tant que Data scientist.
 Depuis un an, je suis garante de l'organisation en mode agile et anime l'amélioration continue du réseau Data Science."
 - name:	Claire Deprez
   photo:	ClaireDeprez
-  bio:
-    >
+  bio: |
       Il y a 13 ans, j'ai démarré comme ingénieur études & développement, puis chef de projet, puis manager. 
       En 2016 j'ai intégré du management Agile dans mon équipe, ce qui a énormément fait évoluer ma manière d'envisager le management. 
-      J'ai ensuite voulu partager cela dans l'entreprise, et j'ai ainsi monté un programme nommé ""Innovative Management"" dont je suis désormais responsable.
+      J'ai ensuite voulu partager cela dans l'entreprise, et j'ai ainsi monté un programme nommé "Innovative Management" dont je suis désormais responsable.
 - name:	Jules Deregnaucourt
   photo:	JulesDeregnaucourt
-  bio:
-    > 
-      A découvert l’agile par hasard grâce à sa belle mère. Depuis il explore ce domaine en tentant de contaminer de proche en proche son entourage. Signe distinctif : a un sérieux problème avec les majuscules.
+  bio: |
+    A découvert l’agile par hasard grâce à sa belle mère. Depuis il explore ce domaine en tentant de contaminer de proche en proche son entourage. Signe distinctif : a un sérieux problème avec les majuscules.
 - name:	Jonathan Duberville
   photo:	JonathanDuberville
-  bio:	"Convaincu de l’apport d'une culture agile dans le développement de logiciels, j'accompagne les développeurs dans la mise en place de pratiques de développement et enseigne dans une école d’ingénieur des Hauts de France.
+  bio: |
+    Convaincu de l’apport d'une culture agile dans le développement de logiciels, j'accompagne les développeurs dans la mise en place de pratiques de développement et enseigne dans une école d’ingénieur des Hauts de France.
 
-Je suis animé est animé par la joie de construire des logiciels de qualité (un logiciel opérationnel plus qu'une documentation exhaustive) et j'ai pour vocation de vivre pleinement l’agilité et le développement logiciel en suivant la philosophie Software Craftsmanship.
-"
+    Je suis animé est animé par la joie de construire des logiciels de qualité (un logiciel opérationnel plus qu'une documentation exhaustive) et j'ai pour vocation de vivre pleinement l’agilité et le développement logiciel en suivant la philosophie Software Craftsmanship.
 - name:	Alexis Dubois 
   photo:	AlexisDubois
   bio:	Développeur web fullstack et mobile (Android), je suis entré chez AXA France il y a 6 ans. A cette époque, l’agilité au sein d’AXA faisait ses débuts. Depuis ? L’entreprise s’est transformée et moi aussi. Scrum Master depuis 2014, j’ai évolué sur plusieurs projets digitaux et, à l’image de l’équipe de France pendant la coupe du monde (car oui je suis aussi footeux dans l’âme), j’aime me fixer des objectifs ambitieux et les réussir en équipe !
@@ -79,8 +76,9 @@ Je suis animé est animé par la joie de construire des logiciels de qualité (u
   bio:	Coach agile chez Xebia, je porte un intérêt particulier au produit, l’expérience utilisateur associée et la collaboration entre le métier et les équipes IT. J'accompagne depuis maintenant 2 ans les équipes Data et les particularités associées de la Data Science. 
 - name:	Guillaume Fabrizi
   photo:	GuillaumeFabrizi
-  bio:	"Guillaume est un développeur qui saque ed' dins chez OCTO Nord.
-Diffuseur de pratiques de développement telles que TDD, c'est quelqu'un qui parle couramment le Ch’ti et intervient en tant que Tech Lead chez ses clients."
+  bio: |
+    Guillaume est un développeur qui saque ed' dins chez OCTO Nord.
+    Diffuseur de pratiques de développement telles que TDD, c'est quelqu'un qui parle couramment le Ch’ti et intervient en tant que Tech Lead chez ses clients.
 - name:	Camille Fareneau
   photo:	CamilleFareneau
   bio:	Développeuse mobile iOS chez AXA France depuis 6 ans, j’ai beaucoup appris sur l’agilité, au rythme des évolutions effrénées de l’entreprise ! J’ai la chance de travailler dans une grande société qui nous pousse à être toujours plus agiles, ce qui n’est pas forcément évident vu sa taille et l’ancrage de certaines pratiques. Scrum Master depuis quelques mois, de nombreux défis m’attendent encore et j’essaie de m’y préparer au mieux !
@@ -89,58 +87,63 @@ Diffuseur de pratiques de développement telles que TDD, c'est quelqu'un qui par
   bio:	Responsable de Delivery pendant 17 ans, Coach agile depuis 3 ans , j’ai découvert le sketchnote il y a 1 an et le pratique autant que possible
 - name:	Michel Goldenberg
   photo:	MichelGoldenberg
-  bio:	"Michel est le premier CST (Certified Scrum Trainer) francophone (depuis 2009) et s'est construit une solide réputation au cours des 15 dernières années sur le marché de la transformation Agile des entreprises.
-Son parcours atypique et international l'a conduit à accompagner les comités de direction et les équipes opérationnelles de nombreuses entreprises dans les secteurs les plus variés.
-Parmi elles : Orange Labs, Vermeg, Electronic Arts, Alcatel-Lucent, Globo.com, NOKIA, ADEO, Leroy Merlin et de nombreux autres leaders sur leurs marchés."
+  bio: |
+    Michel est le premier CST (Certified Scrum Trainer) francophone (depuis 2009) et s'est construit une solide réputation au cours des 15 dernières années sur le marché de la transformation Agile des entreprises.
+    Son parcours atypique et international l'a conduit à accompagner les comités de direction et les équipes opérationnelles de nombreuses entreprises dans les secteurs les plus variés.
+    Parmi elles : Orange Labs, Vermeg, Electronic Arts, Alcatel-Lucent, Globo.com, NOKIA, ADEO, Leroy Merlin et de nombreux autres leaders sur leurs marchés.
 - name:	Thomas Haesslé
   photo:	ThomasHaesslé
   bio:	Je suis CTO chez Cutii, ensignant en Master MIAGE à Lille et pratiquant convaincu d'Agile & de Craftsmanship, que j'ai eu l'occasion de mettre en œuvre en multinationale comme en startup.
 - name:	Jean-Baptiste Hugueux
   photo:	JeanBaptisteHugueux
-  bio:	"Est tombé dans la marmite de l’agilité lorsqu’il est arrivé dans les équipes e-commerce Decathlon. 
-Ne résiste pas à l’envie d’infliger de l’aide aux autres managers.
-Signe distinctif : a un tableau Kanban dans sa cuisine"
+  bio: |
+    Est tombé dans la marmite de l’agilité lorsqu’il est arrivé dans les équipes e-commerce Decathlon. 
+    Ne résiste pas à l’envie d’infliger de l’aide aux autres managers.
+    Signe distinctif : a un tableau Kanban dans sa cuisine
 - name:	Julien Jakubowski
   photo:	JulienJakubowski
-  bio:	"Je suis consultant-codeur chez OCTO Technology dans la tribu Software Craftsmanship, et également co-fondateur du bureau Lillois d'OCTO. 
+  bio: |
+    Je suis consultant-codeur chez OCTO Technology dans la tribu Software Craftsmanship, et également co-fondateur du bureau Lillois d'OCTO. 
     Mon kiff : aider des équipes à livrer du logiciel de qualité élevée, avec efficacité et fun.
     Je suis co-auteur du livre <a href='http://www.octo.com/fr/publications/20-culture-code'>Culture Code</a> sur la qualité logicielle.
-    Speaker à différents JUGs et à Devoxx France, je suis également l'un des fondateurs et leaders du Ch'ti JUG, et j'organise l'Agile Tour Lille depuis 2009."
+    Speaker à différents JUGs et à Devoxx France, je suis également l'un des fondateurs et leaders du Ch'ti JUG, et j'organise l'Agile Tour Lille depuis 2009.
 - name:	Nicolas Kalmanovitz
   photo:	NicolasKalmanovitz
-  bio:	"Coach & mindset Hacker, Senior Manager and co-lead of the Scaling Agile Tribe @Octo Technology. 
-Formerly Head of agile transformation @meetic 
-Agile evangelist, speaker, kanban-maniac and for ever startup minded, I advise executives on transformation strategy, coach people and organizations through their continuous improvement journey and promote the arising of a permanent innovation culture.
-"
+  bio: |
+    Coach & mindset Hacker, Senior Manager and co-lead of the Scaling Agile Tribe @Octo Technology. 
+    Formerly Head of agile transformation @meetic 
+    Agile evangelist, speaker, kanban-maniac and for ever startup minded, I advise executives on transformation strategy, coach people and organizations through their continuous improvement journey and promote the arising of a permanent innovation culture.
 - name:	Bernard Klymowicz
   photo:	BernardKlymowicz
-  bio:	"Bernard, Scrum Master de Davidson, grand vainqueur de la Belette de Winchester, issu du côté obscur de la technique avant de devenir agiliste.
-je cultive le bon sens, le bien-être, les carottes et le fun au sein des équipes avec lesquelles je collabore.
-J'aime m'évader avec mes baskets, les legos, les jeux et encore plus les serious games avec des legos :) 
-Au quotidien, j'ai à cœur de donner du sens à mes activités."
+  bio: |
+    Bernard, Scrum Master de Davidson, grand vainqueur de la Belette de Winchester, issu du côté obscur de la technique avant de devenir agiliste.
+    Je cultive le bon sens, le bien-être, les carottes et le fun au sein des équipes avec lesquelles je collabore.
+    J'aime m'évader avec mes baskets, les legos, les jeux et encore plus les serious games avec des legos :) 
+    Au quotidien, j'ai à cœur de donner du sens à mes activités.
 - name:	Xavier Koma
   photo:	XavierKoma
   bio:	Agile coach 🏈 Beer amateur 🍺 Pizza Lover 🍕 Marathon Finisher🏅🇫🇷 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇩🇪
 - name:	Djamel Labani
   photo:	DjamelLabani
-  bio:
-    >
+  bio: |
       Agilitateur passionné, Scrum Master pragmatique.
       J'ai commencé Ops et eu la chance de faire un nouveau pas vers l'agilité à chacune de mes missions. De mes premières expériences en TPE jusqu'aux multinationales, je reste convaincu que nous pouvons toujours nous améliorer et que le mot ""erreur"" n'est que le synonyme du mot ""expérimentation""
       @djamellbn
 - name:	Cyril Lakech
   photo:	CyrilLakech
-  bio:	"Développeur, Tech Leader, Ch’ti JUG Leader, MVP Microsoft
+  bio: |
+    Développeur, Tech Leader, Ch’ti JUG Leader, MVP Microsoft
 
-Passionné par le métier de développeur, je suis un hacktiviste du software craftsmanship et des méthodes agiles, convaincu par l’approche devops et par la diversité des devs comme gage de qualité.
+    Passionné par le métier de développeur, je suis un hacktiviste du software craftsmanship et des méthodes agiles, convaincu par l’approche devops et par la diversité des devs comme gage de qualité.
 
-Co-fondateur du Ch’ti JUG en 2009, j’anime la communauté des développeurs dans le Nord. J’organise des BBLs pour découvrir des technos sur la pause déjeuner: GraphQL, Elixir, React…
+    Co-fondateur du Ch’ti JUG en 2009, j’anime la communauté des développeurs dans le Nord. J’organise des BBLs pour découvrir des technos sur la pause déjeuner: GraphQL, Elixir, React…
 
-Je travaille chez AXA à Lille en tant qu’animateur de la communauté des développeurs et des tech leaders."
+    Je travaille chez AXA à Lille en tant qu’animateur de la communauté des développeurs et des tech leaders.
 - name:	Mathieu Laurent
   photo:	MathieuLaurent
-  bio:	"Développeur, team player, fan de pair programming et de blagues pas drôles.
-Faire de l’Agile c’est nul, être agile c’est mieux :)"
+  bio: |
+    Développeur, team player, fan de pair programming et de blagues pas drôles.
+    Faire de l’Agile c’est nul, être agile c’est mieux :)
 - name:	Baptiste Lecocq
   photo:	BaptisteLecocq
   bio:	Je m’appelle Baptiste, je travaille actuellement chez OCTO Nord. Je maîtrise principalement les langages et frameworks du monde Javascript. Je suis également impliqué dans un certain nombre de méthodes liées à l’agilité et au software craftmanship pour faire grandir les équipes que j’accompagne.
@@ -149,23 +152,26 @@ Faire de l’Agile c’est nul, être agile c’est mieux :)"
   bio:	Je suis coah agile chez OCTO Technology spécialisé dans l'accompagnement de programmes d'intrapreneuriat. Depuis 6 mois, j'accompagne 3 Startups d'Etat du Lab Innovation du Ministère de l'intérieur, pour leur donner les réflexes Lean Startup d'expérimentation avec les usagers.
 - name:	Lucie Lesage
   photo:	LucieLesage
-  bio:	"Après une expérience dans le Marketing, j'ai d'abord choisi de revisiter le monde du produit pour mettre ma créativité au service de l'Agilité. Forte de plusieurs expériences en tant que Product Owner, j'aime être au plus proche du développement pour que les besoins des utilisateurs, l'expertise métier et les aspects techniques ne fassent qu'un.
-J'aime mettre mon énergie et ma capacité d'écoute au service de l'amélioration continue et la recherche d'excellence.
-Au delà, j'aime être dépaysée et je suis passionnée par les nouvelles rencontres."
+  bio: |
+    Après une expérience dans le Marketing, j'ai d'abord choisi de revisiter le monde du produit pour mettre ma créativité au service de l'Agilité. Forte de plusieurs expériences en tant que Product Owner, j'aime être au plus proche du développement pour que les besoins des utilisateurs, l'expertise métier et les aspects techniques ne fassent qu'un.
+    J'aime mettre mon énergie et ma capacité d'écoute au service de l'amélioration continue et la recherche d'excellence.
+    Au delà, j'aime être dépaysée et je suis passionnée par les nouvelles rencontres.
 - name:	Ben Linders
   photo:	BenLinders
-  bio:	"Ben Linders is an Independent Consultant in Agile, Lean, Quality, and Continuous Improvement, based in The Netherlands. Author of Getting Value out of Agile Retrospectives, Waardevolle Agile Retrospectives, What Drives Quality and Continuous Improvement. Creator of the Agile Self-assessment Game.
+  bio: |
+    Ben Linders is an Independent Consultant in Agile, Lean, Quality, and Continuous Improvement, based in The Netherlands. Author of Getting Value out of Agile Retrospectives, Waardevolle Agile Retrospectives, What Drives Quality and Continuous Improvement. Creator of the Agile Self-assessment Game.
 
-As an adviser, coach and trainer he helps organizations with deploying effective software development and management practices. He focuses on continuous improvement, collaboration and communication, and professional development, to deliver business value to customers.
+    As an adviser, coach and trainer he helps organizations with deploying effective software development and management practices. He focuses on continuous improvement, collaboration and communication, and professional development, to deliver business value to customers.
 
-Ben is an active member of networks on Agile, Lean, and Quality, and a well known speaker and author. He shares his experiences in a bilingual blog (Dutch and English), as an editor for Culture and Methods at InfoQ, and as an expert in communities like Computable, Quora, DZone, and TechTarget. Follow him on twitter: @BenLinders."
+    Ben is an active member of networks on Agile, Lean, and Quality, and a well known speaker and author. He shares his experiences in a bilingual blog (Dutch and English), as an editor for Culture and Methods at InfoQ, and as an expert in communities like Computable, Quora, DZone, and TechTarget. Follow him on twitter: @BenLinders.
 - name:	Gilles Masy
   photo:	GillesMasy
   bio:	Gilles, Scrum Master depuis 1 an, Product Owner pendant 4 ans, passionné d'agilité depuis 10 ans, co-organisateur de l'Agile Tour Lille.
 - name:	Claire Morin
   photo:	ClaireMorin
-  bio:	"Agile Native, Claire a découvert l’agilité dès sa première expérience professionnelle, en tant que Product Owner. Après 8 années d’expérience du Product Ownership et Coaching Agile, elle a une approche mêlant des influences de Lean Startup, Design Thinking à une maîtrise profonde des principes de l'agilité.
-Issue d’une formation de physique fondamentale, et passionnée de psychologie cognitive et psychologie sociale, travailler avec une approche agile a tout de suite été une évidence pour elle. Elle garde une démarche expérimentale dans son travail,  mettant l’accent sur les facteurs humains."
+  bio: |
+    Agile Native, Claire a découvert l’agilité dès sa première expérience professionnelle, en tant que Product Owner. Après 8 années d’expérience du Product Ownership et Coaching Agile, elle a une approche mêlant des influences de Lean Startup, Design Thinking à une maîtrise profonde des principes de l'agilité.
+    Issue d’une formation de physique fondamentale, et passionnée de psychologie cognitive et psychologie sociale, travailler avec une approche agile a tout de suite été une évidence pour elle. Elle garde une démarche expérimentale dans son travail,  mettant l’accent sur les facteurs humains.
 - name:	Olivier My
   photo:	OlivierMy
   bio:	Olivier est Coach professionnel et Coach Agile. Il accompagne ses clients dans l'optimisation de leur performance par l'intelligence collective. Passionné par les relations humaines, il cherche avant tout à redonner du sens aux pratiques utilisées en entreprise afin de stimuler plus de responsabilisation, de motivation et d'engagement.
@@ -174,27 +180,28 @@ Issue d’une formation de physique fondamentale, et passionnée de psychologie 
   bio:	Software Architect at Worldline. (FR/EN) Lovin ' Kotlin, Agile methodologies, Pair Programming, learning stuff, cats, and potatoes. I'm coding microservices and putting them in Docker containers... Does that make me a fullstack DevOps ninja something?
 - name:	Tanguy Patte
   photo:	TanguyPatte
-  bio:
-    >
-      Consultant chez OCTO Technology dans la tribu OPS, je travail quotidiennement avec des outils tels qu'Ansible et Terraform pour gérer de l'infra comme du code. Venant du monde du développement, je suis convaincu de la nécessité d'échanger et de partager entre les DEV et les OPS.
-      J'essaie d'appliquer les bonnes pratiques de développement dans un monde d'infra pour améliorer la qualité et la fiabilité du code d'infra.
+  bio: |
+    Consultant chez OCTO Technology dans la tribu OPS, je travail quotidiennement avec des outils tels qu'Ansible et Terraform pour gérer de l'infra comme du code. Venant du monde du développement, je suis convaincu de la nécessité d'échanger et de partager entre les DEV et les OPS.
+    J'essaie d'appliquer les bonnes pratiques de développement dans un monde d'infra pour améliorer la qualité et la fiabilité du code d'infra.
 - name:	Matteo Pierro
   photo:	MatteoPierro
-  bio:	"Hi, my name is Matteo and I’m a Software Craftsman and a Technical Coach.
-eXtreme Programming practitioner and TDD lover, I’m very passionate about creating well crafted software that delivers high value to the customer.
-
-I’m addicted to conferences and meetups. I love to share knowledge with people in order to improve myself and hopefully inspire other people."
+  bio: |
+    Hi, my name is Matteo and I’m a Software Craftsman and a Technical Coach.
+    eXtreme Programming practitioner and TDD lover, I’m very passionate about creating well crafted software that delivers high value to the customer.
+    I’m addicted to conferences and meetups. I love to share knowledge with people in order to improve myself and hopefully inspire other people.
 - name:	Alexandre Quach
   photo:	AlexandreQuach
-  bio:	"Ma mission de fond est d'emmener les humains plus loin par le développement de l'Apprentissage et l'Education. Mes moyens sont : l'accélération d'entreprises dans leur agilité et capacité d'innovation, l'EdTech, l'innovation et la vie entrepreneuriale.
-Je crois profondément aux capacités d'apprentissage des jeux et en leur viralité. Mon plaisir du moment est de de développer de le mouvement #OpenSeriousGame , l'équivalent de l'Open Source pour les Serious Game, afin de réveiller le pouvoir de transmission d'un maximum de personnes."
+  bio: |
+    Ma mission de fond est d'emmener les humains plus loin par le développement de l'Apprentissage et l'Education. Mes moyens sont : l'accélération d'entreprises dans leur agilité et capacité d'innovation, l'EdTech, l'innovation et la vie entrepreneuriale.
+    Je crois profondément aux capacités d'apprentissage des jeux et en leur viralité. Mon plaisir du moment est de de développer de le mouvement #OpenSeriousGame , l'équivalent de l'Open Source pour les Serious Game, afin de réveiller le pouvoir de transmission d'un maximum de personnes.
 - name:	Julie Quillé
   photo:	JulieQuillé
   bio:	Développeuse de conscience passionnée par l’être humain, la psychologie et la sociologie, j’accompagne les personnes et les équipes dans leur cheminement vers plus de responsabilité et de liberté individuelles.
 - name:	Guillaume Remmerie
   photo:	GuillaumeRemmerie
-  bio:	"Je suis arrivé dans le monde informatique de manière atypique.
-De mes premiers pas de développeur à ceux de Scrum Master grâce à une transformation agile chez un grand acteur du retail, je suis aujourd'hui persuadé que l'agilité est partout et que c'est le meilleur moyen de sortir confortablement de sa zone de confort !"
+  bio: |
+    Je suis arrivé dans le monde informatique de manière atypique.
+    De mes premiers pas de développeur à ceux de Scrum Master grâce à une transformation agile chez un grand acteur du retail, je suis aujourd'hui persuadé que l'agilité est partout et que c'est le meilleur moyen de sortir confortablement de sa zone de confort !
 - name:	Samuel Retiere
   photo:	SamuelRetiere
   bio:	Flow coach
@@ -206,15 +213,15 @@ De mes premiers pas de développeur à ceux de Scrum Master grâce à une transf
   bio:	Scrum Master, PO, Coach Agile, Agilitateur selon les jours, j'occupe mes fonctions chez Zenika Lille. J'aime le Serious Games, les meet-up sur le Serious Game, l'Agilité (Si si!), les bonbons, et les bonbons dans les Serious Games. Je me passionne aussi pour les problématiques d'équité au travail, de fun dans dans les équipes et d'efficacité dans les projets.
 - name:	Régis Schneider
   photo:	RégisSchneider
-  bio:
-    >
+  bio: |
       Je suis marié, avec 2 enfants (8 & 9 ans). J'apprécie particulièrement les voyages éloignés, mais aussi ceux au bout de la rue. Tant d'opportunités de rencontrer et d'apprendre !
-      Le mot que j'apprécie le moins : ""Normal"".
+      Le mot que j'apprécie le moins : "Normal".
       Sinon, je suis Coach Agile, tombé dans Agile en 2009 et je ne veux maintenant plus m'en sortir, que ce soit à la maison ou au boulot.
 - name:	Adrien Saunier
   photo:	AdrienSaunier
-  bio:	"Développeur, j'aime découvrir de nouvelles technologies et de nouvelles façons de faire. Mais ce que j'aime par dessus tout, c'est de développer des produits qui auront un impact autour de moi.
-Membre de la tribu Software Craftmanship d'OCTO Technology, j'ai eu l'occasion d'intervenir sur le site service-public.fr (premier site d'information de l'État) puis en tant que TechLead sur Pix.fr, la nouvelle plateforme d'évaluation et de certification des compétences numériques."
+  bio: |
+    Développeur, j'aime découvrir de nouvelles technologies et de nouvelles façons de faire. Mais ce que j'aime par dessus tout, c'est de développer des produits qui auront un impact autour de moi.
+    Membre de la tribu Software Craftmanship d'OCTO Technology, j'ai eu l'occasion d'intervenir sur le site service-public.fr (premier site d'information de l'État) puis en tant que TechLead sur Pix.fr, la nouvelle plateforme d'évaluation et de certification des compétences numériques.
 - name:	Jonathan Scher
   photo:	JonathanScher
   bio:	Agiliste des premières heures, je me tourne désormais vers les problèmes que posent la délégation extrême. Que se passe t'il lorsque tous vos employés sont libres et curieux ?
@@ -223,9 +230,9 @@ Membre de la tribu Software Craftmanship d'OCTO Technology, j'ai eu l'occasion d
   bio:	Coach Lean & Agile, ainsi que product Owner d'une solution digitale innovante
 - name:	Yoan Thirion
   photo:	YoanThirion
-  bio:	"Coach agile chez Agile Partner; je suis bercé par le développement logiciels depuis une quinzaine d’années.
-Je suis passionné d’agilité depuis ma première lecture du manifeste et suis intimement convaincu que la seule manière de travailler est en considérant les gens comme des êtres à part entières et non plus comme des “ressources”.
-"
+  bio: |
+    Coach agile chez Agile Partner; je suis bercé par le développement logiciels depuis une quinzaine d’années.
+    Je suis passionné d’agilité depuis ma première lecture du manifeste et suis intimement convaincu que la seule manière de travailler est en considérant les gens comme des êtres à part entières et non plus comme des “ressources”.
 - name:	Jounad Tourvieille
   photo:	JounadTourvieille
   bio:	Développeur passionné depuis plus de 10 ans, je travaille aujourd'hui pour AXA. Je suis très intéressé  par les pratiques de développement agiles, et aime partager autour des nouvelles technologies.
@@ -240,5 +247,6 @@ Je suis passionné d’agilité depuis ma première lecture du manifeste et suis
   bio:	Passionné par l’agilité et le développement logiciel, Rémi est coach agile et formateur dans le bureau Nord d'OCTO Technology. Il intervient également chez ses clients sur des missions de conseil.
 - name:	Grégory Vanuynsberghe
   photo:	GrégoryVanuynsberghe
-  bio:	"Diplômé ingénieur de l'école Polytech'Lille en 2006, spécialité Génie Informatique et Statistique, Gregory accompagne désormais dans cet établissement les étudiants sur des projets statistiques en tant qu'intervenant externe. 
-Il a travaillé 6 ans chez Cofidis sur l'étude du comportement client pour le service marketing. Gregory a finalement rejoint Décathlon pour reprendre l'animation de l'équipe Datamining, devenue maintenant réseau Data-science."
+  bio: |
+    Diplômé ingénieur de l'école Polytech'Lille en 2006, spécialité Génie Informatique et Statistique, Gregory accompagne désormais dans cet établissement les étudiants sur des projets statistiques en tant qu'intervenant externe. 
+    Il a travaillé 6 ans chez Cofidis sur l'étude du comportement client pour le service marketing. Gregory a finalement rejoint Décathlon pour reprendre l'animation de l'équipe Datamining, devenue maintenant réseau Data-science.

@@ -12,7 +12,7 @@ permalink: /speakers/
     <div class="col-md-6 speaker" id="{{ speaker.name }}">
         <img src="/img/speakers/{{ speaker.photo }}.jpg" alt="{{ speaker.name }}">
         <h2>{{ speaker.name }}</h2>
-        <p>{{ speaker.bio | markdownify }}</p>
+        <p class="bio">{{ speaker.bio }}</p>
         {% for part in site.data.schedule %}
             {% for slot in part %}
                 {% for talk in slot.content %}
