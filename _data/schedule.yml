@@ -178,15 +178,13 @@
             Envie d'en savoir plus ? Retour d'expérience, apprentissages et témoignage à la clé !
           speaker:	Olivier My
           format:	Talk (45 minutes)
-        - id: 25
-          subject:	Pour développer le bon produit, comment je démarre ?
+        - id: 34
+          subject:	"Projet annoncé : périmètre figé, budget serré, date de livraison fixée. Et, s’il vous plait, avec de l’Agilité !"
           description: |
-            “L’idée du siècle: check ! L’équipe: presque check ... Maintenant comment je démarre ?” Il y a surement plusieurs bonnes réponses. En tout cas, la notre, c’est le cadrage 360°.
-        
-            La recette du succès : les équipes IT et métiers réunies pour des ateliers collaboratifs pour parler produit, technique et organisation. Après plusieurs cadrages chez un de nos clients nordistes, nous reviendrons sur les victoires et les difficultés rencontrées sur le terrain. 
-        
-            A l’issue de ce talk, vous pourrez tester avec vos équipes une nouvelle approche pour démarrer efficacement un projet agile.
-          speaker:	Rémi Vandenbroucke, Guillaume Fabrizi
+            « Bonjour, pourriez-vous développer ces fonctionnalités pour dans 9 mois exactement ? La date est TRES importante. Retirer une fonctionnalité ? Impossible ! ». 
+            On y a tous fait face un jour ! Nous y compris, au moment où l’on a dû développer la nouvelle application mobile AXA Banque. Un contexte pas toujours facile et souvent source de conflits entre métier et DSI. Comment être Agile dans ces conditions nous direz-vous ? 
+            Au travers d’un retour d’expérience, nous vous montrerons de quelle manière nous avons pu délivrer en temps et en heure la refonte complète d’une application bancaire Android et iOS et ce sans lésiner sur la qualité (et sans devoir travailler dans nos caves le week-end !).
+          speaker:	Alexis Dubois, Camille Fareneau
           format:	Talk (45 minutes)
       - hour: 15h45 - 16h10
         content:
@@ -311,13 +309,15 @@
             fill: 5
       - hour: 10h45 - 11h20
         content:
-        - id: 34
-          subject:	"Projet annoncé : périmètre figé, budget serré, date de livraison fixée. Et, s’il vous plait, avec de l’Agilité !"
+        - id: 25
+          subject:	Pour développer le bon produit, comment je démarre ?
           description: |
-            « Bonjour, pourriez-vous développer ces fonctionnalités pour dans 9 mois exactement ? La date est TRES importante. Retirer une fonctionnalité ? Impossible ! ». 
-            On y a tous fait face un jour ! Nous y compris, au moment où l’on a dû développer la nouvelle application mobile AXA Banque. Un contexte pas toujours facile et souvent source de conflits entre métier et DSI. Comment être Agile dans ces conditions nous direz-vous ? 
-            Au travers d’un retour d’expérience, nous vous montrerons de quelle manière nous avons pu délivrer en temps et en heure la refonte complète d’une application bancaire Android et iOS et ce sans lésiner sur la qualité (et sans devoir travailler dans nos caves le week-end !).
-          speaker:	Alexis Dubois, Camille Fareneau
+            “L’idée du siècle: check ! L’équipe: presque check ... Maintenant comment je démarre ?” Il y a surement plusieurs bonnes réponses. En tout cas, la notre, c’est le cadrage 360°.
+        
+            La recette du succès : les équipes IT et métiers réunies pour des ateliers collaboratifs pour parler produit, technique et organisation. Après plusieurs cadrages chez un de nos clients nordistes, nous reviendrons sur les victoires et les difficultés rencontrées sur le terrain. 
+        
+            A l’issue de ce talk, vous pourrez tester avec vos équipes une nouvelle approche pour démarrer efficacement un projet agile.
+          speaker:	Rémi Vandenbroucke, Guillaume Fabrizi
           format:	Talk (45 minutes)
         - id: 9
           subject:	"Sisyphe, le Père Noël, Harry Potter et le vrai PO : mythes d'hier et d'aujourd'hui."
