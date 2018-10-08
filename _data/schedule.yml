@@ -83,7 +83,7 @@
       - hour: 11h30 - 12h15
         content:
         - id: 32
-          subject:	Comment la culture projet influence les pratiques agiles ?
+          subject:	Comment la culture projet influence les pratiques agiles&nbsp;?
           description:	A travers un voyage depuis les des débuts de l'informatique en entreprise, comprenons l'origine des dérives actuelles et ré-insufflons la culture agile dans nos pratiques
           speaker:	Claire Morin, Michel Goldenberg
           format:	Talk (45 minutes)
@@ -149,7 +149,7 @@
           format:	Atelier Long (105 minutes - 1h45) / long workshop
           duration: 2
         - id: 64
-          subject:	"Les émotions au travail : Qu'est-ce que j'en fais ?"
+          subject:	"Les émotions au travail : Qu'est-ce que j'en fais&nbsp;?"
           description: |
             Cette session de deux heures est née d’une situation en entreprise où je me suis retrouvée avec une équipe entière en situation de stress émotionnel. L’idée : prendre du recul, respirer, se poser et détricoter tout ça fils après fils. Je vous propose un cheminement au coeur d’une relation entre l’émotion de l’autre et la notre. Au court de ce voyage nous ferons des points d’étapes pour comprendre le concept de souveraineté, comment nous pouvons sortir d’une situation émotionnelle perdant-perdant ou encore le lien entre les émotions et les besoins. L’objectif de tout cela ? D’abord et avant tout, nous donner une vision différente des choses et nous permettre d’améliorer notre quotidien.
           speaker:	Julie Quillé, Thomas Clavier
@@ -179,7 +179,7 @@
           speaker:	Olivier My
           format:	Talk (45 minutes)
         - id: 34
-          subject:	"Projet annoncé : périmètre figé, budget serré, date de livraison fixée. Et, s’il vous plait, avec de l’Agilité !"
+          subject:	"Projet annoncé : périmètre figé, budget serré, date de livraison fixée. Et, s’il vous plait, avec de l’Agilité&nbsp;!"
           description: |
             « Bonjour, pourriez-vous développer ces fonctionnalités pour dans 9 mois exactement ? La date est TRES importante. Retirer une fonctionnalité ? Impossible ! ». 
             On y a tous fait face un jour ! Nous y compris, au moment où l’on a dû développer la nouvelle application mobile AXA Banque. Un contexte pas toujours facile et souvent source de conflits entre métier et DSI. Comment être Agile dans ces conditions nous direz-vous ? 
@@ -310,7 +310,7 @@
       - hour: 10h45 - 11h20
         content:
         - id: 25
-          subject:	Pour développer le bon produit, comment je démarre ?
+          subject:	Pour développer le bon produit, comment je démarre&nbsp;?
           description: |
             “L’idée du siècle: check ! L’équipe: presque check ... Maintenant comment je démarre ?” Il y a surement plusieurs bonnes réponses. En tout cas, la notre, c’est le cadrage 360°.
         
