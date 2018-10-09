@@ -59,26 +59,7 @@
           speaker:	Julien Carreaud, Angélique Giraud
           format:	Atelier court (45 minutes) / Short workshop
         - id: 85
-          subject:	Problem? What problem? Getting rid of impediments
-          description: |
-            If your organization wants to become agile and lean, your teams need to be able to handle impediments quickly and effectively. In this game, you will learn how to recognize and analyze impediments, understand how they can hinder your team, and decide what you can do to take appropriate action by deploying agile and lean principles and good practices.
-        
-            An agile way of working doesn’t guarantee that there will be no problems. Most probably there will be. An agile team has to have the skills to deal with them to be effective and thus be able to deliver and satisfy the needs of their customers and stakeholders. Nobody will solve their problems for them.
-        
-            Agile teams are self-organized. They can decide how they want to do their work. Having the authority to decide comes with a responsibility: you have to solve problems that the team is facing. You cannot rely upon management to solve them for you. That may sound like a disadvantage, but it actually is an advantage since you are allowed to solve them in a way that is most suitable and effective for you.
-        
-            This game will teach you the five steps for handling impediments effectively: 
-            - recognizing impediments 
-            - understanding how they are hindering the team 
-            - find effective solutions to deal with them 
-            - decide what to do and do it 
-            - learn how to become more effective in dealing with impediments
-        
-            The steps suggest that they have to be done after each other, which is indeed preferred in most situations. But this is not a waterfall process. Usually the steps take little time, you can go through all steps within an hour (for instance by doing a retrospective) or in less time (e.g. doing the steps during your daily stand-up). If you are stuck in one step you can decide to proceed to the next one, but then be prepared to go back and repeat the steps once you have more information.
-        
-            Come play the impediment game!
-          speaker:	Ben Linders
-          format:	Atelier Long (105 minutes - 1h45) / long workshop
+          label: Bientôt annoncé
           duration: 2
       - hour: 11h30 - 12h15
         content:
@@ -225,35 +206,7 @@
           format:	Atelier Long (105 minutes - 1h45) / long workshop
           duration: 2
         - id: 86
-          subject:	Retrospecting your Retrospectives
-          description: |
-            Are your retrospective meetings not helping teams to improve? Same actions every time, people skip them, find them boring, lack of energy in the room? This session provides ideas to recognize retrospective smells, debug your agile retrospectives, and find out when and why they aren't working. Learn how to make them valuable again!
-        
-            Agile retrospectives should help teams to reflect at the end of each iteration to learn and decide what to improve and take action in the next iteration. Valuable Agile Retrospectives provide the solution for a successful agile adoption at all levels in the organization. They help teams to reflect and learn how to apply agile practices effectively, and support managers with ideas to set conditions for their teams to grow and deliver more value.
-        
-            Sometimes retrospectives don't live up their expectation. Problems that can happen are:
-        
-            •	The same actions keep coming up in every retrospective 
-            •	Nothing happens after the meeting, actions are not done 
-            •	People are postponing or skipping the retrospective meeting 
-            •	Team members complain that retrospectives are boring and a waste of time 
-            •	There's a lack of energy in the room during the meeting, people are not engaged 
-            •	People don't feel safe to speak up and share their view 
-            •	Discussions in the retrospective are not about the real problems (elephant in the room) 
-            •	The retrospective facilitator is leading people towards a pre-defined answer/solution
-            
-            In this mini-workshop you will experience how to use retrospective exercises to debug your retrospective meetings. People will work in teams to reflect how their retrospectives are going and will learn what they can do to make them valuable again.
-            
-            This is a highly interactive session, learning by doing. I'll bring in my experience from 18 years of doing agile retrospectives, and will set a culture where people will share their ideas and learn.
-            
-            Benefits for attendees: 
-            •	Learn to use exercises to reflect on your current practice of retrospectives 
-            •	See how to create a safe and productive environment to run retrospectives 
-            •	Practice effective skills for facilitating retrospectives and getting people engaged
-            
-            Intended audience: Scrum masters, agile coaches, tech leads, and anyone who facilitates retrospectives.
-          speaker:	Ben Linders
-          format:	Atelier long (105 minutes - 1h45) / long workshop
+          label:	Bientôt annoncé
           duration: 2
       - hour: 17h15 - 18h00
         content:
