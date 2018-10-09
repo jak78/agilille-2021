@@ -205,8 +205,14 @@
           speaker:	Olivier My
           format:	Atelier Long (105 minutes - 1h45) / long workshop
           duration: 2
-        - id: 86
-          label:	Bientôt annoncé
+        - id: 2
+          subject:	Karate Dinosaur Carpaccio
+          description: |
+            Inspiré de l'extrême Carpaccio d'Alistair Cockburn, l'atelier propose aux participants de découvrir la difficulté des estimations, l'intérêt des démos aux clients à chaque itération et l'importance des feedbacks réguliers.
+        
+            Articulé autour de la planification et de la construction de legos en équipe, l'exercice permet aux expérimentés comme aux néophytes d'appréhender facilement les avantages et les limites de l'agilité comme elle est pratiquée généralement.
+          speaker:	Bernard Klymowicz, Matthieu Salikhov
+          format:	Atelier Long (105 minutes - 1h45) / long workshop
           duration: 2
       - hour: 17h15 - 18h00
         content:
@@ -445,14 +451,8 @@
           speaker:	Nicolas Umiastowski
           format:	Atelier Long (105 minutes - 1h45) / long workshop
           duration: 2
-        - id: 2
-          subject:	Karate Dinosaur Carpaccio
-          description: |
-            Inspiré de l'extrême Carpaccio d'Alistair Cockburn, l'atelier propose aux participants de découvrir la difficulté des estimations, l'intérêt des démos aux clients à chaque itération et l'importance des feedbacks réguliers.
-        
-            Articulé autour de la planification et de la construction de legos en équipe, l'exercice permet aux expérimentés comme aux néophytes d'appréhender facilement les avantages et les limites de l'agilité comme elle est pratiquée généralement.
-          speaker:	Bernard Klymowicz, Matthieu Salikhov
-          format:	Atelier Long (105 minutes - 1h45) / long workshop
+        - id: 86
+          label:	Bientôt annoncé
           duration: 2
       - hour: 17h15 - 18h00
         content:
