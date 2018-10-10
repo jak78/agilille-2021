@@ -438,9 +438,8 @@
         - id: 15
           subject:	"Tennis Kata : dites stop au TDD et passez au TDD !"
           description: |
-            Deux piliers du Software Craftsmanship manifesto sont : des logiciels bien conçus et  l'ajout constant de la valeur. Pourtant les développeurs ont tendance à subir leur premier outil : le langage de programmation, et développent pour lutter contre un outil mal choisi des pratiques telles que le TDD à l'excès... Avec le Type Driven Design, toutes une catégorie de tests peut être encodée dans votre application grâces à un système de types algébriques, et surtout vous permet de mieux raisonner votre application. 
-            Avec la montée en puissance de langage statiquement typé et tel que F#, OCaml, Haskell, Scala, Swift, Kotlin, ReasonML, Rust, Nim, ... c'est un sujet d'actualité.
-          speaker:	Thomas Haesslé
+            Deux piliers du Software Craftsmanship manifesto sont : des logiciels bien conçus et l'ajout constant de la valeur. Pourtant les développeurs ont tendance à subir leur premier outil : le langage de programmation, et développent, pour lutter contre un outil mal choisi, des pratiques telles que le TDD à l'excès... Avec le Type Driven Design, toute une catégorie de tests peut être encodée dans votre application, grâces à un système de types algébriques, et surtout vous permet de mieux raisonner votre application. 
+            Avec la montée en puissance de langages statiquement typés et tel que F#, OCaml, Haskell, Scala, Swift, Kotlin, ReasonML, Rust, Nim, ... c'est un sujet d'actualité.          speaker:	Thomas Haesslé
           format:	Atelier Long (105 minutes - 1h45) / long workshop
           duration: 2
           bring_your_pc: 1
