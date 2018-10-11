@@ -62,23 +62,12 @@ Depuis un an, je suis garante de l'organisation en mode agile et anime l'amélio
   photo:	JulesDeregnaucourt
   bio: |
     A découvert l’agile par hasard grâce à sa belle mère. Depuis il explore ce domaine en tentant de contaminer de proche en proche son entourage. Signe distinctif : a un sérieux problème avec les majuscules.
-- name:	Jonathan Duberville
-  photo:	JonathanDuberville
-  bio: |
-    Convaincu de l’apport d'une culture agile dans le développement de logiciels, j'accompagne les développeurs dans la mise en place de pratiques de développement et enseigne dans une école d’ingénieur des Hauts de France.
-
-    Je suis animé est animé par la joie de construire des logiciels de qualité (un logiciel opérationnel plus qu'une documentation exhaustive) et j'ai pour vocation de vivre pleinement l’agilité et le développement logiciel en suivant la philosophie Software Craftsmanship.
 - name:	Alexis Dubois 
   photo:	AlexisDubois
   bio:	Développeur web fullstack et mobile (Android), je suis entré chez AXA France il y a 6 ans. A cette époque, l’agilité au sein d’AXA faisait ses débuts. Depuis ? L’entreprise s’est transformée et moi aussi. Scrum Master depuis 2014, j’ai évolué sur plusieurs projets digitaux et, à l’image de l’équipe de France pendant la coupe du monde (car oui je suis aussi footeux dans l’âme), j’aime me fixer des objectifs ambitieux et les réussir en équipe !
 - name:	Nelson Dufossé
   photo:	NelsonDufossé
   bio:	Coach agile chez Xebia, je porte un intérêt particulier au produit, l’expérience utilisateur associée et la collaboration entre le métier et les équipes IT. J'accompagne depuis maintenant 2 ans les équipes Data et les particularités associées de la Data Science. 
-- name:	Guillaume Fabrizi
-  photo:	GuillaumeFabrizi
-  bio: |
-    Guillaume est un développeur qui saque ed' dins chez OCTO Nord.
-    Diffuseur de pratiques de développement telles que TDD, c'est quelqu'un qui parle couramment le Ch’ti et intervient en tant que Tech Lead chez ses clients.
 - name:	Camille Fareneau
   photo:	CamilleFareneau
   bio:	Développeuse mobile iOS chez AXA France depuis 6 ans, j’ai beaucoup appris sur l’agilité, au rythme des évolutions effrénées de l’entreprise ! J’ai la chance de travailler dans une grande société qui nous pousse à être toujours plus agiles, ce qui n’est pas forcément évident vu sa taille et l’ancrage de certaines pratiques. Scrum Master depuis quelques mois, de nombreux défis m’attendent encore et j’essaie de m’y préparer au mieux !
@@ -100,19 +89,6 @@ Depuis un an, je suis garante de l'organisation en mode agile et anime l'amélio
     Est tombé dans la marmite de l’agilité lorsqu’il est arrivé dans les équipes e-commerce Decathlon. 
     Ne résiste pas à l’envie d’infliger de l’aide aux autres managers.
     Signe distinctif : a un tableau Kanban dans sa cuisine
-- name:	Julien Jakubowski
-  photo:	JulienJakubowski
-  bio: |
-    Je suis consultant-codeur chez OCTO Technology dans la tribu Software Craftsmanship, et également co-fondateur du bureau Lillois d'OCTO. 
-    Mon kiff : aider des équipes à livrer du logiciel de qualité élevée, avec efficacité et fun.
-    Je suis co-auteur du livre <a href='http://www.octo.com/fr/publications/20-culture-code'>Culture Code</a> sur la qualité logicielle.
-    Speaker à différents JUGs et à Devoxx France, je suis également l'un des fondateurs et leaders du Ch'ti JUG, et j'organise l'Agile Tour Lille depuis 2009.
-- name:	Nicolas Kalmanovitz
-  photo:	NicolasKalmanovitz
-  bio: |
-    Coach & mindset Hacker, Senior Manager and co-lead of the Scaling Agile Tribe @Octo Technology. 
-    Formerly Head of agile transformation @meetic 
-    Agile evangelist, speaker, kanban-maniac and for ever startup minded, I advise executives on transformation strategy, coach people and organizations through their continuous improvement journey and promote the arising of a permanent innovation culture.
 - name:	Bernard Klymowicz
   photo:	BernardKlymowicz
   bio: |
@@ -234,9 +210,6 @@ Depuis un an, je suis garante de l'organisation en mode agile et anime l'amélio
 - name:	Romain Vailleux
   photo:	RomainVailleux
   bio:	Romain Vailleux est coach agile OCTO particulièrement attentif aux ressorts culturels des transformations. Après avoir cédé sa startup (Hop-Cube), il intègre OCTO et accompagne les entreprises de distribution dans l'évolution de leurs pratiques IT, en lien avec la transition vers l'omnicanal. 
-- name:	Rémi Vandenbroucke
-  photo:	RémiVandenbroucke
-  bio:	Passionné par l’agilité et le développement logiciel, Rémi est coach agile et formateur dans le bureau Nord d'OCTO Technology. Il intervient également chez ses clients sur des missions de conseil.
 - name:	Grégory Vanuynsberghe
   photo:	GrégoryVanuynsberghe
   bio: |

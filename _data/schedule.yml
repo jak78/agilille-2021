@@ -29,13 +29,7 @@
               Everything depends on thelifecycle stage of the new product or service.
       - hour: 10h30 - 11h15
         content:
-        - id: 10
-          subject:	La DRH du futur sera agile ou ne sera pas
-          description: |
-            C’est sur le terrain des transformations que j’ai acquis la conviction que les pratiques agiles peuvent aider les DRHs à relever les challenges du digitale et à se positionner comme le catalyseur du changement. 
-            De Kanban au design thinking, du recrutement au dialogue sociale, je vous propose de partager mes retours d’expérience ou comment, du grand groupe à la PME, des DRHs deviennent des business partenaires agiles au service de l’innovation, de l’accélération et du rayonnement de l’entreprise.
-          speaker:	Nicolas Kalmanovitz
-          format:	Talk (45 minutes)
+        - label: Bientôt annoncé
         - id: 29
           subject:    Générez votre doc utilisateur sans effort
           description:    Maintenir une documentation exhaustive et à jour d'un produit peut être chronophage et coûteux. Nous vous montrerons comment sortir de cette spirale en tirant partie des scénarios gherkin. La documentation ainsi produite sera toujours à jour vis-à-vis du projet, gratuite à produire, et consultable par tous, via un site web par exemple. Les méthodologies et outils que nous utiliserons sont ceux récemment mis en place chez AXA France.
@@ -180,16 +174,7 @@
             Découvrez comment, au Lab innovation, un fonctionnaire devient intrapreneur. Comment on a lancé en moins d'un mois un MVP sans coder avec plus de 100 utilisateurs au lancement. Comment nous hackons des sites de petites annonces. Et repartez avec des idées activables chez vous pour crash-tester rapidement vos idées auprès des utilisateurs ...
           speaker:	Dominique Lequepeys, Philippe Bron
           format:	Talk (45 minutes)
-        - id: 18
-          subject:	"Sur le chemin de la qualité : en équipe et dès demain !"
-          description: |
-            Ça y est ! C’est décidé ! Vous allez construire des applications de meilleure qualité. Vous êtes convaincu(e) que, pour cela, certaines pratiques de développement sont fondamentales comme par exemple les revues de code ou les tests automatisés.
-        
-            Mais vos collègues n’en font pas. Parce que  « c’est trop cher on n’a pas le temps », « ça ne marchera pas chez nous »...
-        
-            Après cette conférence, quand vous reviendrez sur votre plateau projet, vous aurez des éléments à essayer tout de suite. Et peut-être de quoi élaborer un plan de bataille pour que vous et votre équipe soyez fiers de votre code et ainsi conquérir le monde ! ;-)
-          speaker:	Julien Jakubowski
-          format:	Talk (45 minutes)
+        - label: Bientôt annoncé
         - id: 58
           subject:	Ralentir pour aller plus vite !
           description:	Ce talk, durant lequel tous les cerveaux de la salle vont être mis à contribution, est une occasion de réfléchir ensemble à la façon dont nous pouvons nous perfectionner par l’attention aux détails. Nous allons profiter de ce ralentissement pour décortiquer nos gestes, nos habitudes, notre manière de faire. Profitons également du nombre pour confronter nos différences, le pourquoi de nos actions, en résumé profitons de l’expérience de chacun pour ressortir enrichi de ce voyage commun. Programmeurs confirmés ou débutants, en ressortiront tous riches d’une nouvelle expérience à reproduire dans leurs équipes.
@@ -268,16 +253,7 @@
             fill: 5
       - hour: 10h45 - 11h20
         content:
-        - id: 25
-          subject:	Pour développer le bon produit, comment je démarre&nbsp;?
-          description: |
-            “L’idée du siècle: check ! L’équipe: presque check ... Maintenant comment je démarre ?” Il y a surement plusieurs bonnes réponses. En tout cas, la notre, c’est le cadrage 360°.
-        
-            La recette du succès : les équipes IT et métiers réunies pour des ateliers collaboratifs pour parler produit, technique et organisation. Après plusieurs cadrages chez un de nos clients nordistes, nous reviendrons sur les victoires et les difficultés rencontrées sur le terrain. 
-        
-            A l’issue de ce talk, vous pourrez tester avec vos équipes une nouvelle approche pour démarrer efficacement un projet agile.
-          speaker:	Rémi Vandenbroucke, Guillaume Fabrizi
-          format:	Talk (45 minutes)
+        - label: Bientôt annoncé
         - id: 9
           subject:	"Sisyphe, le Père Noël, Harry Potter et le vrai PO : mythes d'hier et d'aujourd'hui."
           description: |
@@ -383,15 +359,7 @@
             Quelques semaines plus tard, nous avions assisté à une évolution des mentalités et des rituels. Nous sommes devenus une équipe plus Agile qu'hier, et en constante évolution. Vous voulez aussi utiliser Scrum comme une fenêtre vers l'Agilité ?
           speaker:	Baptiste Lecocq
           format:	Talk (45 minutes)
-        - id: 6
-          subject:	DDD Strategic pour la survie
-          description: |
-            Vous avez une conception métier complexe? 
-            Vous vous demandez comment vous allez faire pour faire communiquer 10 équipes sur la création de votre logiciel? 
-            DDD Strategic est certainement une approche qui va vous intéresser!
-            A l'issue de cet atelier vous serez capable de mener une reflexion sur votre organisation pour démarrer le design de la solution la plus adaptée à votre métier.
-          speaker:	Jonathan Duberville
-          format:	Atelier court (45 minutes) / Short workshop
+        - label: Bientôt annoncé
         - id: 59
           subject:	Teambuildez-vous !
           description: |
