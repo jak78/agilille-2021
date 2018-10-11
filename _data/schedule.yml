@@ -118,8 +118,9 @@
           subject:	"Consumer Driven Contracts: The Evolution of Your API Using Tests"
           description: |
             Did you ever struggle integrating with an api from another team that kept on changing? Or provided an api that you where unsure how to evolve because you did not know how people use it?
-        
-            This workshop aims to explain how to organise define and evolve apis keeping consumer in mind and learn how to use some tools like Swagger and Pact to help you with this.
+            This workshop aims to let you experience how to organise define and evolve APIs keeping consumer in mind and learn how Pact can help you with this.
+            
+            After explaining the basics, we will define the API for a small project together, and use MOB programming in two groups to implement both consumer and producer in Javascript. No laptop is required (we provide the material). No prior knowledge is needed, but some technical affinity, understanding what an API is and notions of development in Javascript might help to understand what is going on.          speaker:	Matteo Pierro, Nelis Boucke
           speaker:	Matteo Pierro, Nelis Boucke
           format:	Atelier Long (105 minutes - 1h45) / long workshop
           duration: 2
