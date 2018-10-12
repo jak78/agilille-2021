@@ -48,4 +48,8 @@ media:
   url: http://www.sogeti.fr
   logo: logo_sogeti.jpg
   imgclass: wide
+- name: Pictime Groupe
+  url: https://www.pictime.com/
+  logo: logo_pictime_groupe_wide.png
+  imgclass: ultra-wide
   
