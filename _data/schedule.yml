@@ -73,12 +73,7 @@
           duration: 2
       - hour: 11h30 - 12h15
         content:
-        - id: 32
-          subject:	Comment la culture projet influence les pratiques agiles&nbsp;?
-          description:	A travers un voyage depuis les des débuts de l'informatique en entreprise, comprenons l'origine des dérives actuelles et ré-insufflons la culture agile dans nos pratiques
-          speaker:	Claire Morin, Michel Goldenberg
-          format:	Talk (45 minutes)
-          level: 2
+        - label: Bientôt annoncé
         - id: 21
           subject:	Prise de décision dans une entreprise sans chef
           description: |
