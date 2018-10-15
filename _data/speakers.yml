@@ -65,12 +65,20 @@ Depuis un an, je suis garante de l'organisation en mode agile et anime l'amélio
 - name:	Alexis Dubois 
   photo:	AlexisDubois
   bio:	Développeur web fullstack et mobile (Android), je suis entré chez AXA France il y a 6 ans. A cette époque, l’agilité au sein d’AXA faisait ses débuts. Depuis ? L’entreprise s’est transformée et moi aussi. Scrum Master depuis 2014, j’ai évolué sur plusieurs projets digitaux et, à l’image de l’équipe de France pendant la coupe du monde (car oui je suis aussi footeux dans l’âme), j’aime me fixer des objectifs ambitieux et les réussir en équipe !
+- name:	Cecil Dijoux
+  photo:	CecilDijoux
+  bio: >
+    Professionnel du management et du numérique depuis près de 30 ans, Cecil a découvert le monde des start-ups et de l’agilité en 2004. Auteur de deux ouvrages (#hyperlean en 2017 et #hyperlean en action chez L'Harmattan en 2018), blogger et conférencier sur le sujet du management au 21ème siècle, Cecil est resté depuis un observateur averti et passionné de la révolution socio-technologique que nous sommes en train de vivre. 
 - name:	Nelson Dufossé
   photo:	NelsonDufossé
   bio:	Coach agile chez Xebia, je porte un intérêt particulier au produit, l’expérience utilisateur associée et la collaboration entre le métier et les équipes IT. J'accompagne depuis maintenant 2 ans les équipes Data et les particularités associées de la Data Science. 
 - name:	Camille Fareneau
   photo:	CamilleFareneau
   bio:	Développeuse mobile iOS chez AXA France depuis 6 ans, j’ai beaucoup appris sur l’agilité, au rythme des évolutions effrénées de l’entreprise ! J’ai la chance de travailler dans une grande société qui nous pousse à être toujours plus agiles, ce qui n’est pas forcément évident vu sa taille et l’ancrage de certaines pratiques. Scrum Master depuis quelques mois, de nombreux défis m’attendent encore et j’essaie de m’y préparer au mieux !
+- name: Anne Gabrillagues
+  photo: AnneGabrillagues
+  bio: >
+    Tombée dans la marmite agile en 2008, j'accompagne les équipes en tant que Scrum Master, Product Owner ou Coach Agile. Agiliste convaincue, je participe activement à la diffusion de l'Agilité via l'organisation de Meetup et de conférences à Paris. J'ai fait partie de l'équipe organisatrice des 3 derniers ScrumDay et j'ai rejoint l'équipe Lean Kanban France en 2016 (conférences Lean Kanban France et FlowCon). Parmi mes projets personnels figurent aussi le développement du jeu d'apprentissage Kanbanzine et divers projets de traduction.
 - name:	Angélique Giraud
   photo:	AngéliqueGiraud
   bio:	Responsable de Delivery pendant 17 ans, Coach agile depuis 3 ans , j’ai découvert le sketchnote il y a 1 an et le pratique autant que possible
@@ -157,6 +165,13 @@ Depuis un an, je suis garante de l'organisation en mode agile et anime l'amélio
     Hi, my name is Matteo and I’m a Software Craftsman and a Technical Coach.
     eXtreme Programming practitioner and TDD lover, I’m very passionate about creating well crafted software that delivers high value to the customer.
     I’m addicted to conferences and meetups. I love to share knowledge with people in order to improve myself and hopefully inspire other people.
+- name: Cédric Pourbaix
+  photo: CedricPourbaix
+  bio: |
+    Je suis formateur, coach et conférencier.
+    Mon sujet : améliorer l’efficacité du travail en équipe.
+    Au cours de chacune de mes missions, j’ai pu mesurer l’importance de la qualité du travail d’équipe pour la réalisation d’un projet. Animateur efficace du travail en équipe, facilitateur dans la prise de décision des projets complexes, j’aide les équipes que j’accompagne à se concentrer sur l’essentiel : ce qui a le plus de valeur.
+    Cette aptitude permet de tirer un maximum d’efficacité de l’équipe qui développe, dans la mise en œuvre des besoins exprimés.
 - name:	Alexandre Quach
   photo:	AlexandreQuach
   bio: |
@@ -215,3 +230,4 @@ Depuis un an, je suis garante de l'organisation en mode agile et anime l'amélio
   bio: |
     Diplômé ingénieur de l'école Polytech'Lille en 2006, spécialité Génie Informatique et Statistique, Gregory accompagne désormais dans cet établissement les étudiants sur des projets statistiques en tant qu'intervenant externe. 
     Il a travaillé 6 ans chez Cofidis sur l'étude du comportement client pour le service marketing. Gregory a finalement rejoint Décathlon pour reprendre l'animation de l'équipe Datamining, devenue maintenant réseau Data-science.
+    

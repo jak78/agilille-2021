@@ -29,7 +29,23 @@
               Everything depends on thelifecycle stage of the new product or service.
       - hour: 10h30 - 11h15
         content:
-        - label: Bientôt annoncé
+        - id: 100
+          subject: >
+            Lean et agile : faut-il enterrer la hache de guerre ?
+          description: |
+            En étudiant la démarche Lean, j’ai découvert que, de par ses racines industrielles, celle-ci était basée sur la notion de rythme : le rythme des produits qui sortent de la chaine. Le Lean a été développé pour améliorer une chaine de production.
+
+            De son coté, l’agilité est née pour répondre à une problématique : améliorer la qualité des projets intellectuels (informatiques au départ). Point étonnant (:-)), la plupart des frameworks agiles proposent de découper le travail suivant un rythme ( un sprint dans Scrum ).
+
+            Avec le temps, depuis les années 60, la démarche Lean a évolué, pour devenir un cadre de management qui part du principe que le développement économique de l’entreprise est la conséquence du développement des personnes par la résolution de problèmes et propose une solution systémique de résolution de problèmes.
+
+            En tant que coach agile, j’ai souvent eu la frustration de tomber sur des problèmes au sein des projets, qui dépassaient complètement la capacité de l’équipe à les résoudre. Le Lean pourrait être un moyen de répondre à ces problèmes, mais est-il adapté à la production de projets intellectuels ?
+
+            En y regardant bien, j’ai découvert que le rythme de l’agilité, permettait de se mettre dans un cadre similaire au cadre de production industriel Lean. Il est donc peut-être possible d’ajouter à la démarche agile, une démarche managériale Lean !
+
+            La fin de la conférence me permettra d’expliciter cette complémentarité et de montrer que vouloir opposer les deux démarches n’a aucun sens.
+          speaker: Cédric Pourbaix
+          format: Talk (45 minutes)
         - id: 29
           subject:    Générez votre doc utilisateur sans effort
           description:    Maintenir une documentation exhaustive et à jour d'un produit peut être chronophage et coûteux. Nous vous montrerons comment sortir de cette spirale en tirant partie des scénarios gherkin. La documentation ainsi produite sera toujours à jour vis-à-vis du projet, gratuite à produire, et consultable par tous, via un site web par exemple. Les méthodologies et outils que nous utiliserons sont ceux récemment mis en place chez AXA France.
@@ -175,7 +191,16 @@
             Découvrez comment, au Lab innovation, un fonctionnaire devient intrapreneur. Comment on a lancé en moins d'un mois un MVP sans coder avec plus de 100 utilisateurs au lancement. Comment nous hackons des sites de petites annonces. Et repartez avec des idées activables chez vous pour crash-tester rapidement vos idées auprès des utilisateurs ...
           speaker:	Dominique Lequepeys, Philippe Bron
           format:	Talk (45 minutes)
-        - label: Bientôt annoncé
+        - id: 43
+          subject: Penser autrement l'expression du besoin agile avec les Job Stories
+          description: |
+            Si vous avez déjà travaillé sur un projet agile, vous avez sans doute rencontré la User Story. Vous avez même peut-être utilisé des ""persona"", ces fiches de personnage qui représentent un de vos utilisateurs type. Ces formats ont marqué une vraie étape dans l'évolution de la spécification agile et sont le support actuellement le plus largement utilisé pour la formalisation du besoin en mode agile.
+
+            Mais est-ce suffisant ? Est-ce que cela permet de capter l'essence du besoin ? Pas forcément... 
+
+            La Job Story est une approche complémentaire, qui peut venir enrichir votre compréhension des attentes de vos clients, et vous aider à développer un super produit !
+          speaker: Anne Gabrillagues
+          format:	Talk (45 minutes)
         - id: 58
           subject:	Ralentir pour aller plus vite !
           description:	Ce talk, durant lequel tous les cerveaux de la salle vont être mis à contribution, est une occasion de réfléchir ensemble à la façon dont nous pouvons nous perfectionner par l’attention aux détails. Nous allons profiter de ce ralentissement pour décortiquer nos gestes, nos habitudes, notre manière de faire. Profitons également du nombre pour confronter nos différences, le pourquoi de nos actions, en résumé profitons de l’expérience de chacun pour ressortir enrichi de ce voyage commun. Programmeurs confirmés ou débutants, en ressortiront tous riches d’une nouvelle expérience à reproduire dans leurs équipes.
@@ -254,7 +279,12 @@
             fill: 5
       - hour: 10h45 - 11h20
         content:
-        - label: Bientôt annoncé
+        - id: 67
+          subject: Pratiques de management pour l'ère du numérique
+          description: >
+            Depuis le début de siècle, on entend beaucoup parler de principes de management (dont celui, radical, de l’absence de managers). Tout cela est très intéressant mais cette présentation a des objectifs moins ambitieux et plus prosaïques, liés à l’ère du travail à l’ère du numérique : comment animer l’activité pour que l’experience client demeure au cœur des preoccupations de chacun ? Comment creer le contexte propice à l’experimentation quotidienne et au développement de l’agilite ́de l’equipe ? Comment adopter la bonne posture pour engager les collaborateurs dans la réflexion puis l’action, pour que chacun puisse voir sa contribution àl’amélioration de l’entreprise ?
+          speaker: Cecil Dijoux
+          format: Talk (45 minutes)
         - id: 9
           subject:	"Sisyphe, le Père Noël, Harry Potter et le vrai PO : mythes d'hier et d'aujourd'hui."
           description: |
