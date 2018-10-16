@@ -1,6 +1,8 @@
-- name: Lucie Pruvost
-  bio: "Non pas issue de la technique, mais évoluant dans le milieu informatique, Lucie est convaincue que l'agilité améliore les projets mais également et surtout les relations humaines. Ingénieur Commercial chez ZENIKA Lille, elle prend plaisir a organiser avec l'équipe Nord-Agile ce moment d'échange et de partage qu'est l'Agile Tour."
-  photo: Lucie-Pruvost.jpg
+- name: Sarah Dewavrin
+  photo: sarah_mortel.jpg
+  bio: |
+    Sarah est coach agilitatrice chez Efidev et responsable du produit Taïkoon (solution de gestion de trésorerie pour les TPE). Les utilisateurs sont le centre de ses préoccupations, l’amélioration continue est sa philosophie. Elle aime transmettre ce qu’elle apprend aux équipes qu’elle accompagne et découvrir de nouveaux outils pour être plus efficace dans le travail en équipe.
+    Elle est fière de faire partie de l’équipe Nord Agile, organisatrice de l’Agile Tour Lille pour la 6ème édition.
 - name: Nelson Dufossé
   photo: nelson_dufosse_2.png
   bio:
@@ -31,6 +33,9 @@
   photo: gilles-masy.png
   bio:
     Agiliste convaincu, Gilles cherche à éprouver ses convictions à la réalité. Aujourd'hui, il confronte les difficultés de la gestion de projets avec des équipes off-shore et les valeurs agiles. Demain, il souhaiterait multiplier les aventures, afin de devenir coach, et ainsi partager ses expériences. C'est pourquoi il s'est investi en 2016 dans l'association Nord-Agile. L'Agile-Tour est l'évènement majeur, mais il souhaite développer plus en avant les activités tout au long de l'année.
+- name: Lucie Pruvost
+  bio: "Non pas issue de la technique, mais évoluant dans le milieu informatique, Lucie est convaincue que l'agilité améliore les projets mais également et surtout les relations humaines. Ingénieur Commercial chez ZENIKA Lille, elle prend plaisir a organiser avec l'équipe Nord-Agile ce moment d'échange et de partage qu'est l'Agile Tour."
+  photo: Lucie-Pruvost.jpg
 - name: Matthieu Salikhov
   photo: Matthieu-Salikhov.jpg
   bio:
