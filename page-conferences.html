@@ -40,7 +40,10 @@ permalink: /conferences/
                               {% if forloop.last == false %}, {% endif %}
                               {% endfor %}
                             </span>
-                            <span class="room">{% if talk.room %}, {{ talk.room }}{%else%}, {{ site.data.rooms[forloop.index0] }}{% endif %} à {{slot.hour }}</span>
+                            {% assign talk_day = day.date %}
+                            {% assign talk_hours = slot.hour | split: ' - ' %}
+                            {% assign talk_hour = talk_hours[0] %}
+                            <span class="room">{% if talk.room %}, {{ talk.room }}{%else%}, {{ site.data.rooms[forloop.index0] }}{% endif %} le {{ talk_day }} à {{ talk_hour }}</span>
                         </span>
                     </div>
                     <p class="description">{{ talk.description }}</p>
