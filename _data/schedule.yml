@@ -73,7 +73,15 @@
           duration: 2
       - hour: 11h30 - 12h15
         content:
-        - label: Bientôt annoncé
+        - id: 69
+          subject: Comment nous avons créé une digital factory chez Adeo
+          speaker: Antoine Pezé, Simon Canizarez
+          description: |
+            Laissez nous vous raconter l'histoire de la Digital Tribe, cette équipe apparue de nulle part et qui à changé les manières de faire chez Adeo...
+
+            Créée en 2016 sur la base d'un projet, cette équipe qui revendique l'alliance de l'Agilité et de l'UX a beaucoup évolué pour représenter une vingtaine de personnes aujourd'hui. Elle a impacté les manières de faire de plusieurs équipes et a permis de lancer des programmes de formation pour toute l'entreprise. 
+
+            Grâce à un management "libérant" et un attachement fort à sa culture, cete digital factory a su se démarquer pour mettre en productions de nombreuses réalisations et transformer des pratiques, mais aussi des vocations...
         - id: 21
           subject:	Prise de décision dans une entreprise sans chef
           description: |

@@ -37,6 +37,9 @@
 - name:	Thomas Candellier
   photo:	ThomasCandellier
   bio:	Développeur, Scrum Master chez AXA depuis 7 ans.
+- name: Simon Canizarez
+  photo: SimonCanizarez
+  bio: Simon Canizarez est le responsable de l'équipe Digital Tribe chez Adeo. En 2016, il a vu l’impact de la liberté sur une équipe. Les membres ont pris la main pour choisir sur quoi ils voulaient travailler et se répartir eux mêmes les projets, Simon ayant juste observé et vu la puissance de la libération. Aujourd'hui, il veut libérer tous les managers et les équipes du monde entier en activant les énergies pour aider les collectifs à progresser.
 - name:	Julien Carreaud
   photo:	JulienCarreaud
   bio:	Product Manager chez AXA, j’explore le sketchnote (dans ma vie pro et perso). 
@@ -50,8 +53,9 @@
     Depuis mes débuts en 2001 j'ai développé en Java et JEE, puis j'ai été architecte logiciel, formateur, et enfin coach agile.
 - name:	Claire Deltrel
   photo:	ClaireDeltrel
-  bio:	"Diplômée de deux masters en mathématiques et modélisation statistique, je travaille depuis 4 ans à Decathlon en tant que Data scientist.
-Depuis un an, je suis garante de l'organisation en mode agile et anime l'amélioration continue du réseau Data Science."
+  bio: |
+    Diplômée de deux masters en mathématiques et modélisation statistique, je travaille depuis 4 ans à Decathlon en tant que Data scientist.
+    Depuis un an, je suis garante de l'organisation en mode agile et anime l'amélioration continue du réseau Data Science."
 - name:	Claire Deprez
   photo:	ClaireDeprez
   bio: |
@@ -159,6 +163,10 @@ Depuis un an, je suis garante de l'organisation en mode agile et anime l'amélio
   bio: |
     Consultant chez OCTO Technology dans la tribu OPS, je travaille quotidiennement avec des outils tels qu'Ansible et Terraform pour gérer de l'infra comme du code. Venant du monde du développement, je suis convaincu de la nécessité d'échanger et de partager entre les DEV et les OPS.
     J'essaie d'appliquer les bonnes pratiques de développement dans un monde d'infra pour améliorer la qualité et la fiabilité du code d'infra.
+- name: Antoine Pezé
+  photo: AntoinePeze
+  bio: >
+    Antoine Pezé est consultant chez Atecna. Sa mission est d'aider les individus et les entreprises à mieux s'écouter et à mieux travailler ensemble. Pour cela, il se repose sur des techniques issues de l'UX, l'Agile et la facilitation. Il est coach chez Adeo depuis 2 ans aux côtés de Simon et de toute l'équipe où il tente de diffuser les pratiques de l'équipes dans tout Adeo.
 - name:	Matteo Pierro
   photo:	MatteoPierro
   bio: |
