@@ -278,9 +278,9 @@
       - hour: 10h30 - 10h45
         special: 1
         content:
-          - label: Pitch des sessions de la journée (Aula Maxima)
+          - label: Pitch des sessions de la matinée (Aula Maxima)
             fill: 5
-      - hour: 10h45 - 11h20
+      - hour: 10h45 - 11h30
         content:
         - id: 67
           subject: Pratiques de management pour l'ère du numérique
@@ -319,7 +319,7 @@
             S’il est certain que le management visuel participe pleinement à la réussite des équipes qui le pratique, les changements organisationnels des entreprises d’aujourd’hui font naitre de nouvelles contraintes : Equipes distantes ? Télétravail ? Flex Office ? Découvrez comment favoriser la collaboration grâce à une solution digitale innovante. Le management visuel multi-sites et multi-utilisateurs est une réalité et une opportunité à saisir pour continuer à collaborer, apprendre ensemble et s’améliorer continuellement quel que soit le contexte des équipes et sans contrainte aucune. Gain de place, gain de temps, réduction des déplacements et meilleure traçabilité sont alors à portée de main. 
           speaker:	Justine Slimane
           format:	Atelier court (45 minutes) / Short workshop
-      - hour: 11h30 - 12h15
+      - hour: 11h45 - 12h30
         content:
         - id: 35
           subject:	Découplez votre organisation
