@@ -68,8 +68,18 @@
             Alors prenez un papier et un crayon et rejoignez-nous pour explorer le sketchnoting.
           speaker:	Julien Carreaud, Angélique Giraud
           format:	Atelier court (45 minutes) / Short workshop
-        - id: 85
-          label: Bientôt annoncé
+        - id: 200
+          subject: "Les aventuriers des tests exploratoires : à la poursuite du bug perdu"
+          description: |
+            Objectif : Améliorer la qualité de vos produits en apprenant à utiliser efficacement les tests exploratoires par la pratique.
+
+            Les tests exploratoires représentent par bien des aspects les valeurs de l'agilité : la communication, la transparence, le retour rapide d'information, l'amélioration.
+
+            Cette session didactique vous expliquera comment gérer vos tests exploratoires dans un environnement agile à partir d'un atelier pratique, en petit groupe, pour en comprendre le fonctionnement sur des exemples simples et concrets.
+
+            L’atelier est sous forme de serious game.
+          speaker:	Véronique Theault, Laurent Bouhier
+          format:	Atelier Long (105 minutes - 1h45) / long workshop
           duration: 2
       - hour: 11h30 - 12h15
         content:

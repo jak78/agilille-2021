@@ -19,6 +19,16 @@
 - name:	Nelis Boucke
   photo:	NelisBoucke
   bio:	Nelis is a software crafter who loves to develop great products with great teams, focussing on improving the quality of the product and way of working of the team.
+- name: Laurent Bouhier
+  photo: LaurentBouhier
+  bio: |
+    @laurent_bouhier
+
+    Tout comme Véronique, Laurent est tombé dans les tests il y a plus de 15 ans et nous pouvons dire de lui qu’il sait vous transmettre sa passion.
+
+    Il a participé à de nombreux projets de développement et de tests pour des clients grands comptes ainsi que pour des startups.
+
+    L’agilité et les tests sont devenus ses domaines d'expertise : coach, formateur, mais aussi réel testeur dans des projets Scrum.
 - name:	Philippe Bron
   photo:	PhilippeBron
   bio:	Je suis Responsable Innovation à la DSIC du Ministère de l'intérieur. Début 2018,  j'ai lancé le Lab Innovation qui appartient au réseau des incubateurs de Startups d'Etat. Nous incubons 3 Startups et nous préparons la nouvelle promotion pour 2019.
@@ -208,6 +218,17 @@
 - name:	Justine Slimane
   photo:	JustineSlimane
   bio:	Coach Lean & Agile, ainsi que Product Owner d'une solution digitale innovante
+- name: Véronique Theault
+  photo: VeroniqueTheault
+  bio: |
+    @vetheault
+
+    Co-fondatrice de l’activité de tests Acpqualife, Véronique est une consultante senior dans les bonnes pratiques et les outils de tests.
+
+    Passionnée par le test depuis plus de 20 ans, Véronique a accompagné et accompagne encore différents clients dans les pratiques de tests, aussi bien waterfull qu’agile. Elle fait partie de nos formateurs accrédités.
+
+    Enfin, Véronique participe à de nombreux événements tels que : la Telecom Valley, L’Agile Tour, la communauté de tests d’Acpqualife.
+
 - name:	Yoan Thirion
   photo:	YoanThirion
   bio: |
