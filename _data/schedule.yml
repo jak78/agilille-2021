@@ -403,7 +403,14 @@
             Quelques semaines plus tard, nous avions assisté à une évolution des mentalités et des rituels. Nous sommes devenus une équipe plus Agile qu'hier, et en constante évolution. Vous voulez aussi utiliser Scrum comme une fenêtre vers l'Agilité ?
           speaker:	Baptiste Lecocq
           format:	Talk (45 minutes)
-        - label: Bientôt annoncé
+        - id: 201
+          speaker: Vincent Grajek, Eric Hazoumé
+          subject: "Agile Jenga Game – Développeurs, testeurs et Agilité, le combo ultime !"
+          format: Atelier court (45 minutes) / Short workshop
+          description: |
+            Sheldon sans Leonard, Riggs sans Murtaugh, Tom sans Jerry, un meuble Ikéa sans plan de montage... 
+
+            Vous avez du mal à imaginer ces situations ? Alors, venez tester les bienfaits d’une coopération efficace!
         - id: 59
           subject:	Teambuildez-vous !
           description: |
