@@ -470,8 +470,13 @@
           speaker:	Nicolas Umiastowski
           format:	Atelier Long (105 minutes - 1h45) / long workshop
           duration: 2
-        - id: 86
-          label:	Bientôt annoncé
+        - id: 62
+          speaker: Laetitia Thernier, Régis Schneider
+          subject: "#LostInTransformation ? Revenons aux bases !"
+          format:	Atelier Long (105 minutes - 1h45) / long workshop
+          description: |
+            Vous vous sentez peut-être perdus au sein d’une transformation Agile à laquelle vous participez, que ce soit à sa tête ou au sein des équipes.
+            Participez à ce voyage au cours duquel nous vous partageons une grille de lecture basée sur le principe des poupées russes. De manière collaborative, vous découvrirez 3 canevas qui vous aideront à mieux comprendre et faire comprendre 3 aspects essentiels au quotidien de cette transformation : Sens, Produit, Amélioration.
           duration: 2
       - hour: 17h15 - 18h00
         content:
