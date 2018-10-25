@@ -83,15 +83,6 @@
           duration: 2
       - hour: 11h30 - 12h15
         content:
-        - id: 69
-          subject: Comment nous avons créé une digital factory chez Adeo
-          speaker: Antoine Pezé, Simon Canizarez
-          description: |
-            Laissez nous vous raconter l'histoire de la Digital Tribe, cette équipe apparue de nulle part et qui à changé les manières de faire chez Adeo...
-
-            Créée en 2016 sur la base d'un projet, cette équipe qui revendique l'alliance de l'Agilité et de l'UX a beaucoup évolué pour représenter une vingtaine de personnes aujourd'hui. Elle a impacté les manières de faire de plusieurs équipes et a permis de lancer des programmes de formation pour toute l'entreprise. 
-
-            Grâce à un management "libérant" et un attachement fort à sa culture, cete digital factory a su se démarquer pour mettre en productions de nombreuses réalisations et transformer des pratiques, mais aussi des vocations...
         - id: 21
           subject:	Prise de décision dans une entreprise sans chef
           description: |
@@ -102,6 +93,15 @@
             Décortiquons ensemble comment prendre des décisions efficacement en grand groupes, basé sur ces deux exemples.
           speaker:	Jonathan Scher
           format:	Talk (45 minutes)
+        - id: 69
+          subject: Comment nous avons créé une digital factory chez Adeo
+          speaker: Antoine Pezé, Simon Canizarez
+          description: |
+            Laissez nous vous raconter l'histoire de la Digital Tribe, cette équipe apparue de nulle part et qui à changé les manières de faire chez Adeo...
+
+            Créée en 2016 sur la base d'un projet, cette équipe qui revendique l'alliance de l'Agilité et de l'UX a beaucoup évolué pour représenter une vingtaine de personnes aujourd'hui. Elle a impacté les manières de faire de plusieurs équipes et a permis de lancer des programmes de formation pour toute l'entreprise. 
+
+            Grâce à un management "libérant" et un attachement fort à sa culture, cete digital factory a su se démarquer pour mettre en productions de nombreuses réalisations et transformer des pratiques, mais aussi des vocations...
         - id: 14
           subject:	Les Derdians
           description: |
@@ -122,6 +122,15 @@
             fill: 5
       - hour: 14h00 - 14h45
         content:
+        - id: 33
+          subject:	Product Owner (et plus car affinité) pendant 4 ans dans une PME.
+          description: |
+            Il était une fois un jeune développeur avide d'agilité, ambitieux de sortir de sa condition pas si misérable. Il fut "promu" au rôle de "Product Owner". 
+            "Promu", car il découvrit pendant 4 ans les conséquences de son ascension sociale sur une échelle agile (que l'on souhaite horizontale). 
+            "Product Owner", car il fut à la fois coach agile pour 2 équipes off-shore, Scrum Master, Product Owner, Chef de Projet, Directeur de Projet. Et donc aucun de ces rôles.
+            C'est une histoire de désillusions (cargo culte agile). Une histoire qui finit mal (donc riche d'enseignements). Une histoire vraie. Un Retour d'eXpériences.
+          speaker:	Gilles Masy
+          format:	Talk (45 minutes)
         - id: 17
           subject:	La technologie conduite par les communautés à l’échelle
           description: |
@@ -133,15 +142,6 @@
         
             Venez découvrir comment les devs sont devenus autonomes pour gérer la techno avec la responsabilité et la confiance de l'entreprise
           speaker:	Cyril Lakech
-          format:	Talk (45 minutes)
-        - id: 33
-          subject:	Product Owner (et plus car affinité) pendant 4 ans dans une PME.
-          description: |
-            Il était une fois un jeune développeur avide d'agilité, ambitieux de sortir de sa condition pas si misérable. Il fut "promu" au rôle de "Product Owner". 
-            "Promu", car il découvrit pendant 4 ans les conséquences de son ascension sociale sur une échelle agile (que l'on souhaite horizontale). 
-            "Product Owner", car il fut à la fois coach agile pour 2 équipes off-shore, Scrum Master, Product Owner, Chef de Projet, Directeur de Projet. Et donc aucun de ces rôles.
-            C'est une histoire de désillusions (cargo culte agile). Une histoire qui finit mal (donc riche d'enseignements). Une histoire vraie. Un Retour d'eXpériences.
-          speaker:	Gilles Masy
           format:	Talk (45 minutes)
         - id: 68
           subject:	"Consumer Driven Contracts: The Evolution of Your API Using Tests"
@@ -173,6 +173,14 @@
           duration: 2
       - hour: 15h00 - 15h45
         content:
+        - id: 34
+          subject:	"Projet annoncé : périmètre figé, budget serré, date de livraison fixée. Et, s’il vous plait, avec de l’Agilité&nbsp;!"
+          description: |
+            « Bonjour, pourriez-vous développer ces fonctionnalités pour dans 9 mois exactement ? La date est TRES importante. Retirer une fonctionnalité ? Impossible ! ». 
+            On y a tous fait face un jour ! Nous y compris, au moment où l’on a dû développer la nouvelle application mobile AXA Banque. Un contexte pas toujours facile et souvent source de conflits entre métier et DSI. Comment être Agile dans ces conditions nous direz-vous ? 
+            Au travers d’un retour d’expérience, nous vous montrerons de quelle manière nous avons pu délivrer en temps et en heure la refonte complète d’une application bancaire Android et iOS et ce sans lésiner sur la qualité (et sans devoir travailler dans nos caves le week-end !).
+          speaker:	Alexis Dubois, Camille Fareneau
+          format:	Talk (45 minutes)
         - id: 39
           subject:	"Le bonheur au travail et à la maison : un programme de développement personnel"
           description: |
@@ -182,14 +190,6 @@
         
             Envie d'en savoir plus ? Retour d'expérience, apprentissages et témoignage à la clé !
           speaker:	Olivier My
-          format:	Talk (45 minutes)
-        - id: 34
-          subject:	"Projet annoncé : périmètre figé, budget serré, date de livraison fixée. Et, s’il vous plait, avec de l’Agilité&nbsp;!"
-          description: |
-            « Bonjour, pourriez-vous développer ces fonctionnalités pour dans 9 mois exactement ? La date est TRES importante. Retirer une fonctionnalité ? Impossible ! ». 
-            On y a tous fait face un jour ! Nous y compris, au moment où l’on a dû développer la nouvelle application mobile AXA Banque. Un contexte pas toujours facile et souvent source de conflits entre métier et DSI. Comment être Agile dans ces conditions nous direz-vous ? 
-            Au travers d’un retour d’expérience, nous vous montrerons de quelle manière nous avons pu délivrer en temps et en heure la refonte complète d’une application bancaire Android et iOS et ce sans lésiner sur la qualité (et sans devoir travailler dans nos caves le week-end !).
-          speaker:	Alexis Dubois, Camille Fareneau
           format:	Talk (45 minutes)
       - hour: 15h45 - 16h10
         content:
@@ -389,19 +389,19 @@
           id: emilie_esposito
       - hour: 15h00 - 15h45
         content:
-        - id: 20
-          subject:	Agilité en data-science
-          description: |
-            Avec l'engouement grandissant autour de l'Intelligence Artificielle, de plus en plus en plus d'entreprises s'interrogent sur la mise en place d'une organisation efficace autour de ces nouveaux métiers. 
-            Nous vous proposons un retour d'expérience de l'équipe Data-science de Decathlon à travers lequel nous aborderons comment nous nous sommes appropriés les principes Agile depuis début 2017, nos victoires et nos difficultés.
-          speaker:	Grégory Vanuynsberghe, Claire Deltrel
-          format:	Talk (45 minutes)
         - id: 24
           subject:	Le Scrum est une fenêtre (ou bien un mur)
           description: |
             Après de longs mois d'application de "Scrum by the book" dans une feature team de 5 personnes, tout est très bien maîtrisé. Un peu trop ? Le cadre du Scrum s'est dressé comme un mur devant nous.
             Quelques semaines plus tard, nous avions assisté à une évolution des mentalités et des rituels. Nous sommes devenus une équipe plus Agile qu'hier, et en constante évolution. Vous voulez aussi utiliser Scrum comme une fenêtre vers l'Agilité ?
           speaker:	Baptiste Lecocq
+          format:	Talk (45 minutes)
+        - id: 20
+          subject:	Agilité en data-science
+          description: |
+            Avec l'engouement grandissant autour de l'Intelligence Artificielle, de plus en plus en plus d'entreprises s'interrogent sur la mise en place d'une organisation efficace autour de ces nouveaux métiers. 
+            Nous vous proposons un retour d'expérience de l'équipe Data-science de Decathlon à travers lequel nous aborderons comment nous nous sommes appropriés les principes Agile depuis début 2017, nos victoires et nos difficultés.
+          speaker:	Grégory Vanuynsberghe, Claire Deltrel
           format:	Talk (45 minutes)
         - id: 201
           speaker: Vincent Grajek, Eric Hazoumé
@@ -480,16 +480,6 @@
           duration: 2
       - hour: 17h15 - 18h00
         content:
-        - id: 8
-          subject:	Quand l'hyper agilité est une question de survie
-          description: |
-            A la naissance d’une start-up, il y a souvent une idée. Une idée et quelques personnes qui y croient.
-        
-            Mais quand le succès survient, arrive alors l’heure des dilemmes: interface d’administration ou Postman ? Devrais-je contracter cette dette technique ? Quand la rembourser ? Le shadow IT est-il un mal nécessaire ? Comment faire pour ne pas subir les changements de priorité réguliers ? Une équipe ? Deux ? Quand ?
-        
-            Adrien et Mathieu de Pix.fr, start-up dont l’ambition est de devenir LE standard pour “Évaluer, développer et certifier les compétences numériques” des Français, vous proposent de revenir sur deux années de développement: victoires, moments difficiles, questionnements, solutions.
-          speaker:	Adrien Saunier, Mathieu Laurent
-          format:	Talk (45 minutes)
         - id: 7
           subject:	Découvrez le Product Sprint
           description: |
@@ -500,6 +490,16 @@
             - Jour 4 : Test
             - Jour 5 : Backlog
           speaker:	Benoit Rosier
+          format:	Talk (45 minutes)
+        - id: 8
+          subject:	Quand l'hyper agilité est une question de survie
+          description: |
+            A la naissance d’une start-up, il y a souvent une idée. Une idée et quelques personnes qui y croient.
+        
+            Mais quand le succès survient, arrive alors l’heure des dilemmes: interface d’administration ou Postman ? Devrais-je contracter cette dette technique ? Quand la rembourser ? Le shadow IT est-il un mal nécessaire ? Comment faire pour ne pas subir les changements de priorité réguliers ? Une équipe ? Deux ? Quand ?
+        
+            Adrien et Mathieu de Pix.fr, start-up dont l’ambition est de devenir LE standard pour “Évaluer, développer et certifier les compétences numériques” des Français, vous proposent de revenir sur deux années de développement: victoires, moments difficiles, questionnements, solutions.
+          speaker:	Adrien Saunier, Mathieu Laurent
           format:	Talk (45 minutes)
       - hour: 18h00 - 20h00
         special: 1
