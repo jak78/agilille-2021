@@ -153,11 +153,10 @@
           speaker:	Matteo Pierro, Nelis Boucke
           format:	Atelier Long (105 minutes - 1h45) / long workshop
           duration: 2
-        - id: 64
-          subject:	"Les émotions au travail : Qu'est-ce que j'en fais&nbsp;?"
-          description: |
-            Cette session de deux heures est née d’une situation en entreprise où je me suis retrouvée avec une équipe entière en situation de stress émotionnel. L’idée : prendre du recul, respirer, se poser et détricoter tout ça fils après fils. Je vous propose un cheminement au coeur d’une relation entre l’émotion de l’autre et la notre. Au court de ce voyage nous ferons des points d’étapes pour comprendre le concept de souveraineté, comment nous pouvons sortir d’une situation émotionnelle perdant-perdant ou encore le lien entre les émotions et les besoins. L’objectif de tout cela ? D’abord et avant tout, nous donner une vision différente des choses et nous permettre d’améliorer notre quotidien.
-          speaker:	Julie Quillé, Thomas Clavier
+        - id: 58
+          subject:	Ralentir pour aller plus vite !
+          description:	Ce talk, durant lequel tous les cerveaux de la salle vont être mis à contribution, est une occasion de réfléchir ensemble à la façon dont nous pouvons nous perfectionner par l’attention aux détails. Nous allons profiter de ce ralentissement pour décortiquer nos gestes, nos habitudes, notre manière de faire. Profitons également du nombre pour confronter nos différences, le pourquoi de nos actions, en résumé profitons de l’expérience de chacun pour ressortir enrichi de ce voyage commun. Programmeurs confirmés ou débutants, en ressortiront tous riches d’une nouvelle expérience à reproduire dans leurs équipes.
+          speaker:	Thomas Clavier, Alexis Benoist
           format:	Atelier Long (105 minutes - 1h45) / long workshop
           duration: 2
         - id: 22
@@ -214,10 +213,11 @@
             La Job Story est une approche complémentaire, qui peut venir enrichir votre compréhension des attentes de vos clients, et vous aider à développer un super produit !
           speaker: Anne Gabrillagues
           format:	Talk (45 minutes)
-        - id: 58
-          subject:	Ralentir pour aller plus vite !
-          description:	Ce talk, durant lequel tous les cerveaux de la salle vont être mis à contribution, est une occasion de réfléchir ensemble à la façon dont nous pouvons nous perfectionner par l’attention aux détails. Nous allons profiter de ce ralentissement pour décortiquer nos gestes, nos habitudes, notre manière de faire. Profitons également du nombre pour confronter nos différences, le pourquoi de nos actions, en résumé profitons de l’expérience de chacun pour ressortir enrichi de ce voyage commun. Programmeurs confirmés ou débutants, en ressortiront tous riches d’une nouvelle expérience à reproduire dans leurs équipes.
-          speaker:	Thomas Clavier, Alexis Benoist
+        - id: 64
+          subject:	"Les émotions au travail : Qu'est-ce que j'en fais&nbsp;?"
+          description: |
+            Cette session de deux heures est née d’une situation en entreprise où je me suis retrouvée avec une équipe entière en situation de stress émotionnel. L’idée : prendre du recul, respirer, se poser et détricoter tout ça fils après fils. Je vous propose un cheminement au coeur d’une relation entre l’émotion de l’autre et la notre. Au court de ce voyage nous ferons des points d’étapes pour comprendre le concept de souveraineté, comment nous pouvons sortir d’une situation émotionnelle perdant-perdant ou encore le lien entre les émotions et les besoins. L’objectif de tout cela ? D’abord et avant tout, nous donner une vision différente des choses et nous permettre d’améliorer notre quotidien.
+          speaker:	Julie Quillé, Thomas Clavier
           format:	Atelier Long (105 minutes - 1h45) / long workshop
           duration: 2
         - id: 54
