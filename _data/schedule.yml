@@ -196,13 +196,6 @@
             fill: 5
       - hour: 16h15 - 17h00
         content:
-        - id: 47
-          subject:	Un MVP et des utilisateurs en un mois au Ministère de l’intérieur !
-          description: |
-            On vous dit que votre entreprise est trop bureaucratique pour l’agile ou le lean startup ? Répondez que même le Ministère de l’intérieur y arrive !
-            Découvrez comment, au Lab innovation, un fonctionnaire devient intrapreneur. Comment on a lancé en moins d'un mois un MVP sans coder avec plus de 100 utilisateurs au lancement. Comment nous hackons des sites de petites annonces. Et repartez avec des idées activables chez vous pour crash-tester rapidement vos idées auprès des utilisateurs ...
-          speaker:	Dominique Lequepeys, Philippe Bron
-          format:	Talk (45 minutes)
         - id: 43
           subject: Penser autrement l'expression du besoin agile avec les Job Stories
           description: |
@@ -212,6 +205,13 @@
 
             La Job Story est une approche complémentaire, qui peut venir enrichir votre compréhension des attentes de vos clients, et vous aider à développer un super produit !
           speaker: Anne Gabrillagues
+          format:	Talk (45 minutes)
+        - id: 47
+          subject:	Un MVP et des utilisateurs en un mois au Ministère de l’intérieur !
+          description: |
+            On vous dit que votre entreprise est trop bureaucratique pour l’agile ou le lean startup ? Répondez que même le Ministère de l’intérieur y arrive !
+            Découvrez comment, au Lab innovation, un fonctionnaire devient intrapreneur. Comment on a lancé en moins d'un mois un MVP sans coder avec plus de 100 utilisateurs au lancement. Comment nous hackons des sites de petites annonces. Et repartez avec des idées activables chez vous pour crash-tester rapidement vos idées auprès des utilisateurs ...
+          speaker:	Dominique Lequepeys, Philippe Bron
           format:	Talk (45 minutes)
         - id: 64
           subject:	"Les émotions au travail : Qu'est-ce que j'en fais&nbsp;?"
