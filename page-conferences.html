@@ -45,6 +45,7 @@ permalink: /conferences/
                             {% assign talk_hour = talk_hours[0] %}
                             <span class="room">{% if talk.room %}, {{ talk.room }}{%else%}, {{ site.data.rooms[forloop.index0] }}{% endif %} le {{ talk_day }} à {{ talk_hour }}</span>
                         </span>
+                        <span class="roti-feedback"><a href="{{ site.data.roti.survey_links_by_id[talk.id] }}"><img width="34" height="17" src="/img/roti.png">Feedback</a></span>
                     </div>
                     <p class="description">{{ talk.description }}</p>
                     {% if talk.extra %}
