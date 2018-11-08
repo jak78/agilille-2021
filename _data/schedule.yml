@@ -441,19 +441,19 @@
             room: Aula Maxima
       - hour: 16h15 - 17h00
         content:
-        - id: 1
-          subject:	Manager en milieu agile, mon "marshmallow test" quotidien
-          description: |
-            Isolez un enfant dans une pièce, donnez lui un chamallow et dites que vous allez faire un tour et que quand vous reviendrez, s'il n'a pas mangé son chamallow alors il aura le droit d'en avoir un second. L'enfant aura t-il assez de patience et de volonté pour ne pas succomber à la tentation ? Gros dilemme...
-            Et si la tentation du manager agile était le contrôle ? Et le chamallow la confiance ?
-          speaker:	Jean-Baptiste Hugeux
-          format:	Talk (45 minutes)
         - id: 44
           subject:	Les utilisateurs finaux, les oubliés de nos produits !
           description: |
             Depuis quelques années, vous entendez parler de transformation d’entreprises permettant la diminution du Time-To-Market, le rapprochement des développeurs et opérationnels et la synchronisation des backlogs ou encore favorisant le plaisir au travail. Pourtant nous oublions l’essentiel, réaliser le bon produit répondant aux réelles problématiques des utilisateurs finaux.
             Ce fondement est trop souvent oublié par toutes ces entreprises voulant monter vite sur l’agilité à l’échelle. Vous êtes vous déjà rendu compte à quel point cette clé de succès est oubliée ? Savez-vous pourquoi il faut mettre un point d’honneur à intégrer les utilisateurs finaux dans les projets ?
           speaker:	Nelson Dufossé
+          format:	Talk (45 minutes)
+        - id: 1
+          subject:	Manager en milieu agile, mon "marshmallow test" quotidien
+          description: |
+            Isolez un enfant dans une pièce, donnez lui un chamallow et dites que vous allez faire un tour et que quand vous reviendrez, s'il n'a pas mangé son chamallow alors il aura le droit d'en avoir un second. L'enfant aura t-il assez de patience et de volonté pour ne pas succomber à la tentation ? Gros dilemme...
+            Et si la tentation du manager agile était le contrôle ? Et le chamallow la confiance ?
+          speaker:	Jean-Baptiste Hugeux
           format:	Talk (45 minutes)
         - id: 15
           subject:	"Tennis Kata : dites stop au TDD et passez au TDD !"
