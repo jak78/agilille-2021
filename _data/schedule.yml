@@ -81,6 +81,7 @@
           speaker:	Véronique Theault, Guillaume Cousin
           format:	Atelier Long (105 minutes - 1h45) / long workshop
           duration: 2
+          slides_url: "https://docs.google.com/presentation/d/18b6cH5juw6VBxI3uHrS3cRjn0BrhYCcT3jpHmdtjjTo/edit?usp=sharing"
       - hour: 11h30 - 12h15
         content:
         - id: 21
@@ -93,9 +94,11 @@
             Décortiquons ensemble comment prendre des décisions efficacement en grand groupes, basé sur ces deux exemples.
           speaker:	Jonathan Scher
           format:	Talk (45 minutes)
+          slides_url: "https://docs.google.com/presentation/d/1_67fms4boIy0imQpjXFWLZf5AhsUqoCrHZeBnA99vqQ/edit#slide=id.g46ced9860a_0_0"
         - id: 69
           subject: Comment nous avons créé une digital factory chez Adeo
           speaker: Antoine Pezé, Simon Canizarez
+          slides_url: "https://www.youtube.com/watch?v=OUlbiTzreaU&feature=youtu.be"
           description: |
             Laissez nous vous raconter l'histoire de la Digital Tribe, cette équipe apparue de nulle part et qui à changé les manières de faire chez Adeo...
 
@@ -145,7 +148,7 @@
             Venez découvrir comment les devs sont devenus autonomes pour gérer la techno avec la responsabilité et la confiance de l'entreprise
           speaker:	Cyril Lakech
           format:	Talk (45 minutes)
-          slides_url: https://www.youtube.com/watch?v=ZhQwTWVNSiM
+          slides_url: "https://docs.google.com/presentation/d/1CRIHGdCAep_y34mLUZ5knqMGAXpAHMHKEWI_fMn623o/edit#slide=id.p"
         - id: 68
           subject:	"Consumer Driven Contracts: The Evolution of Your API Using Tests"
           description: |
@@ -173,6 +176,7 @@
           speaker:	Alexandre Quach, Lucie Lesage
           format:	Atelier Long (105 minutes - 1h45) / long workshop
           duration: 2
+          slides_url: "https://docs.google.com/presentation/d/1BzX4ZYLOroOvOuAwIureaKEgYVhYDjukHeLIiUzc3E4/edit?usp=sharing"
       - hour: 15h00 - 15h45
         content:
         - id: 34
@@ -316,6 +320,7 @@
           speaker:	Maxime Bonnet
           format:	Talk (45 minutes)
           level: 2
+          slides_url: "https://drive.google.com/open?id=1HPmL06l9OH8OJKinBf5O7aDohp8FDUXO"
         - id: 4
           subject:	Le Pair Programming sous toutes ses formes
           description: |
@@ -324,6 +329,7 @@
           format:	Atelier Long (105 minutes - 1h45) / long workshop
           duration: 2
           bring_your_pc: 1
+          slides_url: "https://docs.google.com/document/d/10Uq_dnrW5NnzfaC_1Law1T9P88wYVsGktUWnk2OXLXI/edit?usp=sharing"
         - id: 3
           subject:	"Le pas japonais : un escape game collaboratif pour résoudre un problème complexe" 
           description:	Envie de résoudre un problème complexe en s'auto-organisant? hum, pas si facile, nous verrons si vous êtes capable de répondre au défi!
@@ -370,6 +376,7 @@
           speaker:	Yoan Thirion
           format:	Atelier court (45 minutes) / Short workshop
           room: Atelier 3
+          slides_url: "https://onedrive.live.com/view.aspx?resid=5BCFA94ED0E6EA65!858711&ithint=file%2cpptx&app=PowerPoint&authkey=!AM5KU9EsOzeBUOk"
     -
       - hour: 12h30 - 13h30
         special: 1
@@ -396,7 +403,7 @@
           highlight: 1
           prefix: <img src="/img/speakers/EmilieEsposito.jpg" alt="Emilie Esposito" class="speaker">
           id: emilie_esposito
-          slides_url: https://fr.slideshare.net/AgileEnSeine/cargo-cult-agile-by-emilie-esposito
+          slides_url: "https://drive.google.com/file/d/16VWSYJgdQV916zob7WcZtgUZgv9h4cEL/view?usp=sharing"
       - hour: 15h00 - 15h45
         content:
         - id: 24
@@ -483,6 +490,7 @@
           speaker:	Nicolas Umiastowski
           format:	Atelier Long (105 minutes - 1h45) / long workshop
           duration: 2
+          slides_url: "https://docs.google.com/presentation/d/1ss2EZEi2PnQpPkxTCyZ0Qwm_0SwvDb1bbUa-Pf3Wk1g/edit?usp=sharing"
         - id: 2
           subject:	Karate Dinosaur Carpaccio
           description: |
