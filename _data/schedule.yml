@@ -132,6 +132,7 @@
             C'est une histoire de désillusions (cargo culte agile). Une histoire qui finit mal (donc riche d'enseignements). Une histoire vraie. Un Retour d'eXpériences.
           speaker:	Gilles Masy
           format:	Talk (45 minutes)
+          slides_url: https://drive.google.com/file/d/1cUPezbavJQbSD03c6mS_a2QEewt5RPJL/view
         - id: 17
           subject:	La technologie conduite par les communautés à l’échelle
           description: |
@@ -144,6 +145,7 @@
             Venez découvrir comment les devs sont devenus autonomes pour gérer la techno avec la responsabilité et la confiance de l'entreprise
           speaker:	Cyril Lakech
           format:	Talk (45 minutes)
+          slides_url: https://www.youtube.com/watch?v=ZhQwTWVNSiM
         - id: 68
           subject:	"Consumer Driven Contracts: The Evolution of Your API Using Tests"
           description: |
@@ -181,6 +183,7 @@
             Au travers d’un retour d’expérience, nous vous montrerons de quelle manière nous avons pu délivrer en temps et en heure la refonte complète d’une application bancaire Android et iOS et ce sans lésiner sur la qualité (et sans devoir travailler dans nos caves le week-end !).
           speaker:	Alexis Dubois, Camille Fareneau
           format:	Talk (45 minutes)
+          slides_url: https://drive.google.com/file/d/1VdsflFelMrtx0_0NvBzeJQ0Y5TFYKQHa/view?usp=sharing
         - id: 39
           subject:	"Le bonheur au travail et à la maison : un programme de développement personnel"
           description: |
@@ -207,6 +210,7 @@
             La Job Story est une approche complémentaire, qui peut venir enrichir votre compréhension des attentes de vos clients, et vous aider à développer un super produit !
           speaker: Anne Gabrillagues
           format:	Talk (45 minutes)
+          slides_url: "https://drive.google.com/open?id=0B7TrcZJmOXcxQXlxTzVHck1fMUZzdXNnYnVtRi02QjU3WHFn"
         - id: 47
           subject:	Un MVP et des utilisateurs en un mois au Ministère de l’intérieur !
           description: |
@@ -214,6 +218,7 @@
             Découvrez comment, au Lab innovation, un fonctionnaire devient intrapreneur. Comment on a lancé en moins d'un mois un MVP sans coder avec plus de 100 utilisateurs au lancement. Comment nous hackons des sites de petites annonces. Et repartez avec des idées activables chez vous pour crash-tester rapidement vos idées auprès des utilisateurs ...
           speaker:	Dominique Lequepeys, Philippe Bron
           format:	Talk (45 minutes)
+          slides_url: "https://docs.google.com/presentation/d/1L0sTEMP30YFrfoyBoKJsf7jf4tZI7hf9FVOkOlpt1N4/edit?usp=sharing"
         - id: 64
           subject:	"Les émotions au travail : Qu'est-ce que j'en fais&nbsp;?"
           description: |
@@ -254,6 +259,7 @@
             On a beau être soi-même intimement persuadé par la philosophie agile, dans la jungle de l’entreprise, pas toujours facile de convaincre son entourage (ou son manager) pour propager les valeurs qui nous sont chères. Pour vous assister dans cette tâche, je vous confie mon top 10 de punchlines agile à décocher dans vos réunions pour : #1 reprendre votre souffle, #2 vous aider à structurer votre discours et #3 marquer les esprits.
           speaker:	Jules Deregnaucourt
           format:	Talk (45 minutes)
+          slides_url: "https://drive.google.com/open?id=1afpEUX-59iTpTTbQgF1nJ2-6NjzoGDyW"
       - hour: 18h00 - 20h00
         special: 1
         content:
@@ -298,6 +304,7 @@
             Depuis le début de siècle, on entend beaucoup parler de principes de management (dont celui, radical, de l’absence de managers). Tout cela est très intéressant mais cette présentation a des objectifs moins ambitieux et plus prosaïques, liés à l’ère du travail à l’ère du numérique : comment animer l’activité pour que l’experience client demeure au cœur des preoccupations de chacun ? Comment creer le contexte propice à l’experimentation quotidienne et au développement de l’agilite ́de l’equipe ? Comment adopter la bonne posture pour engager les collaborateurs dans la réflexion puis l’action, pour que chacun puisse voir sa contribution àl’amélioration de l’entreprise ?
           speaker: Cecil Dijoux
           format: Talk (45 minutes)
+          slides_url: "https://fr.slideshare.net/Phelion/pratiques-de-management-pour-lre-du-numrique-par-cecil-dijoux"
         - id: 9
           subject:	"Sisyphe, le Père Noël, Harry Potter et le vrai PO : mythes d'hier et d'aujourd'hui."
           description: |
@@ -337,6 +344,7 @@
             N'avez vous jamais rêvé d'une organisation humaine qui ne soit plus un frein au changement ? Ou dit positivement : qu'elle s'adapte au même rythme que les autres composantes de l'organisation. En même temps, Conway nous dit que le design des organisations humaine et technique sont liés. D'où l'idée d'utiliser des principes de limitation des dépendances aux deux. Pour les concepts qui seront évoqués, il s'agit de DDD stratégique avec de la pensée systèmes (humains). Et normalement, vous repartirez avec des exemples de ce qu'il faut éviter et des idées de ce que vous pourriez faire pour rendre votre organisation plus fluide.
           speaker:	Samuel Retiere
           format:	Talk (45 minutes)
+          slides_url: https://speakerdeck.com/espritagile/decouplez-votre-organisation
         - id: 12
           subject:	Test-Driven Development sur votre infrastructure avec Ansible !
           description: |
@@ -388,6 +396,7 @@
           highlight: 1
           prefix: <img src="/img/speakers/EmilieEsposito.jpg" alt="Emilie Esposito" class="speaker">
           id: emilie_esposito
+          slides_url: https://fr.slideshare.net/AgileEnSeine/cargo-cult-agile-by-emilie-esposito
       - hour: 15h00 - 15h45
         content:
         - id: 24
@@ -397,6 +406,7 @@
             Quelques semaines plus tard, nous avions assisté à une évolution des mentalités et des rituels. Nous sommes devenus une équipe plus Agile qu'hier, et en constante évolution. Vous voulez aussi utiliser Scrum comme une fenêtre vers l'Agilité ?
           speaker:	Baptiste Lecocq
           format:	Talk (45 minutes)
+          slides_url: https://talks.tiste.io/le-scrum-est-une-fenetre/
         - id: 20
           subject:	Agilité en data-science
           description: |
@@ -404,6 +414,7 @@
             Nous vous proposons un retour d'expérience de l'équipe Data-science de Decathlon à travers lequel nous aborderons comment nous nous sommes appropriés les principes Agile depuis début 2017, nos victoires et nos difficultés.
           speaker:	Grégory Vanuynsberghe, Claire Deltrel
           format:	Talk (45 minutes)
+          slides_url: "https://drive.google.com/open?id=0B7TrcZJmOXcxbFFMeVc0QVdKWjlaczJmZFFOQnY0Q3hteWRZ"
         - id: 201
           speaker: Vincent Grajek, Eric Hazoumé
           subject: "Agile Jenga Game – Développeurs, testeurs et Agilité, le combo ultime !"
@@ -448,6 +459,7 @@
             Ce fondement est trop souvent oublié par toutes ces entreprises voulant monter vite sur l’agilité à l’échelle. Vous êtes vous déjà rendu compte à quel point cette clé de succès est oubliée ? Savez-vous pourquoi il faut mettre un point d’honneur à intégrer les utilisateurs finaux dans les projets ?
           speaker:	Nelson Dufossé
           format:	Talk (45 minutes)
+          slides_url: "https://www.slideshare.net/XebiaFrance/xebicon18-les-utilisateurs-finaux-les-oublis-de-nos-produits"
         - id: 1
           subject:	Manager en milieu agile, mon "marshmallow test" quotidien
           description: |
