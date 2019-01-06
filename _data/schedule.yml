@@ -474,6 +474,7 @@
             Et si la tentation du manager agile était le contrôle ? Et le chamallow la confiance ?
           speaker:	Jean-Baptiste Hugeux
           format:	Talk (45 minutes)
+          slides_url: https://drive.google.com/file/d/1FA_uGGED5__HgFwBwBk7FmZ5Us2z9wFR/view
         - id: 15
           subject:	"Tennis Kata : dites stop au TDD et passez au TDD !"
           description: |
