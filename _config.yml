@@ -1,13 +1,13 @@
 # Site settings
-title: Agile Tour Lille 2018
+title: Agile Tour Lille 2019
 email: agiletour@nord-agile.org
 description: > # this means to ignore newlines until "baseurl:"
-  L'édition de l'Agile Tour 2018 à Lille réunit des conférences de qualité dans un cadre unique.
+  L'édition de l'Agile Tour 2019 à Lille réunit des conférences de qualité dans un cadre unique.
 gems:
   - jekyll-sitemap
 
 baseurl: '' # the subpath of your site, e.g. /blog/
-url: 'http://2018.agiletour-lille.org'
+url: 'http://2019.agiletour-lille.org'
 twitter_username: NordAgile
 github_username:  jak78
 
