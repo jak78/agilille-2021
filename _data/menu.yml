@@ -7,8 +7,9 @@
   target: _blank
   visible: 0
 - title: Soumettre un sujet
-  url: /cfp
-  visible: 0
+  url: https://sessionize.com/agile-tour-lille-2019
+  target: _blank
+  visible: 1
 - title: Programme
   url: /programme
   visible: 0
