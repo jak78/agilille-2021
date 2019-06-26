@@ -6,6 +6,9 @@
   url: https://www.billetweb.fr/agile-tour-lille-2019
   target: _blank
   visible: 0
+- title: Devenir sponsor
+  url: /devenir-sponsor
+  visible: 1
 - title: Soumettre un sujet
   url: https://sessionize.com/agile-tour-lille-2019
   target: _blank
@@ -25,12 +28,9 @@
 - title: Accès
   url: /acces
   visible: 1
-- title: Devenir sponsor
-  url: /devenir-sponsor
-  visible: 0
 - title: Sponsors 2018
   url: https://2018.agiletour-lille.org/sponsors
-  visible: 1
+  visible: 0
 - title: Orga
   url: /organisateurs
   visible: 1
