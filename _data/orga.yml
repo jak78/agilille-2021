@@ -1,21 +1,8 @@
-- name: Sarah Dewavrin
-  photo: sarah_mortel.jpg
-  bio: |
-    Sarah est coach agilitatrice chez Efidev et responsable du produit Taïkoon (solution de gestion de trésorerie pour les TPE). Les utilisateurs sont le centre de ses préoccupations, l’amélioration continue est sa philosophie. Elle aime transmettre ce qu’elle apprend aux équipes qu’elle accompagne et découvrir de nouveaux outils pour être plus efficace dans le travail en équipe.
-    Elle est fière de faire partie de l’équipe Nord Agile, organisatrice de l’Agile Tour Lille pour la 6ème édition.
 - name: Fabien Goguillon
   photo: fabien_goguillon.jpg
   bio:
     Adepte du Software Craftsmanship et des méthodes Agiles, je défends depuis plusieurs années le rôle majeur des développeurs dans la chaine de production de valeur et prône la qualité logicielle.
     Manager d’une équipe d’ingénierie de développement chez AXA, je participe pour ma première année à l’organisation de l’Agile Tour de Lille ainsi qu’aux différentes manifestations organisées par Nord Agile.
-- name: Julien Hespel
-  photo: julien_hespel.jpg
-  bio:
-    "Je suis facilitateur chez Operae Partners Lille. Ce qui veut dire ? Que ma mission est de permettre aux coaches de se concentrer sur ce qui a réellement de la valeur : le client ! Je leur facilite le quotidien pour optimiser le temps à passer sur le terrain, au contact de nos clients et de nos partenaires. Si je travaille bien, je suis censé être tout seul au bureau !
-
-    J’ai découvert l’agilité, qui est, je le pense, une excellente approche pour la gestion de projets, mais aussi pour son organisation personnelle. Je m’intéresse depuis plus récemment au Lean Management, à la recherche de l’efficacité par le bon sens. Que de belles choses à découvrir !
-
-    Je crois aux valeurs de bienveillance, respect et bonne intelligence, et suis convaincu que les échanges entre les personnes seraient bien meilleurs si l’on savait s’écouter et se remettre en question !"
 - name: Julien Jakubowski
   photo: julien_jakubowski.jpg
   bio:
@@ -23,6 +10,14 @@
     il aide des équipes à livrer du logiciel de qualité élevée,
     avec efficacité et fun. Julien est un des fondateurs du <a href="http://chtijug.org">Ch'ti JUG</a> à Lille
     et il participe également à l'organisation de l'Agile Tour Lille depuis 2009.
+- name: Thomas KUYPERS
+  photo: thomas-kuypers.jpg
+  bio: |
+    Je suis passionné par le Test et les méthodes Agile, et notamment par la collaboration entre Développeurs, Testeurs et Product Owners.
+
+    Test Lead chez Axa, je souhaite promouvoir l'Agilité avec Nord Agile.
+
+    Je participe pour la première fois à l'organisation de l'Agile Tour Lille.
 - name: Gilles MASY
   photo: gilles-masy.png
   bio:
