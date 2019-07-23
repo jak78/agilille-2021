@@ -12,7 +12,9 @@ permalink: /pre-programme
     <div class="schedule_preview" id="{{ talk.subject }}">
       <h1 class="title">{{ talk.subject }}</h1>
       <div class="details">
-        <h2 class="format">{{ talk.format }}</h2>
+        {% if talk.format %}
+          <h2 class="format">{{ talk.format }}</h2>
+        {% endif %}
         <div class="description">{{ talk.description }}</div>
       </div>
 

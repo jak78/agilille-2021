@@ -1,118 +1,27 @@
 - speaker: Alistair Cockburn
   subject: Keynote d'ouverture
-#  format: Keynote
-- speaker: Isabel et Alexis Monville
-  subject: Cargo cult agile
-  description:
-    Le monde change, de plus en plus vite. Les entreprises sont submergées d'injonctions à se transformer, à disrupter, et elles ne savent pas comment s’y prendre.
-    <br>
-    Leurs produits n’évoluent pas assez vite, leurs clients et utilisateurs les quittent car ils se sont habitués à la simplicité des Über, Spotify, Waze...
-    <br>
-    Elles galèrent pour recruter, et quand par miracle elles y parviennent, elles peinent à garder les collaborateurs motivés, voire à les garder tout court.
-    <br>
-    Il est alors facile pour elles de tomber dans le piège du cargo cult agile. Elles se ruinent avec une armée de consultants qui va déployer sa méthode prête à porter, pour une valeur réelle difficile à identifier.
-    <br>
-    Le cargo cult agile n’est pas une fatalité. Venez découvrir des solutions pour une transformation efficace et durable.
-  format: Keynote
-- speaker: Frédéric Leguédois
-  subject: Cessons les estimations !
-  description: 
-    Alors que les estimations sont à la base des méthodes classiques et que dans le domaine Agile, SCRUM notamment lui accorde une grande importance, nous allons l’espace d’une conférence remettre en cause celles-ci.<br> 
-    Après un bref rappel de différentes méthodes permettant de réaliser des estimations et croyances qui y sont attachées, nous prendrons le temps de réfléchir sur les effets néfastes de ces dernières. Enfin, nous verrons comment dans la réalité des projets, il est possible de s’en extraire.<br>  
-    Conférence iconoclaste, sous la forme d’un one man show, afin de réfléchir (et de rire ?) sur un aspect essentiel de l’agilité.
-  format: Keynote
-- speaker: Bernard Klymowicz, Matthieu Salikhov
-  subject: Karate Dinosaur Carpaccio
-  description:
-    >
-    Inspiré de l'extrême Carpaccio d'Alistair Cockburn, l'atelier propose aux participants de découvrir la difficulté des estimations, l'intérêt des démos aux clients à chaque itération et l'importance des feedbacks réguliers.
-    Articulé autour de la planification et de la construction de legos en équipe, l'exercice permet aux expérimentés comme aux néophytes d'appréhender facilement les avantages et les limites de l'agilité comme elle est pratiquée généralement.
-  format: Atelier Long (105 minutes - 1h45)
-- speaker: Benjamin Cabanne 
-  subject: "Le pas japonais : un escape game collaboratif pour résoudre un problème complexe" 
-  description:
-    >
-      Envie de résoudre un problème complexe en s'auto-organisant? hum, pas si facile, nous verrons si vous êtes capable de répondre au défi!
-  format: Atelier Long (105 minutes - 1h45)
-- speaker: Michel Daviot, Antoine Neveux 
-  subject: Le Pair Programming sous toutes ses formes 
-  description:
-    >
-      Bien que souvent résumée à mettre deux développeur·se·s derrière un même clavier, la pratique du Pair Programming n'est pas triviale, et se retrouve en bien des occasions comme pointée du doigt car peu efficace, ou frustrante pour les participant·e·s.
-      <br>
-      Lors de ce codelab, vous découvrirez que le Pair Programming peut se décliner sous de multiples formes selon vos objectifs: découvrir un nouveau langage, résoudre un problème complexe, faire découvrir une technologie, ou simplement pratiquer des techniques de développement.
-      <br>
-      A la manière de katas d'arts martiaux, et en se basant sur la pratique, nous illustrerons différentes façons d'appréhender l'art du travail en binôme pour écrire du code.
-      <br>
-      Vous découvrirez lors de cet atelier différentes techniques et approches réutilisables vous permettant un travail actif des deux membres du duo ! Tout ceci au travers d'exercices et de défis de programmation amusants, à réaliser dans le langage de votre choix ! Mais bien entendu, toujours en binôme ;)
-      <br>
-      A la suite de cet atelier, vous pourrez réutiliser toutes ces techniques pour animer vos séances de Pair Programming et pour favoriser le travail de groupe dans vos équipes: parfait par exemple pour vous lancer dans l'aventure DevOps !
-  format: Atelier Long (105 minutes - 1h45)
-- speaker: Maxime Bonnet 
-  subject: "Sisyphe, le Père Noël, Harry Potter et le vrai PO : mythes d'hier et d'aujourd'hui."
-  format: Talk (45 minutes)
-  description:
-    "Le vrai PO est un animal rarement observé, certains même disent que c'est un mythe. On raconte qu'un coach agile du 13ème (siècle ou arrondissement, on ne sait pas) en aurait croisé un. 
-    Tel, Sisyphe qui roule sa pierre encore et encore, il doit travailler son besoin sous forme de User Story.
-    Tel le Père Noël il doit faire plaisir à tous ses utilisateurs sans en oublier un seul.
-    Tel Harry Potter, il doit créer de manière magique une osmose avec l'équipe de développement.
-    Cette conférence va passer en revue les mythes liés au travail du PO et comment adapter ses pratiques tout en gardant son agilité."
-- speaker: Sebastian Caceres, Tanguy Patte 
-  subject: "Test-Driven Development sur votre infrastructure avec Ansible !"
-  format: Talk (45 minutes)
-  description:
-    "Vous faites du TDD quand vous développez des logiciels ? Pourquoi ne pas en
-    faire quand vous faites du code d’infrastructure ? Longtemps l’outillage propre
-    à l’Infrastructure as Code a été rare, mais aujourd’hui ce n’est plus le cas !
-    Nous allons vous montrer comment faire cela avec Ansible, Molecule, Testinfra
-    et Docker.
-    
-    Comment intégrer les bonnes pratiques de développement à l’Infrastructure As
-    Code ? Comment faire pour améliorer la qualité de son code ? Comment utiliser les
-    pratiques de Software Craftsmanship dans ce milieu particulier ?
-    
-    Venez découvrir comment monter une infrastructure, pas à pas, lors d’une live
-    démo, dans une démarche de TDD !"
-- speaker: Cyril Lakech
-  subject: La technologie conduite par les communautés à l’échelle
-  format: Talk (45 minutes)
-  description:
-    "L'évolution des technologies dans le monde du développement est elle compatible avec les grandes organisations ?
-    Avec l’exemple de la DSI de 400+ développeurs chez AXA France, prenons le temps de voir comment nous avons fait évoluer notre mode d'organisation pour que les communautés animent les technologies utilisées.
-    Organisation matricielle, rôle des Tech Leaders, Pratiques de Développement, Communautés de pratiques, Radar Techno... La mise en oeuvre de ces différentes approches nous aide à s'y retrouver et à nous adapter aux évolutions futures sereinement.
-    Venez découvrir comment les devs sont devenus autonomes pour gérer la techno avec la responsabilité et la confiance de l'entreprise"
-- speaker: Julien Jakubowski
-  subject: "Sur le chemin de la qualité : en équipe et dès demain !"
-  format: Talk (45 minutes)
-  description: "Ça y est ! C’est décidé ! Vous allez construire des applications de meilleure qualité. Vous êtes convaincu(e) que, pour cela, certaines pratiques de développement sont fondamentales comme par exemple les revues de code ou les tests automatisés.
+- speaker: Isabel Monville, Alexis Monville
+  subject: Les interactions entre les personnes  
+  description: |
+    Nos expériences nous ont amenés à valoriser les individus et leurs interactions plus que les processus et les outils. Si cette phrase vous est familière, c’est peut-être que, comme nous, vous découvrez comment mieux faire par la pratique et en aidant les autres à le faire.
 
-               Mais vos collègues n’en font pas. Parce que  « c’est trop cher on n’a pas le temps », « ça ne marchera pas chez nous »...
+    Cette session est le fruit du travail d’une équipe sur plusieurs mois. Grâce à une machine à remonter le temps provenant d’un laboratoire d’une université prestigieuse de Boston, vous revivrez les interactions qui ont conduit à sa création. Vous découvrirez comment nous avons ajusté nos pratiques, comment nous avons adapté nos comportements afin de créer les meilleurs conditions possibles pour favoriser nos interactions.
 
-               Après cette conférence, quand vous reviendrez sur votre plateau projet, vous aurez des éléments à essayer tout de suite. Et peut-être de quoi élaborer un plan de bataille pour que vous et votre équipe soyez fiers de votre code et ainsi conquérir le monde ! ;-)"
-- speaker: Grégory Vanuynsberghe, Claire Deltrel
-  subject: Agilité en data-science
-  format: Talk (45 minutes)
-  description: "Avec l'engouement grandissant autour de l'Intelligence Artificielle, de plus en plus en plus d'entreprises s'interrogent sur la mise en place d'une organisation efficace autour de ces nouveaux métiers. 
-               Nous vous proposons un retour d'expérience de l'équipe Data-science de Decathlon à travers lequel nous aborderons comment nous nous sommes appropriés les principes Agile depuis début 2017, nos victoires et nos difficultés."
-- speaker: Alexis Dubois, Camille Fareneau
-  subject: "Projet annoncé : périmètre figé, budget serré, date de livraison fixée. Et, s’il vous plait, avec de l’Agilité !"
-  format: Talk (45 minutes)
-  description: "« Bonjour, pourriez-vous développer ces fonctionnalités pour dans 9 mois exactement ? La date est TRES importante. Retirer une fonctionnalité ? Impossible ! ». 
-               On y a tous fait face un jour ! Nous y compris, au moment où l’on a dû développer la nouvelle application mobile AXA Banque. Un contexte pas toujours facile et souvent source de conflits entre métier et DSI. Comment être Agile dans ces conditions nous direz-vous ? 
-               Au travers d’un retour d’expérience, nous vous montrerons de quelle manière nous avons pu délivrer en temps et en heure la refonte complète d’une application bancaire Android et iOS et ce sans lésiner sur la qualité (et sans devoir travailler dans nos caves le week-end !)."
-- speaker: Samuel Retiere
-  subject: Découplez votre organisation
-  format: Talk (45 minutes)
-  description: 
-    >
-      N'avez vous jamais rêvé d'une organisation humaine qui ne soit plus un frein au changement ? 
-      Ou dit positivement : qu'elle s'adapte au même rythme que les autres composantes de l'organisation. 
-      En même temps, Conway nous dit que le design des organisations humaine et technique sont liés. 
-      D'où l'idée d'utiliser des principes de limitation des dépendances aux deux. 
-      Pour les concepts qui seront évoqués, il s'agit de DDD stratégique avec de la pensée systèmes (humains). 
-      Et normalement, vous repartirez avec des exemples de ce qu'il faut éviter et des idées de ce que vous pourriez faire pour rendre votre organisation plus fluide.
-- speaker: Jonathan Duberville
-  subject: C'est l'histoire d'un BUG!
-  format: Talk (45 minutes)
-  description: "Vous créez du logiciel? Vous avez une culture agile? Vous faites du SCRUM? Avec mon équipe on fait tout ça et j'aimerais vous raconter une histoire! L'histoire d'un BUG...
-               Dans ce talk, je vous raconte avec quelques légèretés la vie d'un BUG de sa fabrication à la naissance d'une pratique d'équipe pour nous en prémunir."
+    De ces interactions sont nés cette session, originale dans sa forme, elle combine le spectacle et l’humour avec le sérieux des sujets de l’entreprise. Au file de la session, les deux acteurs principaux en invitent d’autres à se joindre à la découverte. Préparez-vous à être surpris !
+
+    Pour résumer cette session en une phrase, vous découvrirez avec nous comment continuellement améliorer vos interactions.
+- speaker: Arnaud Lemaire
+  subject: Et si on redémarrait l'agile ?  
+- speaker: Jean-Pierre Lambert
+  subject: Une semaine dans ma peau de testeur agile  
+  description: |
+    Le testeur, ou le QA, on voit très bien ce qu'il fait avant le passage à l'agilité : il teste... Plus précisément, il valide les changements, il vérifie la non-régression, et puis il fait aussi d'autres trucs à côté.
+
+    Par contre que fait-il maintenant qu'on travaille en agile ? Ce n'est évident pour personne, d'autant plus qu'on l'a intégré dans l'équipe agile. Comment peut-il bien faire tout ce qu'il faisait avant mais désormais en juste une itération ? Et puis on n'arrête pas de parler d'automatisation des tests, a-t-on vraiment encore besoin de testeur ?
+
+    Pourquoi ne pas répondre à ces questions en suivant un testeur agile pendant une semaine ? Pendant une semaine, vous allez voir à quoi ressemble le quotidien d'un testeur agile, voir ce qu'il fait de ses journées, voir toute la valeur qu'il ajoute à l'équipe sans se positionner pour autant en garant de la prod.
+
+    Je suis un agiliste auto-didacte et j'ai d'ailleurs un avis très mitigé sur les certifications. Loin de tout dogmatisme, attendez-vous à voir avant tout du retour d'expérience, du vécu. Le tout sur le ton de l'humour et du troll !
+
+    Vous verrez que le rôle de testeur agile est plein de subtilités. Contrairement à ce qu'on pourrait imaginer il a énormément de travail et la plupart des équipes gagneraient à un avoir un !
+    
