@@ -1,7 +1,5 @@
 # agile-tour-lille
 
-Le site est actuellement configuré pour être sur `/agile-tour-lille`.
-
 ## Pour tester ses modifs en local
 
 ### Installation de Jekyll en local
