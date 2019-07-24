@@ -16,11 +16,10 @@
     Manager d’une équipe d’ingénierie de développement chez AXA, je participe à l’organisation de l’Agile Tour de Lille ainsi qu’aux différentes manifestations organisées par Nord Agile.
 - name: Julien Jakubowski
   photo: julien_jakubowski.jpg
-  bio:
-    Julien est consultant codeur et co-fondateur du <a href="https://twitter.com/OctoChti" target="_blank">bureau Nord d'OCTO Technology</a>. Depuis une dizaine d'années,
-    il aide des équipes à livrer du logiciel de qualité élevée,
-    avec efficacité et fun. Julien est un des fondateurs du <a href="http://chtijug.org">Ch'ti JUG</a> à Lille
-    et il participe également à l'organisation de l'Agile Tour Lille depuis 2009.
+  bio: |
+    Je suis développeur, consultant et manager au <a href="https://chti.octo.com">bureau lillois d’OCTO Technology</a>. Mon kiff : aider des entreprises à livrer du logiciel dont elles sont fières. 
+    Je suis co-auteur du livre <a href="http://www.octo.com/fr/publications/20-culture-code">Culture Code</a> sur la qualité logicielle. 
+    Speaker à différentes conférences techniques et agiles, je suis également l’un des fondateurs et leaders du Ch’ti JUG, du meetup Software Craft Lille, et j’organise l’Agile Tour Lille depuis 2009.
 - name: Thomas KUYPERS
   photo: thomas-kuypers.jpg
   bio: |
