@@ -1,55 +1,63 @@
 gold:
-  - name: OCTO Technology
-    url: http://www.octo.com
-    logo: logo_octo.jpg
-    imgclass: wide
-  - name: Operae Partners
-    url: http://www.operaepartners.fr/
-    logo: logo_operae_partners_2.png
-    imgclass: wide
-  - name: Nextoo
-    url: http://www.nextoo.fr/
-    logo: logo_nextoo.png
-    imgclass: wide
-  - name: Groupe CREATIVE
-    url: http://www.groupe-creative.fr/
-    logo: logo_creative.png
-    imgclass: wide
   - name: AXA
-    url: http://www.axa.fr/
-    logo: logo_axa.png
+    url: http://www.axa.fr
+    logo: AXA_Blue.png
+    imgclass: standard
+  - name: Extia
+    url: http://www.extia.fr/
+    logo: Extia.png
+    imgclass: standard
+  - name: Hubvisory
+    url: https://www.hubvisory.com
+    logo: Hubvisory.png
+    imgclass: standard
+  - name: Nextoo
+    url: https://www.nextoo.com
+    logo: NEXTOO.png
     imgclass: wide
-  - name: Nordnet
-    url: http://www.nordnet.fr/
-    logo: logo_nordnet.png
+  - name: OCTO Technology
+    url: https://www.octo.com
+    logo: OCTO.png
+    imgclass: standard
+silver:
+  - name: ADEO
+    url: http://www.adeo.com
+    logo: ADEO.png
+    imgclass: standard
+  - name: Auchan
+    url: https://www.auchan-retail.com/fr/
+    logo: Auchan.png
     imgclass: wide
-  - name: Open
-    url: https://www.open.global/
-    logo: logo_open.png
+  - name: CGI
+    url: https://www.cgi.fr/
+    logo: CGI_Logo_color.jpg
+    imgclass: standard
+  - name: Davidson
+    url: https://www.davidson.fr
+    logo: Davidson.png
+    imgclass: standard
+  - name: Decathlon
+    url: https://www.decathlon.com
+    logo: Decathlon.png
     imgclass: wide
-  - name: Sopra
-    url: https://www.soprasteria.com/fr
-    logo: logo_sopra.jpg
+  - name: Delssi services
+    url: http://www.delssi.fr/
+    logo: Delssi.png
+    imgclass: standard
+  - name: Operae Partners
+    url: http://www.operaepartners.com/
+    logo: OperaePartners.png
     imgclass: wide
-media:
-- name: CGI
-  url: https://www.cgi.fr/
-  logo: logo_cgi.png
-  imgclass: standard
-- name: SII
-  url: http://www.groupe-sii.com/fr
-  logo: logo_sii.png
-  imgclass: standard
-- name: Auchan
-  url: http://www.auchan.fr
-  logo: logo_auchan.png
-  imgclass: wide
-- name: Sogeti
-  url: http://www.sogeti.fr
-  logo: logo_sogeti.jpg
-  imgclass: wide
-- name: Pictime Groupe
-  url: https://www.pictime.com/
-  logo: logo_pictime_groupe_wide.png
-  imgclass: ultra-wide
+  - name: SII
+    url: http://www.groupe-sii.fr/
+    logo: SII.png
+    imgclass: standard
+  - name: Sopra Steria
+    url: http://www.sopra.fr/
+    logo: SopraSteria.png
+    imgclass: wide
+  - name: Zenika
+    url: http://www.zenika.com/
+    logo: Zenika.png
+    imgclass: standard
   
