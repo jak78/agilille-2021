@@ -40,9 +40,9 @@ silver:
     url: https://www.decathlon.com
     logo: Decathlon.png
     imgclass: wide
-  - name: Delssi services
-    url: http://www.delssi.fr/
-    logo: Delssi.png
+  - name: Sumit
+    url: http://www.delssi.com/
+    logo: Sumit.png
     imgclass: standard
   - name: Operae Partners
     url: http://www.operaepartners.com/
