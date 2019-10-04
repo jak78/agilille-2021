@@ -41,7 +41,7 @@ silver:
     logo: Decathlon.png
     imgclass: wide
   - name: Sumit
-    url: http://www.delssi.com/
+    url: https://www.sumit.fr/
     logo: Sumit.png
     imgclass: standard
   - name: Operae Partners
