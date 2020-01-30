@@ -1,8 +1,8 @@
 # Site settings
-title: Agile Tour Lille 2019
-email: agiletour@nord-agile.org
+title: Agi'Lille 2019
+email: info@nord-agile.org
 description: > # this means to ignore newlines until "baseurl:"
-  L'édition de l'Agile Tour 2019 à Lille réunit des conférences de qualité dans un cadre unique.
+  L'édition de AgiLille à Lille réunira des conférences de qualité dans un cadre unique.
 gems:
   - jekyll-sitemap
 
