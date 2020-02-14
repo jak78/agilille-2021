@@ -7,8 +7,8 @@
   target: _blank
   visible: 0
 - title: Devenir sponsor
-  url: /devenir-sponsor
-  visible: 0
+  url: https://docs.google.com/document/d/e/2PACX-1vSYgJ4NQ8eOqajSSL3hgjpsyvlCK0PvNSPScAIYORADFQ7ZO67ApH0wEH2mRaTlayJimImpSjGpPdh4/pub
+  visible: 1
 - title: Soumettre un sujet
   url: https://sessionize.com/agile-tour-lille-2019
   target: _blank
