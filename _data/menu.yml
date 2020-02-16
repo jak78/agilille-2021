@@ -5,7 +5,7 @@
 - title: S'inscrire
   url: https://www.billetweb.fr/agile-tour-lille-2019
   target: _blank
-  visible: 0
+  visible: 1
 - title: Devenir sponsor
   url: https://docs.google.com/document/d/e/2PACX-1vSYgJ4NQ8eOqajSSL3hgjpsyvlCK0PvNSPScAIYORADFQ7ZO67ApH0wEH2mRaTlayJimImpSjGpPdh4/pub
   visible: 0
