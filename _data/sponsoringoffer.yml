@@ -2,7 +2,7 @@ media:
   price: 750 €
   available: 5 dispos
 gold:
-  price: 2500 €
+  price: 3000 €
   available: plus que 1 dispo
 details:
   - description: Présence sur le site web
