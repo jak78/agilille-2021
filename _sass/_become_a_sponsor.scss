@@ -1,7 +1,11 @@
 .container-inline-block {
-  width: 380px;
-    display: inline-block;
-    text-align: justify;
-    vertical-align: middle;
-    margin-right: 20px;
+  width: 50%;
+  display: inline-block; 
+  text-align: justify;
+  vertical-align: middle;
+  margin-right: 20px;
+}
+.responsive {
+  width: 100%;
+  height: auto;
 }
