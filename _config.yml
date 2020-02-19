@@ -1,13 +1,13 @@
 # Site settings
-title: Agi'Lille 2020
+title: Agi'Lille 2020 - ex Agile Tour Lille
 email: info@nord-agile.org
 description: > # this means to ignore newlines until "baseurl:"
-  L'édition de AgiLille à Lille réunira des conférences de qualité dans un cadre unique.
+  L'édition de Agi'Lille (ex Agile Tour Lille) réunira des conférences de qualité dans un cadre unique.
 gems:
   - jekyll-sitemap
 
 baseurl: '' # the subpath of your site, e.g. /blog/
-url: 'http://2019.agiletour-lille.org'
+url: 'http://agilille.fr'
 twitter_username: NordAgile
 github_username:  jak78
 
