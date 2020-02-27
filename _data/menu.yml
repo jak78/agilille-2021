@@ -16,7 +16,7 @@
 - title: S'inscrire
   url: https://www.billetweb.fr/agilille-2020
   target: _blank
-  visible: 1
+  visible: 0
 - title: Programme
   url: /programme
   visible: 0
