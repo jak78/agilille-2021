@@ -70,3 +70,66 @@ $on-laptop:        800px;
 .nav.navbar-nav {
   font-size: 13px;
 }
+
+
+// CSS update HP 25.03.2021
+
+body {
+    background: linear-gradient(333deg, rgba(253,203,113,1) 35%, rgba(255,251,242,1) 100%);
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #383A56 !important;
+}
+
+.about {
+    color: #383A56 !important;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.about:hover {
+    text-decoration: none;
+}
+
+.agi-lille-title {
+    font-size: 6rem !important;
+    color: #383A56 !important;
+    font-weight: bold;
+}
+
+.custom-button {
+    border-radius: 30px;
+    background-color: #383A56;
+    padding: 15px;
+    color: white;
+    transition: all .2s ease-in-out;
+}
+
+.custom-button:hover {
+    text-decoration: none;
+    color: #383A56;
+    background: transparent;
+    border: 1px solid #383A56;
+}
+
+.emoji-date {
+    color: #383A56;
+    font-size: 2rem !important;
+}
+
+.lille-illustration {
+    position: absolute;
+    bottom:0;
+    right:0;
+}
+
+@media (max-width: 900px) {
+    .lille-illustration {
+      display: none;
+    }
+
+    .custom-container {
+        text-align: center;
+    }
+  }
