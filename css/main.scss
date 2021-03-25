@@ -75,6 +75,7 @@ $on-laptop:        800px;
 // CSS update HP 25.03.2021
 
 body {
+    padding-top: 0 !important;
     background: linear-gradient(333deg, rgba(253,203,113,1) 35%, rgba(255,251,242,1) 100%);
     background-repeat: no-repeat;
     height: 100vh;
