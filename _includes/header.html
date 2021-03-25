@@ -25,7 +25,7 @@
             <div>
                 {% for item in site.data.menu %}
                 {% if 0 != item.visible %}
-                <a class="about" href="{{ item.url | prepend: site.baseurl }}" target="{{ item.target }}">{{ item.title }}</a>
+                <a class="about custom-button" href="{{ item.url | prepend: site.baseurl }}" target="{{ item.target }}">{{ item.title }}</a>
                 {% endif %}
                 {% endfor %}
             </div>
