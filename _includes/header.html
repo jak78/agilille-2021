@@ -1,7 +1,7 @@
 <!-- <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="container"> -->
 <nav class="navbar" role="navigation">
-    <div class="container">
+    <!-- <div class="container"> -->
         <!-- Brand and toggle get grouped for better mobile display -->
         <!-- <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -18,14 +18,14 @@
                 <span class="visible-xs-inline visible-sm-inline small-brand">Agi'Lille</span>
             </a>
         </div> -->
-        <div class="d-flex flex-row p-4 justify-content-between align-items-center">
+        <div class="d-flex flex-row p-4 justify-content-between align-items-center w-100">
             <div>
                 <a class="navbar-brand" href="{{ site.baseurl }}/"><img src="./img/logo.png" alt="logo agilille"></a>
             </div>
             <div>
                 {% for item in site.data.menu %}
                 {% if 0 != item.visible %}
-                <li><a class="page-link about" href="{{ item.url | prepend: site.baseurl }}" target="{{ item.target }}">{{ item.title }}</a></li>
+                <a class="about" href="{{ item.url | prepend: site.baseurl }}" target="{{ item.target }}">{{ item.title }}</a>
                 {% endif %}
                 {% endfor %}
             </div>
@@ -40,5 +40,5 @@
                 {% endfor %}
             </ul>
         </div> --><!-- /.navbar-collapse -->
-</div><!-- /.container-fluid -->
+<!-- </div>/.container-fluid -->
 </nav>
