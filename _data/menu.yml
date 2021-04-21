@@ -6,9 +6,9 @@
   url: /devenir-sponsor
   visible: 1
 - title: Soumettre un sujet
-  url: https://sessionize.com/agilille-2020
+  url: https://sessionize.com/agilille-2021
   target: _blank
-  visible: 0
+  visible: 1
 - title: Accès
   url: /acces
   visible: 0
