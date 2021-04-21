@@ -4,7 +4,7 @@
   visible: 1
 - title: Devenir sponsor
   url: /devenir-sponsor
-  visible: 0
+  visible: 1
 - title: Soumettre un sujet
   url: https://sessionize.com/agilille-2020
   target: _blank
