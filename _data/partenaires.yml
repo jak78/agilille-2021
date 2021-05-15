@@ -5,7 +5,7 @@ entreprises:
     imgclass: standard
   - name: WeLoveDev
     url: https://welovedevs.com/fr/
-    logo: welovedev.jpeg
+    logo: welovedev.png
     imgclass: standart
 associations:
   - name: Magdala
