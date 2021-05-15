@@ -1,10 +1,10 @@
-partenaire {
+.partenaire {
   h2 {
     text-align: left;
   }
 
   text-align: center;
-  height: 170px !important;
+  height: 170px;
   .valign-helper {
     display: inline-block;
     height: 100%;
@@ -13,14 +13,14 @@ partenaire {
   img {
     vertical-align: middle;
     &.standard {
-      max-width: 150px !important;
-      max-height: 150px !important;
+      max-width: 150px;
+      max-height: 150px;
     }
     &.wide {
-      width: 250px !important;
+      width: 250px;
     }
     &.ultra-wide {
-      width: 400px !important;
+      width: 400px;
     }
   }
   .name {
