@@ -4,7 +4,7 @@
  <div class="partenaire">
    <span class="valign-helper"></span>
    <a href="{{ partenaire.url }}" target="_blank">
-     <img src="{{ partenaire.logo | prepend: '/img/' | prepend: site.baseurl }}" alt="{{partenaire.name}}" class="{{partenaire.imgclass}}"/>
+     <img src="{{ partenaire.logo | prepend: '/img/partenaires/' | prepend: site.baseurl }}" alt="{{partenaire.name}}" class="{{partenaire.imgclass}}"/>
    </a>
  </div>
  {% assign cut = forloop.length | divided_by:2 %}
