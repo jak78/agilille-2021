@@ -12,11 +12,12 @@ associations:
     url: https://www.footencoeur.fr/
     logo: footencoeur.png
     imgclass: standard
-  - name: Magdala
-    url: https://magdala.asso.fr/
-    logo: magdala.jpeg
-    imgclass: standard
   - name: Lîle de la Solidarité
     url: https://www.liledesolidarite.fr/
     logo: liledelasolidarite.jpeg
     imgclass: standard
+  - name: Magdala
+    url: https://magdala.asso.fr/
+    logo: magdala.jpeg
+    imgclass: standard
+
