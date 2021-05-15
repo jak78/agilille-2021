@@ -1,0 +1,16 @@
+<div class="row">
+  <div class="col-md-6">
+{% for partenaire in include.partenaires %}
+ <div class="sponsor">
+   <span class="valign-helper"></span>
+   <a href="{{ partenaire.url }}" target="_blank">
+     <img src="{{ partenaire.logo | prepend: '/img/partenaires/' | prepend: site.baseurl }}" alt="{{partenaire.name}}" class="{{partenaire.imgclass}}"/>
+   </a>
+ </div>
+ {% assign cut = forloop.length | divided_by:2 %}
+ {% if forloop.index == cut %}
+</div><div class="col-md-6">
+ {% endif %} 
+{% endfor %}
+</div>
+</div>
