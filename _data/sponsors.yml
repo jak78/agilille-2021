@@ -5,7 +5,7 @@ gold:
     imgclass: standard
   - name: Devoteam
     url: https://france.devoteam.com/
-    logo: Devoteam.jpeg
+    logo: Devoteam.png
     imgclass: standard
 silver:
   - name: ADEO
