@@ -1,63 +1,27 @@
 gold:
-  - name: AXA
-    url: http://www.axa.fr
-    logo: AXA_Blue.png
+  - name: SII
+    url: http://www.groupe-sii.fr/
+    logo: SII.png
     imgclass: standard
-  - name: Extia
-    url: http://www.extia.fr/
-    logo: Extia.png
-    imgclass: standard
-  - name: Hubvisory
-    url: https://www.hubvisory.com
-    logo: Hubvisory.png
-    imgclass: standard
-  - name: Nextoo
-    url: https://www.nextoo.fr
-    logo: NEXTOO.png
-    imgclass: wide
-  - name: OCTO Technology
-    url: https://www.octo.com
-    logo: OCTO.png
+  - name: Devoteam
+    url: https://france.devoteam.com/
+    logo: Devoteam.jpeg
     imgclass: standard
 silver:
   - name: ADEO
     url: http://www.adeo.com
     logo: ADEO.png
     imgclass: standard
-  - name: Auchan
-    url: https://www.auchan-retail.com/fr/
-    logo: Auchan.png
-    imgclass: wide
-  - name: CGI
-    url: https://www.cgi.fr/
-    logo: CGI_Logo_color.jpg
-    imgclass: standard
-  - name: Davidson
-    url: https://www.davidson.fr
-    logo: Davidson_new.png
-    imgclass: standard
-  - name: Decathlon
-    url: https://www.decathlon.com
-    logo: Decathlon.png
-    imgclass: wide
-  - name: Operae Partners
-    url: http://www.operaepartners.com/
-    logo: OperaePartners.png
-    imgclass: wide
-  - name: SII
-    url: http://www.groupe-sii.fr/
-    logo: SII.png
-    imgclass: standard
-  - name: Sopra Steria
-    url: http://www.sopra.fr/
-    logo: SopraSteria.png
-    imgclass: wide
-  - name: Sumit
+  - name: sumit
     url: https://www.sumit.fr/
     logo: Sumit.png
     imgclass: standard
-  - name: Zenika
-    url: http://www.zenika.com/
-    logo: Zenika.png
+  - name: Kiabi
+    url: https://www.kiabi.com/
+    logo: kiabi.png
+    imgclass: wide
+  - name: OCTO
+    url: https://www.octo.com/
+    logo: octo.png
     imgclass: standard
   
