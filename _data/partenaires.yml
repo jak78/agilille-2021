@@ -1,0 +1,8 @@
+ - name: Roti.express
+    url: https://roti.express/
+    logo: roti-express.png
+    imgclass: standard
+  - name: WeLoveDev
+    url: https://welovedevs.com/fr/
+    logo: welovedev.jpeg
+    imgclass: standart
