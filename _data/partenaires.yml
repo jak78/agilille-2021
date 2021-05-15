@@ -1,4 +1,5 @@
- - name: Roti.express
+entreprise:
+  - name: Roti.express
     url: https://roti.express/
     logo: roti-express.png
     imgclass: standard
@@ -6,3 +7,16 @@
     url: https://welovedevs.com/fr/
     logo: welovedev.jpeg
     imgclass: standart
+associations:
+  - name: Magdala
+    url: https://magdala.asso.fr/
+    logo: magdala.jpeg
+    imgclass: standard
+  - name: FootEnCoeur
+    url: https://www.footencoeur.fr/
+    logo: footencoeur.png
+    imgclass: standard
+  - name: Lîle de la Solidarité
+    url: https://www.liledesolidarite.fr/
+    logo: lilledelasolidarité.png
+    imgclass: standard
