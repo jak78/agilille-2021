@@ -1,0 +1,11 @@
+---
+layout: default
+title: Partenaires {{ site.data.event.date.year }}
+permalink: /partenaires/
+---
+<div class="container">
+  <div class="row">
+    <h1>Partenaires de l'événement</h1>
+  </div>
+  {% include partenaires.html partenaires=site.data.partenaires %}
+</div>
