@@ -1,0 +1,38 @@
+partenaire {
+  h2 {
+    text-align: left;
+  }
+
+  text-align: center;
+  height: 170px;
+  .valign-helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+  }
+  img {
+    vertical-align: middle;
+    &.standard {
+      max-width: 150px;
+      max-height: 150px;
+    }
+    &.wide {
+      width: 250px;
+    }
+    &.ultra-wide {
+      width: 400px;
+    }
+  }
+  .name {
+    display:block;
+  }
+  a.placeholder {
+    display: block;
+    border: 1px solid grey;
+    width: 220px;
+    height: 70px;
+    padding-top: 20px;
+    font-size: 20px;
+    font-style: italic;
+  }
+}
