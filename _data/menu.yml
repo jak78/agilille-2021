@@ -32,6 +32,9 @@
 - title: Sponsors
   url: /sponsors
   visible: 1
+  - title: Partenaires
+  url: /partenaires
+  visible: 1
 - title: Orga
   url: /organisateurs
   visible: 0
