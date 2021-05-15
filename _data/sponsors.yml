@@ -6,7 +6,7 @@ gold:
   - name: Devoteam
     url: https://france.devoteam.com/
     logo: Devoteam.png
-    imgclass: standard
+    imgclass: wide
 silver:
   - name: ADEO
     url: http://www.adeo.com
@@ -19,7 +19,7 @@ silver:
   - name: Kiabi
     url: https://www.kiabi.com/
     logo: kiabi.png
-    imgclass: wide
+    imgclass: standard
   - name: OCTO
     url: https://www.octo.com/
     logo: octo.png
