@@ -5,7 +5,11 @@ permalink: /partenaires/
 ---
 <div class="container">
   <div class="row">
-    <h1>Partenaires de l'événement</h1>
+    <h1>Les partenaires de l'événement</h1>
   </div>
-  {% include partenaires.html partenaires=site.data.partenaires %}
+  {% include partenaire.html partenaires=site.data.partenaires.entreprise %}
+  <div class="row">
+    <h1>Les associations que nous soutenons</h1>
+  </div>
+  {% include partenaire.html partenaires=site.data.partenaires.associations %}
 </div>
