@@ -42,8 +42,8 @@ $on-laptop:        800px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
-        "sponsors",
         "partenaires",
+        "sponsors",
         "speakers",
         "schedule_preview",
         "home",
@@ -79,7 +79,7 @@ body {
     padding-top: 0 !important;
     background: linear-gradient(333deg, rgba(253,203,113,1) 35%, rgba(255,251,242,1) 100%);
     background-repeat: no-repeat;
-    height: 100vh;
+    height: 100%; //100vh
     font-family: 'Josefin Sans', sans-serif;
     color: #383A56 !important;
 }
