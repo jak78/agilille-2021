@@ -6,7 +6,7 @@ entreprises:
   - name: WeLoveDev
     url: https://welovedevs.com/fr/
     logo: welovedev.png
-    imgclass: standart
+    imgclass: standard
 associations:
   - name: Magdala
     url: https://magdala.asso.fr/
