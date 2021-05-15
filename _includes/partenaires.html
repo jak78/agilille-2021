@@ -1,7 +1,7 @@
 <div class="row">
   <div class="col-md-6">
 {% for partenaire in include.partenaires %}
- <div class="sponsor">
+ <div class="partenaire">
    <span class="valign-helper"></span>
    <a href="{{ partenaire.url }}" target="_blank">
      <img src="{{ partenaire.logo | prepend: '/img/' | prepend: site.baseurl }}" alt="{{partenaire.name}}" class="{{partenaire.imgclass}}"/>
