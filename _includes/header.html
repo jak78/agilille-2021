@@ -9,17 +9,14 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
-            </button>
- <div>
-                <a class="navbar-brand" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/logo.png" alt="logo agilille"></a>
-            </div>
-            <a class="navbar-brand" href="{{ site.baseurl }}/">
+    </button>
+           <!-- <a class="navbar-brand" href="{{ site.baseurl }}/">
                 <span class="hidden-xs hidden-sm">Agi'Lille {{ site.data.event.date.long }}</span>
                 <span class="hidden-xs hidden-sm">Agi'Lille</span>
 
                 <span class="visible-xs-inline visible-sm-inline small-brand">Agi'Lille {{ site.data.event.date.short }}</span>
                 <span class="visible-xs-inline visible-sm-inline small-brand">Agi'Lille</span>
-            </a>
+            </a>-->
         </div>
         <!--<div class="d-flex flex-row p-4 justify-content-between align-items-center w-100">
             <div>
@@ -42,6 +39,9 @@
                 {% endif %}
                 {% endfor %}
             </ul>-->
+             <div>
+                <a class="navbar-brand" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/logo.png" alt="logo agilille"></a>
+            </div>
              <div>
                 {% for item in site.data.menu %}
                 {% if 0 != item.visible %}
