@@ -4,12 +4,15 @@
     <!-- <div class="container"> -->
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header"
+              <div>
+                <a class="navbar-brand" style="position:center;" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/logo.png" alt="logo agilille"></a>
+            </div>
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                 <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-    </button>
+                <span class="icon-bar">TEST 1</span>
+                <span class="icon-bar">TEST 2</span>
+                <span class="icon-bar">TEST 3</span>
+        </button>
            <!-- <a class="navbar-brand" href="{{ site.baseurl }}/">
                 <span class="hidden-xs hidden-sm">Agi'Lille {{ site.data.event.date.long }}</span>
                 <span class="hidden-xs hidden-sm">Agi'Lille</span>
@@ -18,18 +21,6 @@
                 <span class="visible-xs-inline visible-sm-inline small-brand">Agi'Lille</span>
             </a>-->
         </div>
-        <!--<div class="d-flex flex-row p-4 justify-content-between align-items-center w-100">
-            <div>
-                <a class="navbar-brand" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/logo.png" alt="logo agilille"></a>
-            </div>
-            <div>
-                {% for item in site.data.menu %}
-                {% if 0 != item.visible %}
-                <a class="about custom-button" href="{{ item.url | prepend: site.baseurl }}" target="{{ item.target }}">{{ item.title }}</a>
-                {% endif %}
-                {% endfor %}
-            </div>
-        </div>-->
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
            <!-- <ul class="nav navbar-nav navbar-right">
