@@ -4,17 +4,17 @@
     <!-- <div class="container"> -->
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">     
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-2">
-                <span class="sr-only">Toggle navigation</span>
+            <!--<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-2">
+                <span class="sr-only">Toggle navigation</span>-->
                
-              <div class="d-flex flex-row p-4 justify-content-between align-items-center w-100">
-                 <a class="navbar-brand" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/logo.png" alt="logo agilille" style=" display: block; margin-left: auto; margin-right: auto;"></a>
-             </div>
-                 <div class="d-flex flex-row p-4 justify-content-between align-items-center w-100">
-                <ul class="nav navbar-nav navbar-right">
+            <div class="d-flex flex-row p-4 justify-content-between align-items-center w-100">
+                 <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/logo.png" alt="logo agilille" style=" display: block; margin-left: auto; margin-right: auto;"></a>
+            </div>
+            <div class="d-flex flex-row p-4 justify-content-between align-items-center w-100">
+                <ul class="nav navbar-nav navbar-center">
                     {% for item in site.data.menu %}
                     {% if 0 != item.visible %}
-                    <li><a class="about custom-button" style="padding-top:2px;padding-bottom:2px;" href="{{ item.url | prepend: site.baseurl }}" target="{{ item.target }}">{{ item.title }}</a></li>
+                    <li><a class="about custom-button" style="margin: 0 0 3px 0;" href="{{ item.url | prepend: site.baseurl }}" target="{{ item.target }}">{{ item.title }}</a></li>
                     {% endif %}
                     {% endfor %}
                 </ul>
