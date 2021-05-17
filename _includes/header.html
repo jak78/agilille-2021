@@ -3,13 +3,8 @@
 <nav class="navbar" role="navigation">
     <!-- <div class="container"> -->
         <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header"
-           
-                <a class="navbar-brand" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/logo.png" alt="logo agilille" style=" display: block;
-  margin-left: auto;
-  margin-right: auto;"></a>
-      
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <div class="navbar-header">     
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-2">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar d-flex flex-row p-4 justify-content-between align-items-center w-100">MENUUUUUUUUUUUU</span>
         </button>
@@ -30,7 +25,7 @@
                 {% endif %}
                 {% endfor %}
             </ul>-->
-            <div class="d-flex flex-row p-4 justify-content-between align-items-center w-100">
+         <div class="d-flex flex-row p-4 justify-content-between align-items-center w-100">
             <div>
                 <a class="navbar-brand" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/logo.png" alt="logo agilille"></a>
             </div>
@@ -42,6 +37,27 @@
                 {% endfor %}
             </div>
         </div>
-        </div> <!-- /.navbar-collapse -->
+        </div>
+     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">
+           <!-- <ul class="nav navbar-nav navbar-right">
+                {% for item in site.data.menu %}
+                {% if 0 != item.visible %}
+                <li><a class="page-link" href="{{ item.url | prepend: site.baseurl }}" target="{{ item.target }}">{{ item.title }}</a></li>
+                {% endif %}
+                {% endfor %}
+            </ul>-->
+            <div class="d-flex flex-row p-4 justify-content-between align-items-center w-100">
+            <div>
+                <a class="navbar-brand" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/logo.png" alt="logo agilille" style=" display: block; margin-left: auto; margin-right: auto;"></a>
+            </div>
+            <ul class="nav navbar-nav navbar-right">
+                {% for item in site.data.menu %}
+                {% if 0 != item.visible %}
+                <li><a class="page-link" href="{{ item.url | prepend: site.baseurl }}" target="{{ item.target }}">{{ item.title }}</a></li>
+                {% endif %}
+                {% endfor %}
+            </ul>-->
+        </div>
+    <!-- /.navbar-collapse -->
 <!-- </div>/.container-fluid -->
 </nav>
