@@ -39,16 +39,18 @@
                 {% endif %}
                 {% endfor %}
             </ul>-->
-             <div>
+            <div class="d-flex flex-row p-4 justify-content-between align-items-center w-100">
+            <div>
                 <a class="navbar-brand" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/logo.png" alt="logo agilille"></a>
             </div>
-             <div>
+            <div>
                 {% for item in site.data.menu %}
                 {% if 0 != item.visible %}
                 <a class="about custom-button" href="{{ item.url | prepend: site.baseurl }}" target="{{ item.target }}">{{ item.title }}</a>
                 {% endif %}
                 {% endfor %}
             </div>
+        </div>
         </div> <!-- /.navbar-collapse -->
 <!-- </div>/.container-fluid -->
 </nav>
