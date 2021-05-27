@@ -5,40 +5,15 @@
     petit à petit c'est devenu une véritable religion. Ayant pu travailler dans plusieurs organisations en tant que 
     développeur, il en ressort, me concernant, que l'agilité et ses idéologies permettent d'apporter une véritable 
     notion d'équipe ainsi qu'une réel visibilité sur la valeur produite pour notre client, de plus celle ci favorise 
-    la prise de conscience et permet l'amélioration continue. C'est pourquoi, récemment, je me suis très naturellement 
-    tourné vers un poste de Scrum Master dans le but de renforcer cette vision au sein d'une équipe. Je suis convaincu 
+    la prise de conscience et permet l'amélioration continue. Je suis convaincu 
     que l'agilité n'est pas un MUST ou un SHALL mais bien un NEED qui demande une adaptation de l'organisation et 
-    non de la philosophie.
-- name: Nicolas Dujardin
-  photo: nicolas_dujardin.jpg
-  bio: |
-    Depuis 20 ans dans l'IT, chef de projets, responsable méthodes, ou PO chez Auchan.
-    Je suis passionné par l'agilité, car au-delà des nombreux frameworks, pratiques etc... je suis d'abord convaincu que les quelques valeurs du manifeste permettent d'appréhender au mieux la complexité du monde actuel.
-    Après avoir organisé des Hackathons, un cursus de formation à l'agilité, suivi de nombreuses conférences, je souhaite m'impliquer  plus activement dans la diffusion de ce mindset en participant à l'organisation de l'Agile Tour.
-- name: Mamoun ElAlaoui
-  photo: mamoun_elalaoui.jpg
-  bio: |
-    Convaincu par l'agilité, je suis persuadé de l'utilité de placer l'humain au cœur du système. Actuellement Scrum Master, j'ai pour objectif de toujours mettre les utilisateurs au centre des sujets du développement.
-    Animateur des soirées serious games depuis 2017, j'aime partager mon expérience et mes idées au plus grand nombre. En 2019, j'ai décidé de prendre part à l'agile tour pour continuer à partager.
-- name: Fabien Goguillon
-  photo: fabien_goguillon.jpg
-  bio:
-    Adepte du Software Craftsmanship et des méthodes Agiles, je défends depuis plusieurs années le rôle majeur des développeurs dans la chaine de production de valeur et prône la qualité logicielle.
-    Manager d’une équipe d’ingénierie de développement chez AXA, je participe à l’organisation de l’Agile Tour de Lille ainsi qu’aux différentes manifestations organisées par Nord Agile.
+    non de la philosophie. @ScrumingMat
 - name: Julien Jakubowski
   photo: julien_jakubowski.jpg
   bio: |
     Je suis développeur, consultant et manager au <a href="https://chti.octo.com">bureau lillois d’OCTO Technology</a>. Mon kiff : aider des entreprises à livrer du logiciel dont elles sont fières. 
     Je suis co-auteur du livre <a href="http://www.octo.com/fr/publications/20-culture-code">Culture Code</a> sur la qualité logicielle. 
     Speaker à différentes conférences techniques et agiles, je suis également l’un des fondateurs et leaders du Ch’ti JUG, du meetup Software Craft Lille, et j’organise Agi'Lille (ex Agile Tour Lille) depuis 2009.
-- name: Thomas KUYPERS
-  photo: thomas-kuypers.jpg
-  bio: |
-    Je suis passionné par le Test et les méthodes Agile, et notamment par la collaboration entre Développeurs, Testeurs et Product Owners.
-
-    Test Lead chez Axa, je souhaite promouvoir l'Agilité avec Nord Agile.
-
-    Je participe pour la première fois à l'organisation de l'Agile Tour Lille.
 - name: Djamel Labani
   photo: djamel-labani.jpg
   bio: |
@@ -47,12 +22,6 @@
     De mes premières expériences en TPE jusqu'aux multinationales, je reste convaincu que nous pouvons toujours nous 
     améliorer et que le mot "erreur" n'est que le synonyme du mot "expérimentation".
     @djamellbn
-- name: Lucie Lesage
-  photo: lucie-lesage.jpg
-  bio:
-    Après une expérience dans le Marketing, J'ai d'abord choisi de revisiter le monde du produit pour mettre ma créativité au service de l'Agilité. Forte de plusieurs expériences en tant que Product Owner, j'aime être au plus proche du développement pour que les besoins des utilisateurs, l'expertise métier et les aspects techniques ne fassent qu'un.
-    J'aime mettre mon énergie et ma capacité d'écoute au profit de l'amélioration continue et de la recherche d'excellence.
-    Au delà, j'aime être dépaysée et je suis passionnée par les nouvelles rencontres.
 - name: Gilles MASY
   photo: gilles-masy.png
   bio:
