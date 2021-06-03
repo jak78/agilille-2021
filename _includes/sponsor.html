@@ -6,7 +6,7 @@
    <a href="{{ sponsor.url }}" target="_blank">
      <img src="{{ sponsor.logo | prepend: '/img/sponsors/' | prepend: site.baseurl }}" alt="{{sponsor.name}}" class="{{sponsor.imgclass}}"/>
    </a>
-   <p>{{sponsor.description}}</p>
+   <p class="sponsorWord">{{sponsor.description}}</p>
  </div>
  {% assign cut = forloop.length | divided_by:2 %}
  {% if forloop.index == cut %}
