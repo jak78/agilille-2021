@@ -3,25 +3,48 @@ gold:
     url: http://www.groupe-sii.fr/
     logo: SII.png
     imgclass: standard
+    description: "SII Lille, située à Villeneuve d’Ascq, vous accueille dans une ambiance chaleureuse, à l’image du Nord de la France. Implantée au cœur de la métropole Lilloise labellisée French Tech, l’agence veille à garantir un service alliant qualité et proximité à ses clients, ses collaborateurs et à ses partenaires locaux. 
+  L’agilité est une culture et nous aimons en parler ensemble. Nous piochons dans le meilleur des frameworks agiles pour définir un cadre adapté et optimum. Comprendre ce qu’est l’agilité, c’est bien. La vivre, c’est encore mieux. 
+  Véritables jardiniers de l’agilité, nos collaborateurs sèment les graines des pratiques pour diffuser cette culture et accompagner les équipes de développement, nos artisans du produit. Notre communauté YPO facilite l’échange des agilistes sur l’émergence de nouvelles pratiques, l’évolution des frameworks existants, la gamification, les Serious Games et la culture agile en générale. 
+Rendez-vous à l’Agi’lille le 18 Juin prochain pour découvrir nos sujets innovants comme notre talk SII @ Agi’lille : “Les contes de la crypte Agile : le Zombie Scrum” par Elise Faramia ou rejoignez-nous sur notre stand Agi’lille pour échanger et jouer avec nos experts sur des sujets variés mêlant agilité & expertise, qui gravitent autour de nos trois axes de développement : Digital, Data Management et Cloud."
   - name: Devoteam
     url: https://france.devoteam.com/
     logo: Devoteam.png
     imgclass: wide
+    description: "Venez rencontrer l’équipe Agile de Devoteam Nord lors de l’Agi’Lille.
+Nous serons ravis de pouvoir partager avec vous nos expériences de transformation digitale au travers de l’agilité avec nos coachs et scrum masters
+."
 silver:
   - name: ADEO
     url: http://www.adeo.com
     logo: ADEO.png
     imgclass: standard
+    description: "Pour la deuxième fois de suite, @Adeo soutient l’Agi’Lille et remercie les organisateurs pour avoir réussi à concrétiser l’événement cette année. 
+Venez découvrir l’expérience du Collectif Agile Leroy Merlin pour avoir un retour concret sur la transformation culturelle 🕺.
+"
   - name: sumit
     url: https://www.sumit.fr/
     logo: Sumit.png
     imgclass: standard
+    description: "Cette année encore, c'est avec grand plaisir et honneur que @Sumit s'implique dans la communauté locale Agile en soutenant l'Agi'Lille ! Humain, partage, agilité et proximité sont au coeur de nos valeurs et ancrés dans notre ADN, et c'est pourquoi nous sommes fiers de nous impliquer pour la 2ème année consécutive dans ce bel évènement Agile de la région des Hauts de France, une journée qui promet d'être riche et passionnante même dans une édition 100% remote ! Retrouvez-nous dans notre podcast dédié pour plus d'informations sur Sumit, ses valeurs & notre lien fort avec l'agilité et l'Agi'Lille !"
   - name: Kiabi
     url: https://www.kiabi.com/
     logo: kiabi.png
     imgclass: standard
+    description: "La communauté Agile Kiabi représente plus de 70 personnes (Product Owner, Scrum Master, Product Manager, Coachs....).
+Elle est au service de notre organisation IT qui est composée de 300 personnes et d'une trentaine d'équipes agiles orientées produit.   
+
+Chez Kiabi, nous ne considérons pas l'agilité comme une fin en soi. Plutôt comme un ensemble de moyens, à adapter à chaque équipe, afin de les aider à atteindre leurs objectifs.
+Nous accordons aussi de l'importance à la dimension humaine présente dans l'agilité, qui fait reflet à l'ADN et aux valeurs de Kiabi.
+
+Cette vision de l'agilité, nous la retrouvons depuis plusieurs années dans les conférences et ateliers proposés par l'Agi'Lille.
+C'est ce qui nous a amené à sponsoriser l'événement cette année et à proposer notre contribution en tant que speakers.
+"
   - name: OCTO
     url: https://www.octo.com/
     logo: octo.png
     imgclass: standard
+    description: "A OCTO Chti, nous avons à cœur de co-construire des solutions efficaces grâce à notre expérience du retail. Nous travaillons avec des clients garants de leurs changements et opérons avec un collectif pluridisciplinaire d’experts avant-gardistes, autonomes, proches et perturbateurs. Nous avons hâte de vous retrouver à l'événement, soit dans les couloirs de Workadventure soit lors des interventions de nos Octos.
+Gilles Masy et Romain Vailleux seront là le 18 juin pour vous présenter leurs sujets.
+"
   
