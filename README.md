@@ -2,24 +2,26 @@
 
 ## Pour tester ses modifs en local
 
-### Installation de Jekyll en local
+- Installer Docker.
+- Lancer un terminal
+- Se positionner dans le répertoire racine du repository 
+- Puis lancer la commande suivante :
 
-https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
 
-Si problème "nokogiri" sur Mac:
+    ./server.sh
 
-    bundle config build.nokogiri --use-system-libraries
-    bundle install
+Après quelques secondes (quelues minutes au 1er lancement) vous pourrez alors saisir l'URL suivante dans votre navigateur :
 
-### Lancement de Jekyll
+    http://localhost:4000
 
-    jekyll serve
+Et voilà, votre AgiLille.fr local !
 
 ## Workflow
 
-Pour publier, pusher sur `master`. La branche `gh-pages` n'est plus utilisée, c'est `master` qui est publiée directement.
+Pour publier, pousser vos modifications sur `master`:
 
     git checkout master
-    echo do something funny
-    git commit -a -m "Added: Something funny"
+    # make your changes
+    git add .
+    git commit -m "Added: Something funny"
     git push
