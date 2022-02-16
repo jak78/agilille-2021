@@ -1,4 +1,8 @@
-# Agilille
+# AgiLille
+
+Comment contribuer ?
+
+Le site est construit avec Jekyll et publié sur GitHub Pages.
 
 ## Pour tester ses modifs en local
 
@@ -10,7 +14,7 @@
 
     ./server.sh
 
-Après quelques secondes (quelues minutes au 1er lancement) vous pourrez alors saisir l'URL suivante dans votre navigateur :
+Après quelques secondes (quelques minutes au 1er lancement) vous pourrez alors saisir l'URL suivante dans votre navigateur :
 
     http://localhost:4000
 
