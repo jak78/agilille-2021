@@ -12,3 +12,6 @@ github_username:  jak78
 
 # Build settings
 markdown: kramdown
+
+sass:
+  style: compressed
