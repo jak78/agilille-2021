@@ -106,14 +106,16 @@ body {
     padding: 15px;
     color: white;
     transition: all .2s ease-in-out;
+
+    &:hover, &:focus {
+      text-decoration: none;
+      color: #383A56;
+      background: transparent;
+      border: 1px solid #383A56;
+    }
 }
 
-.custom-button:hover {
-    text-decoration: none;
-    color: #383A56;
-    background: transparent;
-    border: 1px solid #383A56;
-}
+
 
 .emoji-date {
     color: #383A56;
